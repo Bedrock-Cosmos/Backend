@@ -1,0 +1,135 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "SourceEntity": {
+        "Id": "B63A0803D3653643",
+        "Type": "namespace",
+        "TypeString": "namespace"
+      },
+      "SourceEntityKey": {
+        "Id": "B63A0803D3653643",
+        "Type": "namespace",
+        "TypeString": "namespace"
+      },
+      "Id": "0ed75751-d5a7-4331-b3ea-bb495566ce96",
+      "Type": "bundle",
+      "AlternateIds": [
+        {
+          "Type": "FriendlyId",
+          "Value": "2594d2f4-41d4-401d-bc76-f8e3bc077ac8"
+        }
+      ],
+      "FriendlyId": "2594d2f4-41d4-401d-bc76-f8e3bc077ac8",
+      "Title": {
+        "NEUTRAL": "2011 Unused Cape #1",
+        "neutral": "2011 Unused Cape #1"
+      },
+      "Description": {
+        "NEUTRAL": "§",
+        "neutral": "§"
+      },
+      "Keywords": {
+        "NEUTRAL": {
+          "Values": [
+            "Cape"
+          ]
+        },
+        "neutral": {
+          "Values": [
+            "Cape"
+          ]
+        }
+      },
+      "ContentType": "PersonaDurable",
+      "CreatorEntityKey": {
+        "Id": "301F442C3B63DC20",
+        "Type": "master_player_account",
+        "TypeString": "master_player_account"
+      },
+      "CreatorEntity": {
+        "Id": "301F442C3B63DC20",
+        "Type": "master_player_account",
+        "TypeString": "master_player_account"
+      },
+      "IsStackable": false,
+      "Platforms": [
+        "android.amazonappstore",
+        "android.googleplay",
+        "b.store",
+        "ios.store",
+        "nx.store",
+        "oculus.store.gearvr",
+        "oculus.store.rift",
+        "uwp.store",
+        "uwp.store.mobile",
+        "xboxone.store",
+        "title.bedrockvanilla",
+        "title.earth"
+      ],
+      "Tags": [
+        "c2e77158-a0be-4c61-9e4c-13b0f0158680",
+        "7ed341e7-6bd3-44e2-8899-7ab99fad34e8",
+        "tag.cape",
+        "1P"
+      ],
+      "CreationDate": "2020-01-01T15:00:00Z",
+      "LastModifiedDate": "2020-01-01T15:00:00Z",
+      "StartDate": "2020-01-01T15:00:00Z",
+      "Contents": [
+        {
+          "Id": "2a3afcad-c83d-429b-b607-707237632521",
+          "Url": "https://github.com/zoroark19/zoroark19.github.io/blob/main/Main/Packs/Persona/1Mil_cape2.zip?raw=true",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Tags": [],
+          "Type": "personabinary"
+        }
+      ],
+      "Images": [
+        {
+          "Id": "417fd286-f45b-47c6-89b7-ffe9e75aa827",
+          "Tag": "Thumbnail",
+          "Type": "Thumbnail",
+          "Url": "https://github.com/zoroark19/zoroark19.github.io/blob/main/Main/Thumbnails/Persona/1Mil_cape.png?raw=true"
+        }
+      ],
+      "ItemReferences": [
+        {
+          "Id": "248e5208-e09f-4546-ae86-6c5e22d86cc9",
+          "Amount": 1
+        }
+      ],
+      "Rating": {
+        "Average": 5,
+        "TotalCount": 5,
+        "Count5Star": 5,
+        "Count4Star": 0,
+        "Count3Star": 0,
+        "Count2Star": 0,
+        "Count1Star": 0
+      },
+      "DeepLinks": [],
+      "DisplayProperties": {
+        "creatorName": "BionicBen",
+        "offerId": "9103fc0c-3d7d-4156-942f-cf3ac0f77e8b",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "f2abaf66-2212-4ed7-92f6-35d9e4d1abdc",
+            "version": "1.0.0"
+          }
+        ],
+        "publicChangelog": {
+          "neutral": ""
+        },
+        "pieceType": "persona_capes",
+        "rarity": "epic"
+      },
+      "ETag": "\"780253d5-0000-0800-0000-688285360000\""
+    }
+  }
+}

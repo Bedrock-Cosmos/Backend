@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "content": [
+    { "key": "eJyfLRHevAj6MNKzfzIpD0sHUHyfhK3Q", "path": "1Mil.meta.json" },
+    { "key": "wMLjaVlhRLHtkoOHJmjDPIqeq1vdtB8U", "path": "1Mil.png" },
+    { "path": "manifest.json" },
+    { "key": "HDI0bAyunAI2B0xF41F5AzaYwH4kzhYp", "path": "signatures.json" }
+  ]
+}
