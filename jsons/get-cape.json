@@ -80,7 +80,7 @@
       "Contents": [
         {
           "Id": "38edf993-0ece-497f-903e-63211f7ee44b",
-          "Url": "https://github.com/BionicAlt/testing-repo/blob/main/Persona_BrandNewCape.zip?raw=true",
+          "Url": "https://github.com/zoroark19/zoroark19.github.io/blob/main/Main/Packs/Persona/1Mil_cape.zip?raw=true",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Tags": [],
@@ -92,7 +92,7 @@
           "Id": "a4cd0e71-dd09-4b86-ba00-edf84c117767",
           "Tag": "Thumbnail",
           "Type": "Thumbnail",
-          "Url": "https://github.com/zoroark19/zoroark19.github.io/blob/main/capes/customcape1_Thumbnail_0.png?raw=true"
+          "Url": "https://github.com/zoroark19/zoroark19.github.io/blob/main/Main/Thumbnails/Persona/1Mil_cape.png?raw=true"
         }
       ],
       "ItemReferences": [
