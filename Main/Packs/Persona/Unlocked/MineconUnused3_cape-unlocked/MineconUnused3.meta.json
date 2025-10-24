@@ -1,0 +1,10 @@
+{
+  "piece_id": "d5f8db13-55ca-4047-beb3-d0b8f0174220",
+  "piece_name": "Minecon Unused Cape #3",
+  "piece_type": "persona_capes",
+  "texture_sources": [
+    {
+      "texture": "MineconUnused3.png"
+    }
+  ]
+}
