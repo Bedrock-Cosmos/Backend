@@ -356,7 +356,7 @@
                   "behaviors": 0,
                   "addOns": 0
                 },
-                "flags": ["New"],
+                "flags": [],
                 "pieceType": "persona_capes",
                 "rarity": "legendary",
                 "ownership": "Purchased",
@@ -1336,25 +1336,17 @@
               {
                 "id": "91b8c70a-50cd-4b48-a0fa-ddbf160d2045",
                 "contentType": "PersonaDurable",
-                "title": "1 Millionth Cape",
+                "title": "Millionth Sale Cape",
                 "description": "§",
                 "creatorName": "Minecraft",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
-                  "url": "https://github.com/zoroark19/zoroark19.github.io/blob/main/Main/Thumbnails/Persona/1Mil_cape.png?raw=true",
-                  "urlWithResolution": "https://github.com/zoroark19/zoroark19.github.io/blob/main/Main/Thumbnails/Persona/1Mil_cape.png?raw=true"
+                  "url": "https://github.com/zoroark19/zoroark19.github.io/blob/main/Main/Thumbnails/Persona/MillionthSale_cape.png?raw=true",
+                  "urlWithResolution": "https://github.com/zoroark19/zoroark19.github.io/blob/main/Main/Thumbnails/Persona/MillionthSale_cape.png?raw=true"
                 },
                 "price": {
                   "listPrice": 0,
-                  "saleInfo": {
-                    "salePrice": 0,
-                    "storeId": "91b8c70a-50cd-4b48-a0fa-ddbf160d2045",
-                    "startDate": "2025-10-24T17:00:00Z",
-                    "expirationDate": "2025-10-25T17:00:00Z",
-                    "discount": 0.33,
-                    "category": "RegularSale"
-                  },
                   "realmsInfo": {
                     "inRealmsPlus": false
                   },
@@ -1368,7 +1360,7 @@
                   "displayType": "store_layout.store_data_driven_screen",
                   "navigateInPlace": false
                 },
-                "creatorPage": "CreatorPage_master_player_account!301F442C3B63DC20",
+                "creatorPage": "CreatorPage_master_player_account!CustomCosmetics",
                 "statistics": {
                   "skins": 0,
                   "worlds": 0,
@@ -1376,7 +1368,7 @@
                   "behaviors": 0,
                   "addOns": 0
                 },
-                "flags": ["New"],
+                "flags": [],
                 "pieceType": "persona_capes",
                 "rarity": "epic",
                 "ownership": "Purchased",
@@ -1393,236 +1385,20 @@
                   {
                     "tag": "Thumbnail",
                     "type": "Thumbnail",
-                    "url": "https://github.com/zoroark19/zoroark19.github.io/blob/main/Main/Thumbnails/Persona/1Mil_cape.png?raw=true",
-                    "urlWithResolution": "https://github.com/zoroark19/zoroark19.github.io/blob/main/Main/Thumbnails/Persona/1Mil_cape.png?raw=true"
+                    "url": "https://github.com/zoroark19/zoroark19.github.io/blob/main/Main/Thumbnails/Persona/MillionthSale_cape.png?raw=true",
+                    "urlWithResolution": "https://github.com/zoroark19/zoroark19.github.io/blob/main/Main/Thumbnails/Persona/MillionthSale_cape.png?raw=true"
                   }
                 ],
                 "contents": [],
                 "platformRestricted": false,
                 "iconOverlay": [],
                 "descriptionLineByLine": [],
-                "startDate": "2025-09-27T17:00:00Z",
+                "startDate": "2020-01-01T12:00:00Z",
                 "subscription": [],
                 "thumbnailPreviewOnly": false,
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
-                    "navigateInPlace": false
-                  }
-                }
-              },
-              {
-                "id": "0ed75751-d5a7-4331-b3ea-bb495566ce96",
-                "contentType": "PersonaDurable",
-                "title": "2011 Unused Cape #1",
-                "description": "§",
-                "creatorName": "BionicBen",
-                "thumbnail": {
-                  "tag": "Thumbnail",
-                  "type": "Thumbnail",
-                  "url": "https://github.com/zoroark19/zoroark19.github.io/blob/main/Main/Thumbnails/Persona/2011UnusedCape1_cape.png?raw=true",
-                  "urlWithResolution": "https://github.com/zoroark19/zoroark19.github.io/blob/main/Main/Thumbnails/Persona/2011UnusedCape1_cape.png?raw=true"
-                },
-                "price": {
-                  "listPrice": 0,
-                  "realmsInfo": {
-                    "inRealmsPlus": false
-                  },
-                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
-                  "virtualCurrencyType": "Minecoin"
-                },
-                "linksTo": "",
-                "linksToInfo": {
-                  "linksTo": "",
-                  "linkType": "pageId",
-                  "displayType": "store_layout.store_data_driven_screen",
-                  "navigateInPlace": false
-                },
-                "creatorPage": "CreatorPage_master_player_account!BionicBen1218",
-                "statistics": {
-                  "skins": 0,
-                  "worlds": 0,
-                  "textures": 0,
-                  "behaviors": 0,
-                  "addOns": 0
-                },
-                "flags": [],
-                "pieceType": "persona_capes",
-                "rarity": "common",
-                "ownership": "Purchased",
-                "packType": "Persona",
-                "packIdentity": [
-                  {
-                    "type": "persona_piece",
-                    "uuid": "f2abaf66-2212-4ed7-92f6-35d9e4d1abdc",
-                    "version": "1.0.0"
-                  }
-                ],
-                "tags": [],
-                "images": [
-                  {
-                    "tag": "Thumbnail",
-                    "type": "Thumbnail",
-                    "url": "https://github.com/zoroark19/zoroark19.github.io/blob/main/Main/Thumbnails/Persona/2011UnusedCape1_cape.png?raw=true",
-                    "urlWithResolution": "https://github.com/zoroark19/zoroark19.github.io/blob/main/Main/Thumbnails/Persona/2011UnusedCape1_cape.png?raw=true"
-                  }
-                ],
-                "contents": [],
-                "platformRestricted": false,
-                "iconOverlay": [],
-                "descriptionLineByLine": [],
-                "startDate": "2025-09-27T17:00:00Z",
-                "subscription": [],
-                "thumbnailPreviewOnly": false,
-                "namedLinksToInfoMap": {
-                  "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!BionicBen1218",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
-                    "navigateInPlace": false
-                  }
-                }
-              },
-              {
-                "id": "6c05c0a3-56f8-47bd-b2f3-2d7fe36771fd",
-                "contentType": "PersonaDurable",
-                "title": "2011 Unused Cape #2",
-                "description": "§",
-                "creatorName": "BionicBen",
-                "thumbnail": {
-                  "tag": "Thumbnail",
-                  "type": "Thumbnail",
-                  "url": "https://github.com/zoroark19/zoroark19.github.io/blob/main/Main/Thumbnails/Persona/2011UnusedCape2_cape.png?raw=true",
-                  "urlWithResolution": "https://github.com/zoroark19/zoroark19.github.io/blob/main/Main/Thumbnails/Persona/2011UnusedCape2_cape.png?raw=true"
-                },
-                "price": {
-                  "listPrice": 0,
-                  "realmsInfo": {
-                    "inRealmsPlus": false
-                  },
-                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
-                  "virtualCurrencyType": "Minecoin"
-                },
-                "linksTo": "",
-                "linksToInfo": {
-                  "linksTo": "",
-                  "linkType": "pageId",
-                  "displayType": "store_layout.store_data_driven_screen",
-                  "navigateInPlace": false
-                },
-                "creatorPage": "CreatorPage_master_player_account!BionicBen1218",
-                "statistics": {
-                  "skins": 0,
-                  "worlds": 0,
-                  "textures": 0,
-                  "behaviors": 0,
-                  "addOns": 0
-                },
-                "flags": [],
-                "pieceType": "persona_capes",
-                "rarity": "common",
-                "ownership": "Purchased",
-                "packType": "Persona",
-                "packIdentity": [
-                  {
-                    "type": "persona_piece",
-                    "uuid": "3a025630-9518-43e5-8891-6483baa4080f",
-                    "version": "1.0.0"
-                  }
-                ],
-                "tags": [],
-                "images": [
-                  {
-                    "tag": "Thumbnail",
-                    "type": "Thumbnail",
-                    "url": "https://github.com/zoroark19/zoroark19.github.io/blob/main/Main/Thumbnails/Persona/2011UnusedCape2_cape.png?raw=true",
-                    "urlWithResolution": "https://github.com/zoroark19/zoroark19.github.io/blob/main/Main/Thumbnails/Persona/2011UnusedCape2_cape.png?raw=true"
-                  }
-                ],
-                "contents": [],
-                "platformRestricted": false,
-                "iconOverlay": [],
-                "descriptionLineByLine": [],
-                "startDate": "2025-09-27T17:00:00Z",
-                "subscription": [],
-                "thumbnailPreviewOnly": false,
-                "namedLinksToInfoMap": {
-                  "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!BionicBen1218",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
-                    "navigateInPlace": false
-                  }
-                }
-              },
-              {
-                "id": "ce769de4-4af0-40a0-90da-818053064716",
-                "contentType": "PersonaDurable",
-                "title": "2011 Unused Cape #3",
-                "description": "§",
-                "creatorName": "BionicBen",
-                "thumbnail": {
-                  "tag": "Thumbnail",
-                  "type": "Thumbnail",
-                  "url": "https://github.com/zoroark19/zoroark19.github.io/blob/main/Main/Thumbnails/Persona/2011UnusedCape3_cape.png?raw=true",
-                  "urlWithResolution": "https://github.com/zoroark19/zoroark19.github.io/blob/main/Main/Thumbnails/Persona/2011UnusedCape3_cape.png?raw=true"
-                },
-                "price": {
-                  "listPrice": 0,
-                  "realmsInfo": {
-                    "inRealmsPlus": false
-                  },
-                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
-                  "virtualCurrencyType": "Minecoin"
-                },
-                "linksTo": "",
-                "linksToInfo": {
-                  "linksTo": "",
-                  "linkType": "pageId",
-                  "displayType": "store_layout.store_data_driven_screen",
-                  "navigateInPlace": false
-                },
-                "creatorPage": "CreatorPage_master_player_account!BionicBen1218",
-                "statistics": {
-                  "skins": 0,
-                  "worlds": 0,
-                  "textures": 0,
-                  "behaviors": 0,
-                  "addOns": 0
-                },
-                "flags": [],
-                "pieceType": "persona_capes",
-                "rarity": "common",
-                "ownership": "Purchased",
-                "packType": "Persona",
-                "packIdentity": [
-                  {
-                    "type": "persona_piece",
-                    "uuid": "937108af-7807-46de-8179-f5806d85a912",
-                    "version": "1.0.0"
-                  }
-                ],
-                "tags": [],
-                "images": [
-                  {
-                    "tag": "Thumbnail",
-                    "type": "Thumbnail",
-                    "url": "https://github.com/zoroark19/zoroark19.github.io/blob/main/Main/Thumbnails/Persona/2011UnusedCape3_cape.png?raw=true",
-                    "urlWithResolution": "https://github.com/zoroark19/zoroark19.github.io/blob/main/Main/Thumbnails/Persona/2011UnusedCape3_cape.png?raw=true"
-                  }
-                ],
-                "contents": [],
-                "platformRestricted": false,
-                "iconOverlay": [],
-                "descriptionLineByLine": [],
-                "startDate": "2025-09-27T17:00:00Z",
-                "subscription": [],
-                "thumbnailPreviewOnly": false,
-                "namedLinksToInfoMap": {
-                  "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!BionicBen1218",
+                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
                     "linkType": "external",
                     "displayType": "store_layout.character_creator_screen",
                     "navigateInPlace": false
@@ -1632,7 +1408,7 @@
               {
                 "id": "e847fc66-b988-4065-bdc9-fa8fd17457b2",
                 "contentType": "PersonaDurable",
-                "title": "MineCon 2011",
+                "title": "Minecon 2011",
                 "description": "§",
                 "creatorName": "Minecraft",
                 "thumbnail": {
@@ -1689,7 +1465,7 @@
                 "platformRestricted": false,
                 "iconOverlay": [],
                 "descriptionLineByLine": [],
-                "startDate": "2025-09-27T17:00:00Z",
+                "startDate": "2020-01-01T12:00:00Z",
                 "subscription": [],
                 "thumbnailPreviewOnly": false,
                 "namedLinksToInfoMap": {
@@ -1704,7 +1480,7 @@
               {
                 "id": "6d520e39-e9d3-4d89-9b5c-01a2ebfd527b",
                 "contentType": "PersonaDurable",
-                "title": "MineCon 2012",
+                "title": "Minecon 2012",
                 "description": "§",
                 "creatorName": "Minecraft",
                 "thumbnail": {
@@ -1761,7 +1537,7 @@
                 "platformRestricted": false,
                 "iconOverlay": [],
                 "descriptionLineByLine": [],
-                "startDate": "2025-09-27T17:00:00Z",
+                "startDate": "2020-01-01T12:00:00Z",
                 "subscription": [],
                 "thumbnailPreviewOnly": false,
                 "namedLinksToInfoMap": {
@@ -1776,7 +1552,7 @@
               {
                 "id": "92fcae65-45fa-44e4-b39d-e586f0e9e710",
                 "contentType": "PersonaDurable",
-                "title": "MineCon 2013",
+                "title": "Minecon 2013",
                 "description": "§",
                 "creatorName": "Minecraft",
                 "thumbnail": {
@@ -1833,7 +1609,7 @@
                 "platformRestricted": false,
                 "iconOverlay": [],
                 "descriptionLineByLine": [],
-                "startDate": "2025-09-27T17:00:00Z",
+                "startDate": "2020-01-01T12:00:00Z",
                 "subscription": [],
                 "thumbnailPreviewOnly": false,
                 "namedLinksToInfoMap": {
@@ -1848,7 +1624,7 @@
               {
                 "id": "aafefeee-7cca-4f19-9508-b949d1d26561",
                 "contentType": "PersonaDurable",
-                "title": "MineCon 2015",
+                "title": "Minecon 2015",
                 "description": "§",
                 "creatorName": "Minecraft",
                 "thumbnail": {
@@ -1905,7 +1681,7 @@
                 "platformRestricted": false,
                 "iconOverlay": [],
                 "descriptionLineByLine": [],
-                "startDate": "2025-09-27T17:00:00Z",
+                "startDate": "2020-01-01T12:00:00Z",
                 "subscription": [],
                 "thumbnailPreviewOnly": false,
                 "namedLinksToInfoMap": {
@@ -1920,7 +1696,7 @@
               {
                 "id": "5a71fd20-dc29-448e-aa14-5bbca08f37bb",
                 "contentType": "PersonaDurable",
-                "title": "MineCon 2016",
+                "title": "Minecon 2016",
                 "description": "§",
                 "creatorName": "Minecraft",
                 "thumbnail": {
@@ -1960,7 +1736,7 @@
                 "packIdentity": [
                   {
                     "type": "persona_piece",
-                    "uuid": "bb3f8cd6-9a5b-47ad-b629-9352e140d3eb",
+                    "uuid": "61e8f038-e067-43d9-bd6e-0f8fa3bdf13b",
                     "version": "1.0.0"
                   }
                 ],
@@ -1977,7 +1753,7 @@
                 "platformRestricted": false,
                 "iconOverlay": [],
                 "descriptionLineByLine": [],
-                "startDate": "2025-09-27T17:00:00Z",
+                "startDate": "2020-01-01T12:00:00Z",
                 "subscription": [],
                 "thumbnailPreviewOnly": false,
                 "namedLinksToInfoMap": {
@@ -1988,9 +1764,225 @@
                     "navigateInPlace": false
                   }
                 }
+              },
+			  {
+                "id": "0ed75751-d5a7-4331-b3ea-bb495566ce96",
+                "contentType": "PersonaDurable",
+                "title": "Minecon Unused Cape #1",
+                "description": "§",
+                "creatorName": "Minecraft",
+                "thumbnail": {
+                  "tag": "Thumbnail",
+                  "type": "Thumbnail",
+                  "url": "https://github.com/zoroark19/zoroark19.github.io/blob/main/Main/Thumbnails/Persona/MineconUnused1_cape.png?raw=true",
+                  "urlWithResolution": "https://github.com/zoroark19/zoroark19.github.io/blob/main/Main/Thumbnails/Persona/MineconUnused1_cape.png.png?raw=true"
+                },
+                "price": {
+                  "listPrice": 0,
+                  "realmsInfo": {
+                    "inRealmsPlus": false
+                  },
+                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "virtualCurrencyType": "Minecoin"
+                },
+                "linksTo": "",
+                "linksToInfo": {
+                  "linksTo": "",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.store_data_driven_screen",
+                  "navigateInPlace": false
+                },
+                "creatorPage": "CreatorPage_master_player_account!CustomCosmetics",
+                "statistics": {
+                  "skins": 0,
+                  "worlds": 0,
+                  "textures": 0,
+                  "behaviors": 0,
+                  "addOns": 0
+                },
+                "flags": [],
+                "pieceType": "persona_capes",
+                "rarity": "common",
+                "ownership": "Purchased",
+                "packType": "Persona",
+                "packIdentity": [
+                  {
+                    "type": "persona_piece",
+                    "uuid": "f2abaf66-2212-4ed7-92f6-35d9e4d1abdc",
+                    "version": "1.0.0"
+                  }
+                ],
+                "tags": [],
+                "images": [
+                  {
+                    "tag": "Thumbnail",
+                    "type": "Thumbnail",
+                    "url": "https://github.com/zoroark19/zoroark19.github.io/blob/main/Main/Thumbnails/Persona/MineconUnused1_cape.png?raw=true",
+                    "urlWithResolution": "https://github.com/zoroark19/zoroark19.github.io/blob/main/Main/Thumbnails/Persona/MineconUnused1_cape.png?raw=true"
+                  }
+                ],
+                "contents": [],
+                "platformRestricted": false,
+                "iconOverlay": [],
+                "descriptionLineByLine": [],
+                "startDate": "2020-01-01T12:00:00Z",
+                "subscription": [],
+                "thumbnailPreviewOnly": false,
+                "namedLinksToInfoMap": {
+                  "dr.persona_creator_page": {
+                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
+                    "linkType": "external",
+                    "displayType": "store_layout.character_creator_screen",
+                    "navigateInPlace": false
+                  }
+                }
+              },
+              {
+                "id": "6c05c0a3-56f8-47bd-b2f3-2d7fe36771fd",
+                "contentType": "PersonaDurable",
+                "title": "Minecon Unused Cape #2",
+                "description": "§",
+                "creatorName": "Minecraft",
+                "thumbnail": {
+                  "tag": "Thumbnail",
+                  "type": "Thumbnail",
+                  "url": "https://github.com/zoroark19/zoroark19.github.io/blob/main/Main/Thumbnails/Persona/MineconUnused2_cape.png?raw=true",
+                  "urlWithResolution": "https://github.com/zoroark19/zoroark19.github.io/blob/main/Main/Thumbnails/Persona/MineconUnused2_cape.png?raw=true"
+                },
+                "price": {
+                  "listPrice": 0,
+                  "realmsInfo": {
+                    "inRealmsPlus": false
+                  },
+                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "virtualCurrencyType": "Minecoin"
+                },
+                "linksTo": "",
+                "linksToInfo": {
+                  "linksTo": "",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.store_data_driven_screen",
+                  "navigateInPlace": false
+                },
+                "creatorPage": "CreatorPage_master_player_account!CustomCosmetics",
+                "statistics": {
+                  "skins": 0,
+                  "worlds": 0,
+                  "textures": 0,
+                  "behaviors": 0,
+                  "addOns": 0
+                },
+                "flags": [],
+                "pieceType": "persona_capes",
+                "rarity": "common",
+                "ownership": "Purchased",
+                "packType": "Persona",
+                "packIdentity": [
+                  {
+                    "type": "persona_piece",
+                    "uuid": "3a025630-9518-43e5-8891-6483baa4080f",
+                    "version": "1.0.0"
+                  }
+                ],
+                "tags": [],
+                "images": [
+                  {
+                    "tag": "Thumbnail",
+                    "type": "Thumbnail",
+                    "url": "https://github.com/zoroark19/zoroark19.github.io/blob/main/Main/Thumbnails/Persona/MineconUnused2_cape.png?raw=true",
+                    "urlWithResolution": "https://github.com/zoroark19/zoroark19.github.io/blob/main/Main/Thumbnails/Persona/MineconUnused2_cape.png?raw=true"
+                  }
+                ],
+                "contents": [],
+                "platformRestricted": false,
+                "iconOverlay": [],
+                "descriptionLineByLine": [],
+                "startDate": "2020-01-01T12:00:00Z",
+                "subscription": [],
+                "thumbnailPreviewOnly": false,
+                "namedLinksToInfoMap": {
+                  "dr.persona_creator_page": {
+                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
+                    "linkType": "external",
+                    "displayType": "store_layout.character_creator_screen",
+                    "navigateInPlace": false
+                  }
+                }
+              },
+              {
+                "id": "ce769de4-4af0-40a0-90da-818053064716",
+                "contentType": "PersonaDurable",
+                "title": "Minecon Unused Cape #3",
+                "description": "§",
+                "creatorName": "Minecraft",
+                "thumbnail": {
+                  "tag": "Thumbnail",
+                  "type": "Thumbnail",
+                  "url": "https://github.com/zoroark19/zoroark19.github.io/blob/main/Main/Thumbnails/Persona/MineconUnused3_cape.png?raw=true",
+                  "urlWithResolution": "https://github.com/zoroark19/zoroark19.github.io/blob/main/Main/Thumbnails/Persona/MineconUnused3_cape.png?raw=true"
+                },
+                "price": {
+                  "listPrice": 0,
+                  "realmsInfo": {
+                    "inRealmsPlus": false
+                  },
+                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "virtualCurrencyType": "Minecoin"
+                },
+                "linksTo": "",
+                "linksToInfo": {
+                  "linksTo": "",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.store_data_driven_screen",
+                  "navigateInPlace": false
+                },
+                "creatorPage": "CreatorPage_master_player_account!CustomCosmetics",
+                "statistics": {
+                  "skins": 0,
+                  "worlds": 0,
+                  "textures": 0,
+                  "behaviors": 0,
+                  "addOns": 0
+                },
+                "flags": [],
+                "pieceType": "persona_capes",
+                "rarity": "common",
+                "ownership": "Purchased",
+                "packType": "Persona",
+                "packIdentity": [
+                  {
+                    "type": "persona_piece",
+                    "uuid": "937108af-7807-46de-8179-f5806d85a912",
+                    "version": "1.0.0"
+                  }
+                ],
+                "tags": [],
+                "images": [
+                  {
+                    "tag": "Thumbnail",
+                    "type": "Thumbnail",
+                    "url": "https://github.com/zoroark19/zoroark19.github.io/blob/main/Main/Thumbnails/Persona/MineconUnused3_cape.png?raw=true",
+                    "urlWithResolution": "https://github.com/zoroark19/zoroark19.github.io/blob/main/Main/Thumbnails/Persona/MineconUnused3_cape.png?raw=true"
+                  }
+                ],
+                "contents": [],
+                "platformRestricted": false,
+                "iconOverlay": [],
+                "descriptionLineByLine": [],
+                "startDate": "2020-01-01T12:00:00Z",
+                "subscription": [],
+                "thumbnailPreviewOnly": false,
+                "namedLinksToInfoMap": {
+                  "dr.persona_creator_page": {
+                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
+                    "linkType": "external",
+                    "displayType": "store_layout.character_creator_screen",
+                    "navigateInPlace": false
+                  }
+                }
               }
             ],
-            "totalItems": 30,
+            "totalItems": 48,
             "linksTo": "MultiItemPage_Inventory",
             "linksToInfo": {
               "linksTo": "MultiItemPage_Inventory",
@@ -2000,7 +1992,7 @@
             },
             "customStoreRowConfiguration": {
               "seeAllVisible": false,
-              "maxOffers": 30,
+              "maxOffers": 48,
               "arrowsVisible": false,
               "visibleOffersPerRow": 0
             },
