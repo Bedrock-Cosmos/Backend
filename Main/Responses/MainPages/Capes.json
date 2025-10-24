@@ -1427,14 +1427,6 @@
                 },
                 "price": {
                   "listPrice": 0,
-                  "saleInfo": {
-                    "salePrice": 0,
-                    "storeId": "0ed75751-d5a7-4331-b3ea-bb495566ce96",
-                    "startDate": "2025-10-23T17:00:00Z",
-                    "expirationDate": "2025-10-24T17:00:00Z",
-                    "discount": 0.33,
-                    "category": "RegularSale"
-                  },
                   "realmsInfo": {
                     "inRealmsPlus": false
                   },
@@ -1456,9 +1448,9 @@
                   "behaviors": 0,
                   "addOns": 0
                 },
-                "flags": ["New"],
+                "flags": [],
                 "pieceType": "persona_capes",
-                "rarity": "epic",
+                "rarity": "common",
                 "ownership": "Purchased",
                 "packType": "Persona",
                 "packIdentity": [
@@ -1507,14 +1499,6 @@
                 },
                 "price": {
                   "listPrice": 0,
-                  "saleInfo": {
-                    "salePrice": 0,
-                    "storeId": "6c05c0a3-56f8-47bd-b2f3-2d7fe36771fd",
-                    "startDate": "2025-10-23T17:00:00Z",
-                    "expirationDate": "2025-10-24T17:00:00Z",
-                    "discount": 0.33,
-                    "category": "RegularSale"
-                  },
                   "realmsInfo": {
                     "inRealmsPlus": false
                   },
@@ -1536,9 +1520,9 @@
                   "behaviors": 0,
                   "addOns": 0
                 },
-                "flags": ["New"],
+                "flags": [],
                 "pieceType": "persona_capes",
-                "rarity": "epic",
+                "rarity": "common",
                 "ownership": "Purchased",
                 "packType": "Persona",
                 "packIdentity": [
@@ -1587,14 +1571,6 @@
                 },
                 "price": {
                   "listPrice": 0,
-                  "saleInfo": {
-                    "salePrice": 0,
-                    "storeId": "ce769de4-4af0-40a0-90da-818053064716",
-                    "startDate": "2025-10-23T17:00:00Z",
-                    "expirationDate": "2025-10-24T17:00:00Z",
-                    "discount": 0.33,
-                    "category": "RegularSale"
-                  },
                   "realmsInfo": {
                     "inRealmsPlus": false
                   },
@@ -1616,9 +1592,9 @@
                   "behaviors": 0,
                   "addOns": 0
                 },
-                "flags": ["New"],
+                "flags": [],
                 "pieceType": "persona_capes",
-                "rarity": "epic",
+                "rarity": "common",
                 "ownership": "Purchased",
                 "packType": "Persona",
                 "packIdentity": [
@@ -1667,14 +1643,6 @@
                 },
                 "price": {
                   "listPrice": 0,
-                  "saleInfo": {
-                    "salePrice": 0,
-                    "storeId": "e847fc66-b988-4065-bdc9-fa8fd17457b2",
-                    "startDate": "2025-10-23T17:00:00Z",
-                    "expirationDate": "2025-10-24T17:00:00Z",
-                    "discount": 0.33,
-                    "category": "RegularSale"
-                  },
                   "realmsInfo": {
                     "inRealmsPlus": false
                   },
@@ -1696,7 +1664,7 @@
                   "behaviors": 0,
                   "addOns": 0
                 },
-                "flags": ["New"],
+                "flags": [],
                 "pieceType": "persona_capes",
                 "rarity": "legendary",
                 "ownership": "Purchased",
@@ -1726,13 +1694,12 @@
                 "thumbnailPreviewOnly": false,
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!BionicBen1218",
+                    "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
                     "linkType": "external",
                     "displayType": "store_layout.character_creator_screen",
                     "navigateInPlace": false
                   }
-                },
-                "achievementRewardType": "vanilla_achievement"
+                }
               }
             ],
             "totalItems": 24,
