@@ -1,10 +1,10 @@
 {
-  "piece_id": "2b5934c7-27a0-401a-99dc-7aea7b751d1a",
-  "piece_name": "2011 Unused Cape #1",
+  "piece_id": "17fbee9b-c1f0-4cb3-af26-2ca83391889f",
+  "piece_name": "2011 Unused Cape #3",
   "piece_type": "persona_capes",
   "texture_sources": [
     {
-      "texture": "2011UnusedCape1.png"
+      "texture": "2011UnusedCape3.png"
     }
   ]
 }
