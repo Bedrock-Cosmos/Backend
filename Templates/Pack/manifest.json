@@ -3,8 +3,8 @@
   "header": {
     "description": "pack.description",
     "name": "pack.name",
-    "uuid": "2ND-MAIN-UUID",
+    "uuid": "UUID-USED-IN-PACK-MANIFEST",
     "version": [1, 0, 0]
   },
-  "modules": [{ "type": "persona_piece", "uuid": "ANY-UUID", "version": [1, 0, 0] }]
+  "modules": [{ "type": "persona_piece", "uuid": "UUID-USED-IN-META-JSON", "version": [1, 0, 0] }]
 }

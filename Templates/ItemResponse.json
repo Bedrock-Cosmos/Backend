@@ -6,7 +6,7 @@
       "Id": "URL-UUID",
       "Contents": [
         {
-          "Id": "ANY-UUID",
+          "Id": "URL-UUID",
           "Url": "ZIP-DOWNLOAD-LINK",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",

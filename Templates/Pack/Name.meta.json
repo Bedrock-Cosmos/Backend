@@ -1,5 +1,5 @@
 {
-  "piece_id": "ANY-UUID",
+  "piece_id": "UUID-USED-IN-META-JSON",
   "piece_name": "NAME",
   "piece_type": "persona_capes",
   "texture_sources": [
