@@ -1,0 +1,248 @@
+{
+  "result": {
+    "id": "46d89946-5615-4cd2-b925-389e44813cdd",
+    "pageId": "DressingRoom_Capes",
+    "addToRecentlyViewed": false,
+    "pageName": "Home L1",
+    "rows": [
+      {
+        "controlId": "Layout",
+        "components": [
+          {
+            "type": "personaOfferInteractionComp",
+            "$type": "PersonaOfferInteractionComponent"
+          },
+          {
+            "type": "appearanceInteractionComp",
+            "$type": "AppearanceInteractionComponent"
+          },
+          {
+            "type": "openColorPickerComp",
+            "$type": "OpenColorPickerComponent"
+          },
+          {
+            "type": "openExpandedAppearanceViewComp",
+            "$type": "OpenExpandedAppearanceViewComponent"
+          },
+          {
+            "linksToInfo": {
+              "linksTo": "MultiItemPage_DressingRoomCoinScreen",
+              "linkType": "pageId",
+              "displayType": "store_layout.character_creator_screen",
+              "screenTitle": {
+                "value": "dr.header.minecoin.screen",
+                "style": {
+                  "highlightColor": [],
+                  "alignment": "Left",
+                  "textColor": [],
+                  "font": "MinecraftTen",
+                  "showBackground": false,
+                  "showOutline": false,
+                  "indent": 0.0,
+                  "buttonWidth": 0.0,
+                  "color": [],
+                  "offerControlIdType": "None"
+                },
+                "replacements": []
+              },
+              "navigateInPlace": false
+            },
+            "isVisible": true,
+            "type": "topBarMinecoinComp",
+            "$type": "TopBarMinecoinComponent"
+          },
+          {
+            "linksToInfo": {
+              "linksTo": "Search_DressingRoomSearchHome",
+              "linkType": "pageId",
+              "displayType": "store_layout.character_creator_screen",
+              "screenTitle": {
+                "value": "dr.header.search.home",
+                "style": {
+                  "highlightColor": [],
+                  "alignment": "Left",
+                  "textColor": [],
+                  "font": "MinecraftTen",
+                  "showBackground": false,
+                  "showOutline": false,
+                  "indent": 0.0,
+                  "buttonWidth": 0.0,
+                  "color": [],
+                  "offerControlIdType": "None"
+                },
+                "replacements": []
+              },
+              "navigateInPlace": false
+            },
+            "isVisible": true,
+            "type": "topBarSearchComp",
+            "$type": "TopBarSearchComponent"
+          }
+        ]
+      },
+      {
+        "controlId": "GridList",
+        "components": [
+          {
+            "text": {
+              "value": "dr.collector_title.owned",
+              "style": {
+                "highlightColor": [],
+                "alignment": "Left",
+                "textColor": [1.0, 1.0, 1.0],
+                "font": "MinecraftTen",
+                "showBackground": false,
+                "showOutline": false,
+                "indent": 0.0,
+                "buttonWidth": 0.0,
+                "color": [],
+                "offerControlIdType": "None"
+              },
+              "replacements": ["dr.categories.capes"]
+            },
+            "type": "headerComp",
+            "$type": "HeaderComponent"
+          },
+          {
+            "items": [
+              {
+                "id": "URL-UUID",
+                "contentType": "PersonaDurable",
+                "title": "CAPE TITLE",
+                "description": "§",
+                "creatorName": "Minecraft",
+                "thumbnail": {
+                  "tag": "Thumbnail",
+                  "type": "Thumbnail",
+                  "url": "THUMBNAIL-LINK",
+                  "urlWithResolution": "THUMBNAIL-LINK"
+                },
+                "price": {
+                  "listPrice": 0,
+                  "realmsInfo": {
+                    "inRealmsPlus": false
+                  },
+				  "saleInfo": {
+                    "salePrice": 0,
+                    "storeId": "6c05c0a3-56f8-47bd-b2f3-2d7fe36771fd",
+                    "startDate": "2025-10-23T17:00:00Z",
+                    "expirationDate": "2025-10-24T17:00:00Z",
+                    "discount": 0.33,
+                    "category": "RegularSale"
+                  },
+                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "virtualCurrencyType": "Minecoin"
+                },
+                "linksTo": "",
+                "linksToInfo": {
+                  "linksTo": "",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.store_data_driven_screen",
+                  "navigateInPlace": false
+                },
+                "creatorPage": "CreatorPage_master_player_account!CustomCosmetics",
+                "statistics": {
+                  "skins": 0,
+                  "worlds": 0,
+                  "textures": 0,
+                  "behaviors": 0,
+                  "addOns": 0
+                },
+                "flags": ["New"],
+                "pieceType": "persona_capes",
+                "rarity": "legendary",
+                "ownership": "Purchased",
+                "packType": "Persona",
+                "packIdentity": [
+                  {
+                    "type": "persona_piece",
+                    "uuid": "UUID-USED-IN-PACK-MANIFEST",
+                    "version": "1.0.0"
+                  }
+                ],
+                "tags": [],
+                "images": [
+                  {
+                    "tag": "Thumbnail",
+                    "type": "Thumbnail",
+                    "url": "THUMBNAIL-LINK",
+                    "urlWithResolution": "THUMBNAIL-LINK"
+                  }
+                ],
+                "contents": [],
+                "platformRestricted": false,
+                "iconOverlay": [],
+                "descriptionLineByLine": [],
+                "startDate": "2020-01-01T12:00:00Z",
+                "subscription": [],
+                "thumbnailPreviewOnly": false,
+                "namedLinksToInfoMap": {
+                  "dr.persona_creator_page": {
+                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
+                    "linkType": "external",
+                    "displayType": "store_layout.character_creator_screen",
+                    "navigateInPlace": false
+                  }
+                }
+              }
+            ],
+            "totalItems": 24,
+            "linksTo": "MultiItemPage_Inventory",
+            "linksToInfo": {
+              "linksTo": "MultiItemPage_Inventory",
+              "linkType": "marketplace_inventory",
+              "displayType": "store_layout.store_data_driven_screen",
+              "navigateInPlace": false
+            },
+            "customStoreRowConfiguration": {
+              "seeAllVisible": false,
+              "maxOffers": 24,
+              "arrowsVisible": false,
+              "visibleOffersPerRow": 0
+            },
+            "type": "itemListComp",
+            "$type": "ItemListComponent"
+          },
+          {
+            "type": "dispPreviewPieceComp",
+            "$type": "DisplayPreviewedPieceOfferComponent"
+          },
+          {
+            "type": "personaDefaultButtonComp",
+            "$type": "PersonaDefaultButton"
+          }
+        ]
+      },
+      {
+        "controlId": "VerticalLineDivider",
+        "components": [
+          {
+            "textureImage": {
+              "type": "Unknown",
+              "style": {
+                "highlightColor": [],
+                "alignment": "Left",
+                "textColor": [],
+                "font": "default",
+                "showBackground": false,
+                "showOutline": false,
+                "indent": 0.0,
+                "buttonWidth": 0.0,
+                "color": [0.70196, 0.8392, 0.8588, 0.2],
+                "offerControlIdType": "None"
+              }
+            },
+            "type": "textureComp",
+            "$type": "TextureComponent"
+          }
+        ]
+      }
+    ],
+    "itemsPerRow": 0,
+    "screenshotHeightRatio": 0.0,
+    "inventoryVersion": "1/MzI0",
+    "userListsVersion": "73627a88-ce0c-4c90-83a0-45eec28d357e",
+    "pageRefresh": false,
+    "sidebarLayoutType": "Persona"
+  }
+}

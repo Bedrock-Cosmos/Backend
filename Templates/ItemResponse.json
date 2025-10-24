@@ -1,0 +1,40 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "URL-UUID",
+      "Contents": [
+        {
+          "Id": "ANY-UUID",
+          "Url": "ZIP-DOWNLOAD-LINK",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Tags": [],
+          "Type": "personabinary"
+        }
+      ],
+      "Rating": {
+        "Average": 5,
+        "TotalCount": 5,
+        "Count5Star": 5,
+        "Count4Star": 0,
+        "Count3Star": 0,
+        "Count2Star": 0,
+        "Count1Star": 0
+      },
+      "DisplayProperties": {
+        "creatorName": "Minecraft",
+        "originalCreatorId": "daa74520-41b5-4676-8131-de47e93b0783",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "UUID-USED-IN-PACK-MANIFEST",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

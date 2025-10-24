@@ -1,0 +1,10 @@
+{
+  "piece_id": "ANY-UUID",
+  "piece_name": "NAME",
+  "piece_type": "persona_capes",
+  "texture_sources": [
+    {
+      "texture": "Name.png"
+    }
+  ]
+}
