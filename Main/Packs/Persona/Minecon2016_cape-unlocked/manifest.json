@@ -3,8 +3,8 @@
   "header": {
     "description": "pack.description",
     "name": "pack.name",
-    "uuid": "b4d53038-09d6-42b7-88a3-22b29b893b88",
+    "uuid": "bb3f8cd6-9a5b-47ad-b629-9352e140d3eb",
     "version": [1, 0, 0]
   },
-  "modules": [{ "type": "persona_piece", "uuid": "7224379e-048e-40c2-9091-c92bb733c22c", "version": [1, 0, 0] }]
+  "modules": [{ "type": "persona_piece", "uuid": "f172a95b-3535-40c8-b0f4-0817a175f5c9", "version": [1, 0, 0] }]
 }

@@ -1,0 +1,1678 @@
+{
+  "result": {
+    "id": "526a966f-0678-407f-8717-95ca632b5399",
+    "pageId": "MultiItemPage_PersonaSkinSelector",
+    "addToRecentlyViewed": false,
+    "pageName": "Home L1",
+    "rows": [
+      {
+        "controlId": "Layout",
+        "components": [
+          {
+            "type": "skinPackOfferInteractionComp",
+            "$type": "SkinPackOfferInteractionComponent"
+          },
+          {
+            "type": "appearanceInteractionComp",
+            "$type": "AppearanceInteractionComponent"
+          },
+          {
+            "type": "openColorPickerComp",
+            "$type": "OpenColorPickerComponent"
+          },
+          {
+            "type": "openExpandedAppearanceViewComp",
+            "$type": "OpenExpandedAppearanceViewComponent"
+          },
+          {
+            "linksToInfo": {
+              "linksTo": "MultiItemPage_DressingRoomCoinScreen",
+              "linkType": "pageId",
+              "displayType": "store_layout.skin_selector_screen",
+              "screenTitle": {
+                "value": "dr.header.minecoin.screen",
+                "style": {
+                  "highlightColor": [],
+                  "alignment": "Left",
+                  "textColor": [],
+                  "font": "MinecraftTen",
+                  "showBackground": false,
+                  "showOutline": false,
+                  "indent": 0.0,
+                  "buttonWidth": 0.0,
+                  "color": [],
+                  "offerControlIdType": "None"
+                },
+                "replacements": []
+              },
+              "navigateInPlace": false
+            },
+            "isVisible": true,
+            "type": "topBarMinecoinComp",
+            "$type": "TopBarMinecoinComponent"
+          },
+          {
+            "linksToInfo": {
+              "linksTo": "MultiItemPage_Inventory",
+              "linkType": "pageId",
+              "displayType": "store_layout.store_data_driven_screen",
+              "screenTitle": {
+                "value": "editorialtool.localization.mycontent",
+                "style": {
+                  "highlightColor": [],
+                  "alignment": "Left",
+                  "textColor": [],
+                  "font": "MinecraftTen",
+                  "showBackground": false,
+                  "showOutline": false,
+                  "indent": 0.0,
+                  "buttonWidth": 0.0,
+                  "color": [],
+                  "offerControlIdType": "None"
+                },
+                "replacements": []
+              },
+              "navigateInPlace": false
+            },
+            "isVisible": true,
+            "topBarIcon": {
+              "type": "SidebarNavIcon",
+              "localPath": "textures/ui/sidebar_icons/my_content_large"
+            },
+            "inventoryTitle": {
+              "value": "store.myLibrary",
+              "style": {
+                "highlightColor": [],
+                "alignment": "Left",
+                "textColor": [],
+                "font": "SmoothWithEmoticons",
+                "showBackground": false,
+                "showOutline": false,
+                "indent": 0.0,
+                "buttonWidth": 0.0,
+                "color": [],
+                "offerControlIdType": "None"
+              },
+              "replacements": []
+            },
+            "type": "topBarInventoryComp",
+            "$type": "TopBarInventoryComponent"
+          },
+          {
+            "linksToInfo": {
+              "linksTo": "Search_DressingRoomClassicSkinsSearchHome",
+              "linkType": "pageId",
+              "displayType": "store_layout.store_data_driven_screen",
+              "screenTitle": {
+                "value": "dr.header.search.home",
+                "style": {
+                  "highlightColor": [],
+                  "alignment": "Left",
+                  "textColor": [],
+                  "font": "MinecraftTen",
+                  "showBackground": false,
+                  "showOutline": false,
+                  "indent": 0.0,
+                  "buttonWidth": 0.0,
+                  "color": [],
+                  "offerControlIdType": "None"
+                },
+                "replacements": []
+              },
+              "navigateInPlace": false
+            },
+            "isVisible": true,
+            "type": "topBarSearchComp",
+            "$type": "TopBarSearchComponent"
+          }
+        ]
+      },
+      {
+        "controlId": "StoreRow",
+        "components": [
+          {
+            "text": {
+              "value": "dr.header.featured_skins",
+              "style": {
+                "highlightColor": [0.2, 0.2, 0.2],
+                "alignment": "Left",
+                "textColor": [1.0, 1.0, 1.0],
+                "font": "MinecraftTen",
+                "showBackground": false,
+                "showOutline": true,
+                "indent": 3.0,
+                "buttonWidth": 0.0,
+                "color": [],
+                "offerControlIdType": "None"
+              },
+              "replacements": []
+            },
+            "type": "headerComp",
+            "$type": "HeaderComponent"
+          },
+          {
+            "items": [
+              {
+                "id": "01d22780-c8c6-421d-a5cf-c615a398c480",
+                "contentType": "MarketplaceDurableCatalog_V1.2",
+                "title": "Mumbo Jumbo & Grian Skins",
+                "description": "Private skin pack containing Mumbo Jumbo’s and Grian’s skins for use in their Minecraft Earth road trip video series, debuting at Minecon Live 2020. ",
+                "creatorName": "Minecraft",
+                "thumbnail": {
+                  "tag": "Thumbnail",
+                  "type": "Thumbnail",
+                  "url": "https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-20ca2/89252f64-c1b0-41dc-a538-94fa0c14fa1b/EarthSkin_Thumbnail_0.jpg",
+                  "urlWithResolution": "https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-20ca2/89252f64-c1b0-41dc-a538-94fa0c14fa1b/EarthSkin_Thumbnail_0.jpg?width=800&height=450"
+                },
+                "Rating": {
+                  "Average": 4.2,
+                  "TotalCount": 268,
+                  "Count5Star": 194,
+                  "Count4Star": 20,
+                  "Count3Star": 11,
+                  "Count2Star": 6,
+                  "Count1Star": 37
+                },
+                "price": {
+                  "listPrice": 0,
+                  "realmsInfo": {
+                    "inRealmsPlus": false
+                  },
+                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "virtualCurrencyType": "Minecoin"
+                },
+                "linksTo": "ItemDetail_01d22780-c8c6-421d-a5cf-c615a398c480",
+                "linksToInfo": {
+                  "linksTo": "ItemDetail_01d22780-c8c6-421d-a5cf-c615a398c480",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.store_data_driven_screen",
+                  "navigateInPlace": false
+                },
+                "creatorPage": "CreatorPage_master_player_account!301F442C3B63DC20",
+                "statistics": {
+                  "skins": 1,
+                  "worlds": 0,
+                  "textures": 0,
+                  "behaviors": 0,
+                  "addOns": 0
+                },
+                "flags": ["New"],
+                "ownership": "NotOwned",
+                "packType": "SkinPack",
+                "packIdentity": [
+                  {
+                    "type": "skinpack",
+                    "uuid": "ac3914ce-f321-4b13-89bf-5a74990242c8",
+                    "version": "1.0.4"
+                  }
+                ],
+                "tags": [],
+                "images": [
+                  {
+                    "tag": "Thumbnail",
+                    "type": "Thumbnail",
+                    "url": "https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-20ca2/89252f64-c1b0-41dc-a538-94fa0c14fa1b/EarthSkin_Thumbnail_0.jpg",
+                    "urlWithResolution": "https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-20ca2/89252f64-c1b0-41dc-a538-94fa0c14fa1b/EarthSkin_Thumbnail_0.jpg?width=800&height=450"
+                  }
+                ],
+                "contents": [],
+                "platformRestricted": false,
+                "iconOverlay": [],
+                "descriptionLineByLine": [],
+                "startDate": "2020-08-17T10:00:00Z",
+                "subscription": [],
+                "thumbnailPreviewOnly": false,
+                "namedLinksToInfoMap": {}
+              },
+              {
+                "id": "2766095f-b2c0-4237-911f-e18a30fb0928",
+                "contentType": "MarketplaceDurableCatalog_V1.2",
+                "title": "Marvel Avengers Skin Pack",
+                "description": "Step into Minecraft dressed as one of Earth’s Mightiest Heroes (or powerful villains) with this incredible Skin Pack, featuring core team members from Marvel’s Avengers including Iron Man, Captain America, Hulk, Thor, and many more iconic characters from the Marvel Universe.",
+                "creatorName": "Minecraft",
+                "thumbnail": {
+                  "tag": "Thumbnail",
+                  "type": "Thumbnail",
+                  "url": "https://xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/d3cd9473-b3d9-407a-95b3-6ebfdca004a9/Avengers_Thumbnail_0.jpg",
+                  "urlWithResolution": "https://xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/d3cd9473-b3d9-407a-95b3-6ebfdca004a9/Avengers_Thumbnail_0.jpg?width=800&height=450"
+                },
+                "Rating": {
+                  "Average": 4.4,
+                  "TotalCount": 107,
+                  "Count5Star": 81,
+                  "Count4Star": 9,
+                  "Count3Star": 5,
+                  "Count2Star": 3,
+                  "Count1Star": 9
+                },
+                "price": {
+                  "listPrice": 0,
+                  "realmsInfo": {
+                    "inRealmsPlus": false
+                  },
+                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "virtualCurrencyType": "Minecoin"
+                },
+                "linksTo": "ItemDetail_2766095f-b2c0-4237-911f-e18a30fb0928",
+                "linksToInfo": {
+                  "linksTo": "ItemDetail_2766095f-b2c0-4237-911f-e18a30fb0928",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.store_data_driven_screen",
+                  "navigateInPlace": false
+                },
+                "creatorPage": "CreatorPage_master_player_account!301F442C3B63DC20",
+                "statistics": {
+                  "skins": 1,
+                  "worlds": 0,
+                  "textures": 0,
+                  "behaviors": 0,
+                  "addOns": 0
+                },
+                "flags": ["New"],
+                "ownership": "Purchased",
+                "packType": "SkinPack",
+                "packIdentity": [
+                  {
+                    "type": "skinpack",
+                    "uuid": "083c0c90-cd38-46ad-a473-881f2a7cc069",
+                    "version": "1.0.3"
+                  }
+                ],
+                "tags": [],
+                "images": [
+                  {
+                    "tag": "Thumbnail",
+                    "type": "Thumbnail",
+                    "url": "https://xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/d3cd9473-b3d9-407a-95b3-6ebfdca004a9/Avengers_Thumbnail_0.jpg",
+                    "urlWithResolution": "https://xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/d3cd9473-b3d9-407a-95b3-6ebfdca004a9/Avengers_Thumbnail_0.jpg?width=800&height=450"
+                  }
+                ],
+                "contents": [],
+                "platformRestricted": false,
+                "iconOverlay": [],
+                "descriptionLineByLine": [],
+                "startDate": "2017-09-12T15:00:00Z",
+                "subscription": [],
+                "thumbnailPreviewOnly": false,
+                "namedLinksToInfoMap": {}
+              },
+              {
+                "id": "4ad937a2-bf33-4390-93e3-62198b58f9ff",
+                "contentType": "MarketplaceDurableCatalog_V1.2",
+                "title": "Mighty Morphin Power Rangers",
+                "description": "Assemble your Mighty Morphin Power Rangers team and Go Go!",
+                "creatorName": "Minecraft",
+                "thumbnail": {
+                  "tag": "Thumbnail",
+                  "type": "Thumbnail",
+                  "url": "https://xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/fb481e6f-0173-4bdd-b4ff-7e49b163f904/MightyMorphinPowerRangers_Thumbnail_0.jpg",
+                  "urlWithResolution": "https://xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/fb481e6f-0173-4bdd-b4ff-7e49b163f904/MightyMorphinPowerRangers_Thumbnail_0.jpg?width=800&height=450"
+                },
+                "Rating": {
+                  "Average": 4.6,
+                  "TotalCount": 10734,
+                  "Count5Star": 9124,
+                  "Count4Star": 569,
+                  "Count3Star": 296,
+                  "Count2Star": 134,
+                  "Count1Star": 611
+                },
+                "price": {
+                  "listPrice": 1000000,
+                  "realmsInfo": {
+                    "inRealmsPlus": false
+                  },
+                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "virtualCurrencyType": "Minecoin"
+                },
+                "linksTo": "ItemDetail_4ad937a2-bf33-4390-93e3-62198b58f9ff",
+                "linksToInfo": {
+                  "linksTo": "ItemDetail_4ad937a2-bf33-4390-93e3-62198b58f9ff",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.store_data_driven_screen",
+                  "navigateInPlace": false
+                },
+                "creatorPage": "CreatorPage_master_player_account!301F442C3B63DC20",
+                "statistics": {
+                  "skins": 1,
+                  "worlds": 0,
+                  "textures": 0,
+                  "behaviors": 0,
+                  "addOns": 0
+                },
+                "flags": ["New"],
+                "ownership": "NotOwned",
+                "packType": "SkinPack",
+                "packIdentity": [
+                  {
+                    "type": "skinpack",
+                    "uuid": "98500e08-627e-4f46-a4d3-705a01f6f110",
+                    "version": "1.0.1"
+                  }
+                ],
+                "minPerformanceTier": "SuperLowTier",
+                "tags": [],
+                "images": [
+                  {
+                    "tag": "Thumbnail",
+                    "type": "Thumbnail",
+                    "url": "https://xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/fb481e6f-0173-4bdd-b4ff-7e49b163f904/MightyMorphinPowerRangers_Thumbnail_0.jpg",
+                    "urlWithResolution": "https://xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/fb481e6f-0173-4bdd-b4ff-7e49b163f904/MightyMorphinPowerRangers_Thumbnail_0.jpg?width=800&height=450"
+                  }
+                ],
+                "contents": [],
+                "platformRestricted": false,
+                "iconOverlay": [],
+                "descriptionLineByLine": [],
+                "startDate": "2025-10-14T17:00:00Z",
+                "subscription": [],
+                "thumbnailPreviewOnly": false,
+                "namedLinksToInfoMap": {}
+              },
+              {
+                "id": "39ddc16e-e398-4c71-b562-75b2ac5b1319",
+                "contentType": "MarketplaceDurableCatalog_V1.2",
+                "title": "The Simpsons Skin Pack",
+                "description": "The Simpsons as you have never seen them before; in pure, unadulterated Minecraft block-o-vision! Don't miss out this awesome pack featuring 24 characters from the series.",
+                "creatorName": "Minecraft",
+                "thumbnail": {
+                  "tag": "Thumbnail",
+                  "type": "Thumbnail",
+                  "url": "https://xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/5d180df6-b118-4c66-8700-3c119809a1d8/simpsons_Thumbnail_0.jpg",
+                  "urlWithResolution": "https://xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/5d180df6-b118-4c66-8700-3c119809a1d8/simpsons_Thumbnail_0.jpg?width=800&height=450"
+                },
+                "Rating": {
+                  "Average": 4.3,
+                  "TotalCount": 2377,
+                  "Count5Star": 1800,
+                  "Count4Star": 132,
+                  "Count3Star": 109,
+                  "Count2Star": 38,
+                  "Count1Star": 298
+                },
+                "price": {
+                  "listPrice": 0,
+                  "realmsInfo": {
+                    "inRealmsPlus": false
+                  },
+                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "virtualCurrencyType": "Minecoin"
+                },
+                "linksTo": "ItemDetail_39ddc16e-e398-4c71-b562-75b2ac5b1319",
+                "linksToInfo": {
+                  "linksTo": "ItemDetail_39ddc16e-e398-4c71-b562-75b2ac5b1319",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.store_data_driven_screen",
+                  "navigateInPlace": false
+                },
+                "creatorPage": "CreatorPage_master_player_account!301F442C3B63DC20",
+                "statistics": {
+                  "skins": 1,
+                  "worlds": 0,
+                  "textures": 0,
+                  "behaviors": 0,
+                  "addOns": 0
+                },
+                "flags": ["New"],
+                "ownership": "Purchased",
+                "packType": "SkinPack",
+                "packIdentity": [
+                  {
+                    "type": "skinpack",
+                    "uuid": "4f4a0dfa-6e3a-4a2b-bad1-eb84b1b76ee9",
+                    "version": "1.0.3"
+                  }
+                ],
+                "tags": [],
+                "images": [
+                  {
+                    "tag": "Thumbnail",
+                    "type": "Thumbnail",
+                    "url": "https://xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/5d180df6-b118-4c66-8700-3c119809a1d8/simpsons_Thumbnail_0.jpg",
+                    "urlWithResolution": "https://xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/5d180df6-b118-4c66-8700-3c119809a1d8/simpsons_Thumbnail_0.jpg?width=800&height=450"
+                  }
+                ],
+                "contents": [],
+                "platformRestricted": false,
+                "iconOverlay": [],
+                "descriptionLineByLine": [],
+                "startDate": "2017-09-12T15:00:00Z",
+                "subscription": [],
+                "thumbnailPreviewOnly": false,
+                "namedLinksToInfoMap": {}
+              }
+            ],
+            "totalItems": 4,
+            "linksTo": "MultiItemPage_PersonaSkinSelector%7cSkinPack_10000000-2000-3000-4000-500000000000",
+            "linksToInfo": {
+              "linksTo": "MultiItemPage_PersonaSkinSelector%7cSkinPack_10000000-2000-3000-4000-500000000000",
+              "linkType": "pageId",
+              "displayType": "store_layout.skin_selector_screen",
+              "navigateInPlace": false
+            },
+            "customStoreRowConfiguration": {
+              "seeAllVisible": false,
+              "maxOffers": 4,
+              "arrowsVisible": true,
+              "visibleOffersPerRow": 4
+            },
+            "style": {
+              "highlightColor": [0.098, 0.098, 0.098],
+              "alignment": "Left",
+              "textColor": [],
+              "font": "default",
+              "showBackground": false,
+              "showOutline": false,
+              "indent": 0.0,
+              "buttonWidth": 15.0,
+              "color": [],
+              "offerControlIdType": "ThumbnailOnly"
+            },
+            "type": "itemListComp",
+            "$type": "ItemListComponent"
+          },
+          {
+            "type": "dispPreviewPieceComp",
+            "$type": "DisplayPreviewedPieceOfferComponent"
+          }
+        ]
+      },
+      {
+        "controlId": "NavButtonRow",
+        "components": [
+          {
+            "buttons": [
+              {
+                "buttonSizeIsFill": true,
+                "image": "textures/ui/sidebar_icons/marketplace",
+                "images": [],
+                "navButtonName": "dr.marketplace.get_more_skins",
+                "linksToInfo": {
+                  "linksTo": "MultiItemPage_SkinsRoot",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.store_data_driven_screen",
+                  "navigateInPlace": false
+                },
+                "defaultColor": [],
+                "interactColor": []
+              }
+            ],
+            "type": "navButtonListComp",
+            "$type": "NavButtonListComponent"
+          }
+        ]
+      },
+      {
+        "controlId": "VerticalLineDivider",
+        "components": [
+          {
+            "textureImage": {
+              "type": "Unknown",
+              "style": {
+                "highlightColor": [],
+                "alignment": "Left",
+                "textColor": [],
+                "font": "default",
+                "showBackground": false,
+                "showOutline": false,
+                "indent": 0.0,
+                "buttonWidth": 0.0,
+                "color": [0.70196, 0.8392, 0.8588, 0.2],
+                "offerControlIdType": "None"
+              }
+            },
+            "type": "textureComp",
+            "$type": "TextureComponent"
+          }
+        ]
+      },
+      {
+        "controlId": "SkinPackList",
+        "components": [
+          {
+            "text": {
+              "value": "dr.classic_skins.custom_skin_section_title",
+              "style": {
+                "highlightColor": [],
+                "alignment": "Left",
+                "textColor": [1.0, 1.0, 1.0],
+                "font": "MinecraftTen",
+                "showBackground": false,
+                "showOutline": false,
+                "indent": 0.0,
+                "buttonWidth": 0.0,
+                "color": [],
+                "offerControlIdType": "None"
+              },
+              "replacements": []
+            },
+            "type": "headerComp",
+            "$type": "HeaderComponent"
+          },
+          {
+            "isOwned": true,
+            "linksToInfo": {
+              "linksTo": "MultiItemPage_PersonaSkinSelector%7cCustomSkinPack_526a966f-0678-407f-8717-95ca632b5399",
+              "linkType": "pageId",
+              "displayType": "store_layout.skin_selector_screen",
+              "navigateInPlace": false
+            },
+            "type": "skinPackListComp",
+            "$type": "SkinPackListComponent"
+          },
+          {
+            "type": "dispPreviewPieceComp",
+            "$type": "DisplayPreviewedPieceOfferComponent"
+          },
+          {
+            "items": [
+              {
+                "id": "8e78a44d-0c1f-4ce2-826b-8bbc555012de",
+                "contentType": "MarketplaceDurableCatalog_V1.2",
+                "title": "1st Birthday Skin Pack",
+                "description": "Join the Minecraft party now!",
+                "creatorName": "Minecraft",
+                "thumbnail": {
+                  "tag": "Thumbnail",
+                  "type": "Thumbnail",
+                  "url": "https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-20ca2/b3292e60-9898-4813-869c-40b301b5ac0a/1stBirthday_Thumbnail_0.jpg",
+                  "urlWithResolution": "https://xforgeassets001.xboxlive.com:443/pf-title-b63a0803d3653643-20ca2/b3292e60-9898-4813-869c-40b301b5ac0a/1stBirthday_Thumbnail_0.jpg?width=800&height=450"
+                },
+                "rating": {
+                  "average": 4.7,
+                  "totalCount": 523726
+                },
+                "price": {
+                  "listPrice": 0,
+                  "realmsInfo": {
+                    "inRealmsPlus": false
+                  },
+                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "virtualCurrencyType": "Minecoin"
+                },
+                "linksTo": "MultiItemPage_PersonaSkinSelector%7cSkinPack_8e78a44d-0c1f-4ce2-826b-8bbc555012de",
+                "linksToInfo": {
+                  "linksTo": "MultiItemPage_PersonaSkinSelector%7cSkinPack_8e78a44d-0c1f-4ce2-826b-8bbc555012de",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.skin_selector_screen",
+                  "navigateInPlace": false
+                },
+                "creatorPage": "CreatorPage_master_player_account!301F442C3B63DC20",
+                "statistics": {
+                  "skins": 22,
+                  "worlds": 0,
+                  "textures": 0,
+                  "behaviors": 0,
+                  "addOns": 0
+                },
+                "flags": [],
+                "ownership": "Purchased",
+                "packType": "SkinPack",
+                "packIdentity": [
+                  {
+                    "type": "skinpack",
+                    "uuid": "202539ce-e6c5-40b5-a4a1-4296277d18f6",
+                    "version": "1.0.5"
+                  }
+                ],
+                "tags": [],
+                "images": [
+                  {
+                    "tag": "Thumbnail",
+                    "type": "Thumbnail",
+                    "url": "https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-20ca2/b3292e60-9898-4813-869c-40b301b5ac0a/1stBirthday_Thumbnail_0.jpg",
+                    "urlWithResolution": "https://xforgeassets001.xboxlive.com:443/pf-title-b63a0803d3653643-20ca2/b3292e60-9898-4813-869c-40b301b5ac0a/1stBirthday_Thumbnail_0.jpg?width=800&height=450"
+                  }
+                ],
+                "contents": [],
+                "platformRestricted": false,
+                "iconOverlay": [],
+                "descriptionLineByLine": [],
+                "startDate": "2017-09-12T15:00:00Z",
+                "subscription": [],
+                "thumbnailPreviewOnly": false,
+                "namedLinksToInfoMap": {
+                  "dr.expanded_skins": {
+                    "linksTo": "MultiItemPage_PersonaSkinSelector%7cSkinPack_8e78a44d-0c1f-4ce2-826b-8bbc555012de",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.skin_selector_screen",
+                    "navigateInPlace": false
+                  },
+                  "dr.see_in_store": {
+                    "linksTo": "ItemDetail_8e78a44d-0c1f-4ce2-826b-8bbc555012de",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
+                    "navigateInPlace": false
+                  }
+                }
+              },
+              {
+                "id": "02b54955-9b4d-40cb-9b73-360d23cf1b9e",
+                "contentType": "MarketplaceDurableCatalog_V1.2",
+                "title": "2nd Birthday Skin Pack",
+                "description": "Minecraft is growing up, time to celebrate together our 2nd Birthday!",
+                "creatorName": "Minecraft",
+                "thumbnail": {
+                  "tag": "Thumbnail",
+                  "type": "Thumbnail",
+                  "url": "https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/905ed25d-92af-4c1b-8059-a22f3553b26b/2ndBirthday_Thumbnail_0.jpg",
+                  "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/pf-title-b63a0803d3653643-20ca2/905ed25d-92af-4c1b-8059-a22f3553b26b/2ndBirthday_Thumbnail_0.jpg?width=800&height=450"
+                },
+                "rating": {
+                  "average": 4.7,
+                  "totalCount": 26544
+                },
+                "price": {
+                  "listPrice": 0,
+                  "realmsInfo": {
+                    "inRealmsPlus": false
+                  },
+                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "virtualCurrencyType": "Minecoin"
+                },
+                "linksTo": "MultiItemPage_PersonaSkinSelector%7cSkinPack_02b54955-9b4d-40cb-9b73-360d23cf1b9e",
+                "linksToInfo": {
+                  "linksTo": "MultiItemPage_PersonaSkinSelector%7cSkinPack_02b54955-9b4d-40cb-9b73-360d23cf1b9e",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.skin_selector_screen",
+                  "navigateInPlace": false
+                },
+                "creatorPage": "CreatorPage_master_player_account!301F442C3B63DC20",
+                "statistics": {
+                  "skins": 25,
+                  "worlds": 0,
+                  "textures": 0,
+                  "behaviors": 0,
+                  "addOns": 0
+                },
+                "flags": [],
+                "ownership": "Purchased",
+                "packType": "SkinPack",
+                "packIdentity": [
+                  {
+                    "type": "skinpack",
+                    "uuid": "e823767b-7337-49da-aaef-de616d2c2c3a",
+                    "version": "1.0.11"
+                  }
+                ],
+                "tags": [],
+                "images": [
+                  {
+                    "tag": "Thumbnail",
+                    "type": "Thumbnail",
+                    "url": "https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/905ed25d-92af-4c1b-8059-a22f3553b26b/2ndBirthday_Thumbnail_0.jpg",
+                    "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/pf-title-b63a0803d3653643-20ca2/905ed25d-92af-4c1b-8059-a22f3553b26b/2ndBirthday_Thumbnail_0.jpg?width=800&height=450"
+                  }
+                ],
+                "contents": [],
+                "platformRestricted": false,
+                "iconOverlay": [],
+                "descriptionLineByLine": [],
+                "startDate": "2017-09-12T15:00:00Z",
+                "subscription": [],
+                "thumbnailPreviewOnly": false,
+                "namedLinksToInfoMap": {
+                  "dr.expanded_skins": {
+                    "linksTo": "MultiItemPage_PersonaSkinSelector%7cSkinPack_02b54955-9b4d-40cb-9b73-360d23cf1b9e",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.skin_selector_screen",
+                    "navigateInPlace": false
+                  },
+                  "dr.see_in_store": {
+                    "linksTo": "ItemDetail_02b54955-9b4d-40cb-9b73-360d23cf1b9e",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
+                    "navigateInPlace": false
+                  }
+                }
+              },
+              {
+                "id": "920a3a5c-b344-42a8-bf23-021b0d315239",
+                "contentType": "MarketplaceDurableCatalog_V1.2",
+                "title": "Brody's Give Campaign Skin",
+                "description": "A special skin pack for winning the Give Campaign auction.",
+                "creatorName": "Minecraft",
+                "thumbnail": {
+                  "tag": "Thumbnail",
+                  "type": "Thumbnail",
+                  "url": "https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/a89a0ac1-2b70-43ad-8a37-3fc4a27515e8/thumbnail_0.jpg",
+                  "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/pf-title-b63a0803d3653643-20ca2/a89a0ac1-2b70-43ad-8a37-3fc4a27515e8/thumbnail_0.jpg?width=800&height=450"
+                },
+                "rating": {
+                  "average": 4.5,
+                  "totalCount": 78
+                },
+                "price": {
+                  "listPrice": 0,
+                  "realmsInfo": {
+                    "inRealmsPlus": false
+                  },
+                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "virtualCurrencyType": "Minecoin"
+                },
+                "linksTo": "MultiItemPage_PersonaSkinSelector%7cSkinPack_920a3a5c-b344-42a8-bf23-021b0d315239",
+                "linksToInfo": {
+                  "linksTo": "MultiItemPage_PersonaSkinSelector%7cSkinPack_920a3a5c-b344-42a8-bf23-021b0d315239",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.skin_selector_screen",
+                  "navigateInPlace": false
+                },
+                "creatorPage": "CreatorPage_master_player_account!301F442C3B63DC20",
+                "statistics": {
+                  "skins": 1,
+                  "worlds": 0,
+                  "textures": 0,
+                  "behaviors": 0,
+                  "addOns": 0
+                },
+                "flags": [],
+                "ownership": "Purchased",
+                "packType": "SkinPack",
+                "packIdentity": [
+                  {
+                    "type": "skinpack",
+                    "uuid": "6d6f40da-6b0a-47f1-a82a-b23721c6140b",
+                    "version": "1.0.4"
+                  }
+                ],
+                "tags": [],
+                "images": [
+                  {
+                    "tag": "Thumbnail",
+                    "type": "Thumbnail",
+                    "url": "https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/a89a0ac1-2b70-43ad-8a37-3fc4a27515e8/thumbnail_0.jpg",
+                    "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/pf-title-b63a0803d3653643-20ca2/a89a0ac1-2b70-43ad-8a37-3fc4a27515e8/thumbnail_0.jpg?width=800&height=450"
+                  }
+                ],
+                "contents": [],
+                "platformRestricted": false,
+                "iconOverlay": [],
+                "descriptionLineByLine": [],
+                "startDate": "2020-10-07T17:00:00Z",
+                "subscription": [],
+                "thumbnailPreviewOnly": false,
+                "namedLinksToInfoMap": {
+                  "dr.expanded_skins": {
+                    "linksTo": "MultiItemPage_PersonaSkinSelector%7cSkinPack_920a3a5c-b344-42a8-bf23-021b0d315239",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.skin_selector_screen",
+                    "navigateInPlace": false
+                  },
+                  "dr.see_in_store": {
+                    "linksTo": "ItemDetail_920a3a5c-b344-42a8-bf23-021b0d315239",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
+                    "navigateInPlace": false
+                  }
+                }
+              },
+              {
+                "id": "83722c79-a25d-4448-a853-3a4b0fdd99d5",
+                "contentType": "MarketplaceDurableCatalog_V1.2",
+                "title": "Claire's Give Campaign Skin",
+                "description": "A special skin pack for winning the Give Campaign auction.",
+                "creatorName": "Minecraft",
+                "thumbnail": {
+                  "tag": "Thumbnail",
+                  "type": "Thumbnail",
+                  "url": "https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/aec5c2da-a001-496f-a3fb-2fac3d2fcfc1/thumbnail_0.jpg",
+                  "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/pf-title-b63a0803d3653643-20ca2/aec5c2da-a001-496f-a3fb-2fac3d2fcfc1/thumbnail_0.jpg?width=800&height=450"
+                },
+                "rating": {
+                  "average": 4.6,
+                  "totalCount": 83
+                },
+                "price": {
+                  "listPrice": 0,
+                  "realmsInfo": {
+                    "inRealmsPlus": false
+                  },
+                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "virtualCurrencyType": "Minecoin"
+                },
+                "linksTo": "MultiItemPage_PersonaSkinSelector%7cSkinPack_83722c79-a25d-4448-a853-3a4b0fdd99d5",
+                "linksToInfo": {
+                  "linksTo": "MultiItemPage_PersonaSkinSelector%7cSkinPack_83722c79-a25d-4448-a853-3a4b0fdd99d5",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.skin_selector_screen",
+                  "navigateInPlace": false
+                },
+                "creatorPage": "CreatorPage_master_player_account!301F442C3B63DC20",
+                "statistics": {
+                  "skins": 1,
+                  "worlds": 0,
+                  "textures": 0,
+                  "behaviors": 0,
+                  "addOns": 0
+                },
+                "flags": [],
+                "ownership": "Purchased",
+                "packType": "SkinPack",
+                "packIdentity": [
+                  {
+                    "type": "skinpack",
+                    "uuid": "136fe27d-4eb3-4564-8c9b-b4130ffbdd3c",
+                    "version": "1.0.4"
+                  }
+                ],
+                "tags": [],
+                "images": [
+                  {
+                    "tag": "Thumbnail",
+                    "type": "Thumbnail",
+                    "url": "https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/aec5c2da-a001-496f-a3fb-2fac3d2fcfc1/thumbnail_0.jpg",
+                    "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/pf-title-b63a0803d3653643-20ca2/aec5c2da-a001-496f-a3fb-2fac3d2fcfc1/thumbnail_0.jpg?width=800&height=450"
+                  }
+                ],
+                "contents": [],
+                "platformRestricted": false,
+                "iconOverlay": [],
+                "descriptionLineByLine": [],
+                "startDate": "2020-10-07T17:00:00Z",
+                "subscription": [],
+                "thumbnailPreviewOnly": false,
+                "namedLinksToInfoMap": {
+                  "dr.expanded_skins": {
+                    "linksTo": "MultiItemPage_PersonaSkinSelector%7cSkinPack_83722c79-a25d-4448-a853-3a4b0fdd99d5",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.skin_selector_screen",
+                    "navigateInPlace": false
+                  },
+                  "dr.see_in_store": {
+                    "linksTo": "ItemDetail_83722c79-a25d-4448-a853-3a4b0fdd99d5",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
+                    "navigateInPlace": false
+                  }
+                }
+              },
+              {
+                "id": "e205acc9-2c5a-430f-8576-d87c5ba67db4",
+                "contentType": "MarketplaceDurableCatalog_V1.2",
+                "title": "Joslyn's Give Campaign Skin",
+                "description": "A special skin pack for winning the Give Campaign auction.",
+                "creatorName": "Minecraft",
+                "thumbnail": {
+                  "tag": "Thumbnail",
+                  "type": "Thumbnail",
+                  "url": "https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/d84e5543-39a6-4623-baf0-8534c25ec640/thumbnail_0.jpg",
+                  "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/pf-title-b63a0803d3653643-20ca2/d84e5543-39a6-4623-baf0-8534c25ec640/thumbnail_0.jpg?width=800&height=450"
+                },
+                "rating": {
+                  "average": 4.6,
+                  "totalCount": 123
+                },
+                "price": {
+                  "listPrice": 0,
+                  "realmsInfo": {
+                    "inRealmsPlus": false
+                  },
+                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "virtualCurrencyType": "Minecoin"
+                },
+                "linksTo": "MultiItemPage_PersonaSkinSelector%7cSkinPack_e205acc9-2c5a-430f-8576-d87c5ba67db4",
+                "linksToInfo": {
+                  "linksTo": "MultiItemPage_PersonaSkinSelector%7cSkinPack_e205acc9-2c5a-430f-8576-d87c5ba67db4",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.skin_selector_screen",
+                  "navigateInPlace": false
+                },
+                "creatorPage": "CreatorPage_master_player_account!301F442C3B63DC20",
+                "statistics": {
+                  "skins": 1,
+                  "worlds": 0,
+                  "textures": 0,
+                  "behaviors": 0,
+                  "addOns": 0
+                },
+                "flags": [],
+                "ownership": "Purchased",
+                "packType": "SkinPack",
+                "packIdentity": [
+                  {
+                    "type": "skinpack",
+                    "uuid": "a9396dff-9629-43fa-b7f7-4e885ab258fd",
+                    "version": "1.0.5"
+                  }
+                ],
+                "tags": [],
+                "images": [
+                  {
+                    "tag": "Thumbnail",
+                    "type": "Thumbnail",
+                    "url": "https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/d84e5543-39a6-4623-baf0-8534c25ec640/thumbnail_0.jpg",
+                    "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/pf-title-b63a0803d3653643-20ca2/d84e5543-39a6-4623-baf0-8534c25ec640/thumbnail_0.jpg?width=800&height=450"
+                  }
+                ],
+                "contents": [],
+                "platformRestricted": false,
+                "iconOverlay": [],
+                "descriptionLineByLine": [],
+                "startDate": "2020-10-07T17:00:00Z",
+                "subscription": [],
+                "thumbnailPreviewOnly": false,
+                "namedLinksToInfoMap": {
+                  "dr.expanded_skins": {
+                    "linksTo": "MultiItemPage_PersonaSkinSelector%7cSkinPack_e205acc9-2c5a-430f-8576-d87c5ba67db4",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.skin_selector_screen",
+                    "navigateInPlace": false
+                  },
+                  "dr.see_in_store": {
+                    "linksTo": "ItemDetail_e205acc9-2c5a-430f-8576-d87c5ba67db4",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
+                    "navigateInPlace": false
+                  }
+                }
+              },
+              {
+                "id": "633422ca-cdc9-44c8-a25d-a43fb2d76bc7",
+                "contentType": "MarketplaceDurableCatalog_V1.2",
+                "title": "Lucy's Give Campaign Skin",
+                "description": "A special skin pack for winning the Give Campaign auction.",
+                "creatorName": "Minecraft",
+                "thumbnail": {
+                  "tag": "Thumbnail",
+                  "type": "Thumbnail",
+                  "url": "https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-20ca2/630a619f-892f-4fba-bfc7-80ffe691d37d/thumbnail_0.jpg",
+                  "urlWithResolution": "https://xforgeassets001.xboxlive.com:443/pf-title-b63a0803d3653643-20ca2/630a619f-892f-4fba-bfc7-80ffe691d37d/thumbnail_0.jpg?width=800&height=450"
+                },
+                "rating": {
+                  "average": 4.3,
+                  "totalCount": 79
+                },
+                "price": {
+                  "listPrice": 0,
+                  "realmsInfo": {
+                    "inRealmsPlus": false
+                  },
+                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "virtualCurrencyType": "Minecoin"
+                },
+                "linksTo": "MultiItemPage_PersonaSkinSelector%7cSkinPack_633422ca-cdc9-44c8-a25d-a43fb2d76bc7",
+                "linksToInfo": {
+                  "linksTo": "MultiItemPage_PersonaSkinSelector%7cSkinPack_633422ca-cdc9-44c8-a25d-a43fb2d76bc7",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.skin_selector_screen",
+                  "navigateInPlace": false
+                },
+                "creatorPage": "CreatorPage_master_player_account!301F442C3B63DC20",
+                "statistics": {
+                  "skins": 1,
+                  "worlds": 0,
+                  "textures": 0,
+                  "behaviors": 0,
+                  "addOns": 0
+                },
+                "flags": [],
+                "ownership": "Purchased",
+                "packType": "SkinPack",
+                "packIdentity": [
+                  {
+                    "type": "skinpack",
+                    "uuid": "a7657028-94cf-4d70-a421-42b64c18ad27",
+                    "version": "1.0.5"
+                  }
+                ],
+                "tags": [],
+                "images": [
+                  {
+                    "tag": "Thumbnail",
+                    "type": "Thumbnail",
+                    "url": "https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-20ca2/630a619f-892f-4fba-bfc7-80ffe691d37d/thumbnail_0.jpg",
+                    "urlWithResolution": "https://xforgeassets001.xboxlive.com:443/pf-title-b63a0803d3653643-20ca2/630a619f-892f-4fba-bfc7-80ffe691d37d/thumbnail_0.jpg?width=800&height=450"
+                  }
+                ],
+                "contents": [],
+                "platformRestricted": false,
+                "iconOverlay": [],
+                "descriptionLineByLine": [],
+                "startDate": "2020-10-07T17:00:00Z",
+                "subscription": [],
+                "thumbnailPreviewOnly": false,
+                "namedLinksToInfoMap": {
+                  "dr.expanded_skins": {
+                    "linksTo": "MultiItemPage_PersonaSkinSelector%7cSkinPack_633422ca-cdc9-44c8-a25d-a43fb2d76bc7",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.skin_selector_screen",
+                    "navigateInPlace": false
+                  },
+                  "dr.see_in_store": {
+                    "linksTo": "ItemDetail_633422ca-cdc9-44c8-a25d-a43fb2d76bc7",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
+                    "navigateInPlace": false
+                  }
+                }
+              },
+              {
+                "id": "38fdf771-febb-4b6f-a162-c42850817d95",
+                "contentType": "MarketplaceDurableCatalog_V1.2",
+                "title": "LEGO(R) Minecraft(TM) Dragon Slayer",
+                "description": "Be the Dragon Slayer!\r\nThink you can defeat the ender dragon? Then you’re worthy of wearing this cool Dragon Slayer Skin! Don your armor, grab your enchanted bow and head for the End dimension, where the dragon awaits!",
+                "creatorName": "Minecraft",
+                "thumbnail": {
+                  "tag": "Thumbnail",
+                  "type": "Thumbnail",
+                  "url": "https://xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/535394f8-9660-4d82-8d20-6a39b30a695c/Lego_Thumbnail_0.jpg",
+                  "urlWithResolution": "https://xforgeassets001.xboxlive.com:443/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/535394f8-9660-4d82-8d20-6a39b30a695c/Lego_Thumbnail_0.jpg?width=800&height=450"
+                },
+                "rating": {
+                  "average": 4.8,
+                  "totalCount": 12887
+                },
+                "price": {
+                  "listPrice": 0,
+                  "realmsInfo": {
+                    "inRealmsPlus": false
+                  },
+                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "virtualCurrencyType": "Minecoin"
+                },
+                "linksTo": "MultiItemPage_PersonaSkinSelector%7cSkinPack_38fdf771-febb-4b6f-a162-c42850817d95",
+                "linksToInfo": {
+                  "linksTo": "MultiItemPage_PersonaSkinSelector%7cSkinPack_38fdf771-febb-4b6f-a162-c42850817d95",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.skin_selector_screen",
+                  "navigateInPlace": false
+                },
+                "creatorPage": "CreatorPage_master_player_account!301F442C3B63DC20",
+                "statistics": {
+                  "skins": 1,
+                  "worlds": 0,
+                  "textures": 0,
+                  "behaviors": 0,
+                  "addOns": 0
+                },
+                "flags": [],
+                "ownership": "Purchased",
+                "packType": "SkinPack",
+                "packIdentity": [
+                  {
+                    "type": "skinpack",
+                    "uuid": "0232dca2-f67e-40d7-9f32-3e836cce9e88",
+                    "version": "1.0.0"
+                  }
+                ],
+                "tags": [],
+                "images": [
+                  {
+                    "tag": "Thumbnail",
+                    "type": "Thumbnail",
+                    "url": "https://xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/535394f8-9660-4d82-8d20-6a39b30a695c/Lego_Thumbnail_0.jpg",
+                    "urlWithResolution": "https://xforgeassets001.xboxlive.com:443/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/535394f8-9660-4d82-8d20-6a39b30a695c/Lego_Thumbnail_0.jpg?width=800&height=450"
+                  }
+                ],
+                "contents": [],
+                "platformRestricted": false,
+                "iconOverlay": [],
+                "descriptionLineByLine": [],
+                "startDate": "2018-12-12T18:00:00Z",
+                "subscription": [],
+                "thumbnailPreviewOnly": false,
+                "namedLinksToInfoMap": {
+                  "dr.expanded_skins": {
+                    "linksTo": "MultiItemPage_PersonaSkinSelector%7cSkinPack_38fdf771-febb-4b6f-a162-c42850817d95",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.skin_selector_screen",
+                    "navigateInPlace": false
+                  },
+                  "dr.see_in_store": {
+                    "linksTo": "ItemDetail_38fdf771-febb-4b6f-a162-c42850817d95",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
+                    "navigateInPlace": false
+                  }
+                }
+              },
+              {
+                "id": "7dae6bfe-e92b-403e-842e-d8d75e329644",
+                "contentType": "MarketplaceDurableCatalog_V1.2",
+                "title": "Minecon 2015 Skin Pack",
+                "description": "Alex and Steve are ready for Minecon 2015! They’ve brought their complete Minecon cape collection with them and don’t they both look grand?",
+                "creatorName": "Minecraft",
+                "thumbnail": {
+                  "tag": "Thumbnail",
+                  "type": "Thumbnail",
+                  "url": "https://xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/65f2a2fb-cd9e-46f7-9b91-660b83245f4e/Minecon2015_Thumbnail_0.jpg",
+                  "urlWithResolution": "https://xforgeassets001.xboxlive.com:443/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/65f2a2fb-cd9e-46f7-9b91-660b83245f4e/Minecon2015_Thumbnail_0.jpg?width=800&height=450"
+                },
+                "rating": {
+                  "average": 4.7,
+                  "totalCount": 3175
+                },
+                "price": {
+                  "listPrice": 1000000,
+                  "realmsInfo": {
+                    "inRealmsPlus": false
+                  },
+                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "virtualCurrencyType": "Minecoin"
+                },
+                "linksTo": "MultiItemPage_PersonaSkinSelector%7cSkinPack_7dae6bfe-e92b-403e-842e-d8d75e329644",
+                "linksToInfo": {
+                  "linksTo": "MultiItemPage_PersonaSkinSelector%7cSkinPack_7dae6bfe-e92b-403e-842e-d8d75e329644",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.skin_selector_screen",
+                  "navigateInPlace": false
+                },
+                "creatorPage": "CreatorPage_master_player_account!301F442C3B63DC20",
+                "statistics": {
+                  "skins": 1,
+                  "worlds": 0,
+                  "textures": 0,
+                  "behaviors": 0,
+                  "addOns": 0
+                },
+                "flags": [],
+                "ownership": "Purchased",
+                "packType": "SkinPack",
+                "packIdentity": [
+                  {
+                    "type": "skinpack",
+                    "uuid": "42ae66b4-d3db-49be-8dd8-207a0cade6d8",
+                    "version": "1.0.2"
+                  }
+                ],
+                "tags": [],
+                "images": [
+                  {
+                    "tag": "Thumbnail",
+                    "type": "Thumbnail",
+                    "url": "https://xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/65f2a2fb-cd9e-46f7-9b91-660b83245f4e/Minecon2015_Thumbnail_0.jpg",
+                    "urlWithResolution": "https://xforgeassets001.xboxlive.com:443/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/65f2a2fb-cd9e-46f7-9b91-660b83245f4e/Minecon2015_Thumbnail_0.jpg?width=800&height=450"
+                  }
+                ],
+                "contents": [],
+                "platformRestricted": false,
+                "iconOverlay": [],
+                "descriptionLineByLine": [],
+                "startDate": "2017-09-12T15:00:00Z",
+                "subscription": [],
+                "thumbnailPreviewOnly": false,
+                "namedLinksToInfoMap": {
+                  "dr.expanded_skins": {
+                    "linksTo": "MultiItemPage_PersonaSkinSelector%7cSkinPack_7dae6bfe-e92b-403e-842e-d8d75e329644",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.skin_selector_screen",
+                    "navigateInPlace": false
+                  },
+                  "dr.see_in_store": {
+                    "linksTo": "ItemDetail_7dae6bfe-e92b-403e-842e-d8d75e329644",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
+                    "navigateInPlace": false
+                  }
+                }
+              },
+              {
+                "id": "d0f9abcb-4915-4008-9837-ff7946f4a115",
+                "contentType": "MarketplaceDurableCatalog_V1.2",
+                "title": "MINECON Earth 2017 Skin Pack",
+                "description": "Join the party, wherever you are - and get dressed for the occasion with these fancy skins, celebrating everything from cosplay to cake! Available for a short time only, so get 'em fast!",
+                "creatorName": "Minecraft",
+                "thumbnail": {
+                  "tag": "Thumbnail",
+                  "type": "Thumbnail",
+                  "url": "https://xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/e08abe63-a71c-492d-a166-000d3b5cf121/MINECONEARTH_Thumbnail_0.jpg",
+                  "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/e08abe63-a71c-492d-a166-000d3b5cf121/MINECONEARTH_Thumbnail_0.jpg?width=800&height=450"
+                },
+                "rating": {
+                  "average": 4.6,
+                  "totalCount": 17288
+                },
+                "price": {
+                  "listPrice": 0,
+                  "realmsInfo": {
+                    "inRealmsPlus": false
+                  },
+                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "virtualCurrencyType": "Minecoin"
+                },
+                "linksTo": "MultiItemPage_PersonaSkinSelector%7cSkinPack_d0f9abcb-4915-4008-9837-ff7946f4a115",
+                "linksToInfo": {
+                  "linksTo": "MultiItemPage_PersonaSkinSelector%7cSkinPack_d0f9abcb-4915-4008-9837-ff7946f4a115",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.skin_selector_screen",
+                  "navigateInPlace": false
+                },
+                "creatorPage": "CreatorPage_master_player_account!301F442C3B63DC20",
+                "statistics": {
+                  "skins": 8,
+                  "worlds": 0,
+                  "textures": 0,
+                  "behaviors": 0,
+                  "addOns": 0
+                },
+                "flags": [],
+                "ownership": "Purchased",
+                "packType": "SkinPack",
+                "packIdentity": [
+                  {
+                    "type": "skinpack",
+                    "uuid": "a3fd78f1-23a4-49f9-9122-1cdc5e49b3bd",
+                    "version": "1.0.4"
+                  }
+                ],
+                "tags": [],
+                "images": [
+                  {
+                    "tag": "Thumbnail",
+                    "type": "Thumbnail",
+                    "url": "https://xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/e08abe63-a71c-492d-a166-000d3b5cf121/MINECONEARTH_Thumbnail_0.jpg",
+                    "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/e08abe63-a71c-492d-a166-000d3b5cf121/MINECONEARTH_Thumbnail_0.jpg?width=800&height=450"
+                  }
+                ],
+                "contents": [],
+                "platformRestricted": false,
+                "iconOverlay": [],
+                "descriptionLineByLine": [],
+                "startDate": "2017-11-13T15:00:00Z",
+                "subscription": [],
+                "thumbnailPreviewOnly": false,
+                "namedLinksToInfoMap": {
+                  "dr.expanded_skins": {
+                    "linksTo": "MultiItemPage_PersonaSkinSelector%7cSkinPack_d0f9abcb-4915-4008-9837-ff7946f4a115",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.skin_selector_screen",
+                    "navigateInPlace": false
+                  },
+                  "dr.see_in_store": {
+                    "linksTo": "ItemDetail_d0f9abcb-4915-4008-9837-ff7946f4a115",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
+                    "navigateInPlace": false
+                  }
+                }
+              },
+              {
+                "id": "01d22780-c8c6-421d-a5cf-c615a398c480",
+                "contentType": "MarketplaceDurableCatalog_V1.2",
+                "title": "Mumbo Jumbo & Grian Skins",
+                "description": "Private skin pack containing Mumbo Jumbo’s and Grian’s skins for use in their Minecraft Earth road trip video series, debuting at Minecon Live 2020. ",
+                "creatorName": "Minecraft",
+                "thumbnail": {
+                  "tag": "Thumbnail",
+                  "type": "Thumbnail",
+                  "url": "https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-20ca2/89252f64-c1b0-41dc-a538-94fa0c14fa1b/EarthSkin_Thumbnail_0.jpg",
+                  "urlWithResolution": "https://xforgeassets001.xboxlive.com:443/pf-title-b63a0803d3653643-20ca2/89252f64-c1b0-41dc-a538-94fa0c14fa1b/EarthSkin_Thumbnail_0.jpg?width=800&height=450"
+                },
+                "rating": {
+                  "average": 4.2,
+                  "totalCount": 268
+                },
+                "price": {
+                  "listPrice": 0,
+                  "realmsInfo": {
+                    "inRealmsPlus": false
+                  },
+                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "virtualCurrencyType": "Minecoin"
+                },
+                "linksTo": "MultiItemPage_PersonaSkinSelector%7cSkinPack_01d22780-c8c6-421d-a5cf-c615a398c480",
+                "linksToInfo": {
+                  "linksTo": "MultiItemPage_PersonaSkinSelector%7cSkinPack_01d22780-c8c6-421d-a5cf-c615a398c480",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.skin_selector_screen",
+                  "navigateInPlace": false
+                },
+                "creatorPage": "CreatorPage_master_player_account!301F442C3B63DC20",
+                "statistics": {
+                  "skins": 2,
+                  "worlds": 0,
+                  "textures": 0,
+                  "behaviors": 0,
+                  "addOns": 0
+                },
+                "flags": [],
+                "ownership": "Purchased",
+                "packType": "SkinPack",
+                "packIdentity": [
+                  {
+                    "type": "skinpack",
+                    "uuid": "ac3914ce-f321-4b13-89bf-5a74990242c8",
+                    "version": "1.0.4"
+                  }
+                ],
+                "tags": [],
+                "images": [
+                  {
+                    "tag": "Thumbnail",
+                    "type": "Thumbnail",
+                    "url": "https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-20ca2/89252f64-c1b0-41dc-a538-94fa0c14fa1b/EarthSkin_Thumbnail_0.jpg",
+                    "urlWithResolution": "https://xforgeassets001.xboxlive.com:443/pf-title-b63a0803d3653643-20ca2/89252f64-c1b0-41dc-a538-94fa0c14fa1b/EarthSkin_Thumbnail_0.jpg?width=800&height=450"
+                  }
+                ],
+                "contents": [],
+                "platformRestricted": false,
+                "iconOverlay": [],
+                "descriptionLineByLine": [],
+                "startDate": "2020-08-17T10:00:00Z",
+                "subscription": [],
+                "thumbnailPreviewOnly": false,
+                "namedLinksToInfoMap": {
+                  "dr.expanded_skins": {
+                    "linksTo": "MultiItemPage_PersonaSkinSelector%7cSkinPack_01d22780-c8c6-421d-a5cf-c615a398c480",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.skin_selector_screen",
+                    "navigateInPlace": false
+                  },
+                  "dr.see_in_store": {
+                    "linksTo": "ItemDetail_01d22780-c8c6-421d-a5cf-c615a398c480",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
+                    "navigateInPlace": false
+                  }
+                }
+              }
+            ],
+            "totalItems": 10,
+            "linksTo": "MultiItemPage_Inventory",
+            "linksToInfo": {
+              "linksTo": "MultiItemPage_Inventory",
+              "linkType": "marketplace_inventory",
+              "displayType": "store_layout.store_data_driven_screen",
+              "navigateInPlace": false
+            },
+            "customStoreRowConfiguration": {
+              "seeAllVisible": false,
+              "maxOffers": 19,
+              "arrowsVisible": false,
+              "visibleOffersPerRow": 0
+            },
+            "type": "itemListComp",
+            "$type": "ItemListComponent"
+          }
+        ]
+      },
+      {
+        "controlId": "VerticalLineDivider",
+        "components": [
+          {
+            "textureImage": {
+              "type": "Unknown",
+              "style": {
+                "highlightColor": [],
+                "alignment": "Left",
+                "textColor": [],
+                "font": "default",
+                "showBackground": false,
+                "showOutline": false,
+                "indent": 0.0,
+                "buttonWidth": 0.0,
+                "color": [0.70196, 0.8392, 0.8588, 0.2],
+                "offerControlIdType": "None"
+              }
+            },
+            "type": "textureComp",
+            "$type": "TextureComponent"
+          }
+        ]
+      },
+      {
+        "controlId": "SkinPackList",
+        "components": [
+          {
+            "text": {
+              "value": "dr.classic_skins.purchasable",
+              "style": {
+                "highlightColor": [],
+                "alignment": "Left",
+                "textColor": [1.0, 1.0, 1.0],
+                "font": "MinecraftTen",
+                "showBackground": false,
+                "showOutline": false,
+                "indent": 0.0,
+                "buttonWidth": 0.0,
+                "color": [],
+                "offerControlIdType": "None"
+              },
+              "replacements": []
+            },
+            "type": "headerComp",
+            "$type": "HeaderComponent"
+          },
+          {
+            "isOwned": false,
+            "type": "skinPackListComp",
+            "$type": "SkinPackListComponent"
+          },
+          {
+            "type": "dispPreviewPieceComp",
+            "$type": "DisplayPreviewedPieceOfferComponent"
+          },
+          {
+            "items": [
+              {
+                "id": "39ddc16e-e398-4c71-b562-75b2ac5b1319",
+                "contentType": "MarketplaceDurableCatalog_V1.2",
+                "title": "The Simpsons Skin Pack",
+                "description": "The Simpsons as you have never seen them before; in pure, unadulterated Minecraft block-o-vision! Don't miss out this awesome pack featuring 24 characters from the series.",
+                "creatorName": "Minecraft",
+                "thumbnail": {
+                  "tag": "Thumbnail",
+                  "type": "Thumbnail",
+                  "url": "https://xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/5d180df6-b118-4c66-8700-3c119809a1d8/simpsons_Thumbnail_0.jpg",
+                  "urlWithResolution": "https://xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/5d180df6-b118-4c66-8700-3c119809a1d8/simpsons_Thumbnail_0.jpg?width=800&height=450"
+                },
+                "Rating": {
+                  "Average": 4.3,
+                  "TotalCount": 2377,
+                  "Count5Star": 1800,
+                  "Count4Star": 132,
+                  "Count3Star": 109,
+                  "Count2Star": 38,
+                  "Count1Star": 298
+                },
+                "price": {
+                  "listPrice": 1000000,
+                  "realmsInfo": {
+                    "inRealmsPlus": false
+                  },
+                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "virtualCurrencyType": "Minecoin"
+                },
+                "linksTo": "ItemDetail_39ddc16e-e398-4c71-b562-75b2ac5b1319",
+                "linksToInfo": {
+                  "linksTo": "ItemDetail_39ddc16e-e398-4c71-b562-75b2ac5b1319",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.store_data_driven_screen",
+                  "navigateInPlace": false
+                },
+                "creatorPage": "CreatorPage_master_player_account!301F442C3B63DC20",
+                "statistics": {
+                  "skins": 1,
+                  "worlds": 0,
+                  "textures": 0,
+                  "behaviors": 0,
+                  "addOns": 0
+                },
+                "flags": ["New"],
+                "ownership": "NotOwned",
+                "packType": "SkinPack",
+                "packIdentity": [
+                  {
+                    "type": "skinpack",
+                    "uuid": "4f4a0dfa-6e3a-4a2b-bad1-eb84b1b76ee9",
+                    "version": "1.0.3"
+                  }
+                ],
+                "tags": [],
+                "images": [
+                  {
+                    "tag": "Thumbnail",
+                    "type": "Thumbnail",
+                    "url": "https://xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/5d180df6-b118-4c66-8700-3c119809a1d8/simpsons_Thumbnail_0.jpg",
+                    "urlWithResolution": "https://xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/5d180df6-b118-4c66-8700-3c119809a1d8/simpsons_Thumbnail_0.jpg?width=800&height=450"
+                  }
+                ],
+                "contents": [],
+                "platformRestricted": false,
+                "iconOverlay": [],
+                "descriptionLineByLine": [],
+                "startDate": "2017-09-12T15:00:00Z",
+                "subscription": [],
+                "thumbnailPreviewOnly": false,
+                "namedLinksToInfoMap": {}
+              }
+            ],
+            "totalItems": 1,
+            "type": "pagedItemListComp",
+            "$type": "PagedItemListComponent"
+          }
+        ]
+      },
+      {
+        "controlId": "VerticalLineDivider",
+        "components": [
+          {
+            "textureImage": {
+              "type": "Unknown",
+              "style": {
+                "highlightColor": [],
+                "alignment": "Left",
+                "textColor": [],
+                "font": "default",
+                "showBackground": false,
+                "showOutline": false,
+                "indent": 0.0,
+                "buttonWidth": 0.0,
+                "color": [0.70196, 0.8392, 0.8588, 0.2],
+                "offerControlIdType": "None"
+              }
+            },
+            "type": "textureComp",
+            "$type": "TextureComponent"
+          }
+        ]
+      },
+      {
+        "controlId": "SkinPackList",
+        "components": [
+          {
+            "text": {
+              "value": "marketplace.pass",
+              "style": {
+                "highlightColor": [],
+                "alignment": "Left",
+                "textColor": [1.0, 1.0, 1.0],
+                "font": "MinecraftTen",
+                "showBackground": false,
+                "showOutline": false,
+                "indent": 0.0,
+                "buttonWidth": 0.0,
+                "color": [],
+                "offerControlIdType": "None"
+              },
+              "replacements": []
+            },
+            "type": "headerComp",
+            "$type": "HeaderComponent"
+          },
+          {
+            "isOwned": false,
+            "type": "skinPackListComp",
+            "$type": "SkinPackListComponent"
+          },
+          {
+            "type": "dispPreviewPieceComp",
+            "$type": "DisplayPreviewedPieceOfferComponent"
+          },
+          {
+            "items": [
+              {
+                "id": "2766095f-b2c0-4237-911f-e18a30fb0928",
+                "contentType": "MarketplaceDurableCatalog_V1.2",
+                "title": "Marvel Avengers Skin Pack",
+                "description": "Step into Minecraft dressed as one of Earth’s Mightiest Heroes (or powerful villains) with this incredible Skin Pack, featuring core team members from Marvel’s Avengers including Iron Man, Captain America, Hulk, Thor, and many more iconic characters from the Marvel Universe.",
+                "creatorName": "Minecraft",
+                "thumbnail": {
+                  "tag": "Thumbnail",
+                  "type": "Thumbnail",
+                  "url": "https://xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/d3cd9473-b3d9-407a-95b3-6ebfdca004a9/Avengers_Thumbnail_0.jpg",
+                  "urlWithResolution": "https://xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/d3cd9473-b3d9-407a-95b3-6ebfdca004a9/Avengers_Thumbnail_0.jpg?width=800&height=450"
+                },
+                "Rating": {
+                  "Average": 4.4,
+                  "TotalCount": 107,
+                  "Count5Star": 81,
+                  "Count4Star": 9,
+                  "Count3Star": 5,
+                  "Count2Star": 3,
+                  "Count1Star": 9
+                },
+                "price": {
+                  "listPrice": 1000000,
+                  "realmsInfo": {
+                    "inRealmsPlus": true,
+                    "startDate": "2025-08-05T17:00:00Z",
+                    "expirationDate": "2026-02-03T18:00:00Z"
+                  },
+                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "virtualCurrencyType": "Minecoin"
+                },
+                "realmsInfo": {
+                  "inRealmsPlus": true,
+                  "startDate": "2025-08-05T17:00:00Z",
+                  "expirationDate": "2026-02-03T18:00:00Z"
+                },
+                "linksTo": "ItemDetail_2766095f-b2c0-4237-911f-e18a30fb0928",
+                "linksToInfo": {
+                  "linksTo": "ItemDetail_2766095f-b2c0-4237-911f-e18a30fb0928",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.store_data_driven_screen",
+                  "navigateInPlace": false
+                },
+                "creatorPage": "CreatorPage_master_player_account!301F442C3B63DC20",
+                "statistics": {
+                  "skins": 1,
+                  "worlds": 0,
+                  "textures": 0,
+                  "behaviors": 0,
+                  "addOns": 0
+                },
+                "flags": ["New"],
+                "ownership": "NotOwned",
+                "packType": "SkinPack",
+                "packIdentity": [
+                  {
+                    "type": "skinpack",
+                    "uuid": "083c0c90-cd38-46ad-a473-881f2a7cc069",
+                    "version": "1.0.3"
+                  }
+                ],
+                "tags": [],
+                "images": [
+                  {
+                    "tag": "Thumbnail",
+                    "type": "Thumbnail",
+                    "url": "https://xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/d3cd9473-b3d9-407a-95b3-6ebfdca004a9/Avengers_Thumbnail_0.jpg",
+                    "urlWithResolution": "https://xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/d3cd9473-b3d9-407a-95b3-6ebfdca004a9/Avengers_Thumbnail_0.jpg?width=800&height=450"
+                  }
+                ],
+                "contents": [],
+                "platformRestricted": false,
+                "iconOverlay": [],
+                "descriptionLineByLine": [],
+                "startDate": "2017-09-12T15:00:00Z",
+                "subscription": [],
+                "thumbnailPreviewOnly": false,
+                "namedLinksToInfoMap": {}
+              }
+            ],
+            "totalItems": 1,
+            "type": "pagedItemListComp",
+            "$type": "PagedItemListComponent"
+          }
+        ]
+      }
+    ],
+    "itemsPerRow": 0,
+    "screenshotHeightRatio": 0.0,
+    "inventoryVersion": "1/Njky",
+    "userListsVersion": "dc1cc198-0b35-45a5-88cd-e1ac0986e766",
+    "pageRefresh": false,
+    "sidebarLayoutType": "Persona"
+  }
+}
