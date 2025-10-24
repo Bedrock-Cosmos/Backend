@@ -1,0 +1,328 @@
+{
+  "result": {
+    "id": "526a966f-0678-407f-8717-95ca632b5399",
+    "pageId": "DressingRoom_Capes",
+    "addToRecentlyViewed": false,
+    "pageName": "Home L1",
+    "rows": [
+      {
+        "controlId": "Layout",
+        "components": [
+          {
+            "type": "personaOfferInteractionComp",
+            "$type": "PersonaOfferInteractionComponent"
+          },
+          {
+            "type": "appearanceInteractionComp",
+            "$type": "AppearanceInteractionComponent"
+          },
+          {
+            "type": "openColorPickerComp",
+            "$type": "OpenColorPickerComponent"
+          },
+          {
+            "type": "openExpandedAppearanceViewComp",
+            "$type": "OpenExpandedAppearanceViewComponent"
+          },
+          {
+            "linksToInfo": {
+              "linksTo": "MultiItemPage_DressingRoomCoinScreen",
+              "linkType": "pageId",
+              "displayType": "store_layout.character_creator_screen",
+              "screenTitle": {
+                "value": "dr.header.minecoin.screen",
+                "style": {
+                  "highlightColor": [],
+                  "alignment": "Left",
+                  "textColor": [],
+                  "font": "MinecraftTen",
+                  "showBackground": false,
+                  "showOutline": false,
+                  "indent": 0.0,
+                  "buttonWidth": 0.0,
+                  "color": [],
+                  "offerControlIdType": "None"
+                },
+                "replacements": []
+              },
+              "navigateInPlace": false
+            },
+            "isVisible": true,
+            "type": "topBarMinecoinComp",
+            "$type": "TopBarMinecoinComponent"
+          },
+          {
+            "linksToInfo": {
+              "linksTo": "Search_DressingRoomSearchHome",
+              "linkType": "pageId",
+              "displayType": "store_layout.character_creator_screen",
+              "screenTitle": {
+                "value": "dr.header.search.home",
+                "style": {
+                  "highlightColor": [],
+                  "alignment": "Left",
+                  "textColor": [],
+                  "font": "MinecraftTen",
+                  "showBackground": false,
+                  "showOutline": false,
+                  "indent": 0.0,
+                  "buttonWidth": 0.0,
+                  "color": [],
+                  "offerControlIdType": "None"
+                },
+                "replacements": []
+              },
+              "navigateInPlace": false
+            },
+            "isVisible": true,
+            "type": "topBarSearchComp",
+            "$type": "TopBarSearchComponent"
+          }
+        ]
+      },
+      {
+        "controlId": "GridList",
+        "components": [
+          {
+            "text": {
+              "value": "dr.collector_title.owned",
+              "style": {
+                "highlightColor": [],
+                "alignment": "Left",
+                "textColor": [1.0, 1.0, 1.0],
+                "font": "MinecraftTen",
+                "showBackground": false,
+                "showOutline": false,
+                "indent": 0.0,
+                "buttonWidth": 0.0,
+                "color": [],
+                "offerControlIdType": "None"
+              },
+              "replacements": ["dr.categories.capes"]
+            },
+            "type": "headerComp",
+            "$type": "HeaderComponent"
+          },
+          {
+            "items": [
+              {
+                "id": "91b8c70a-50cd-4b48-a0fa-ddbf160d2045",
+                "contentType": "PersonaDurable",
+                "title": "1 Millionth Cape",
+                "description": "§",
+                "creatorName": "BionicBen",
+                "thumbnail": {
+                  "tag": "Thumbnail",
+                  "type": "Thumbnail",
+                  "url": "https://github.com/zoroark19/zoroark19.github.io/blob/main/Main/Thumbnails/Persona/1Mil_cape.png?raw=true",
+                  "urlWithResolution": "https://github.com/zoroark19/zoroark19.github.io/blob/main/Main/Thumbnails/Persona/1Mil_cape.png?raw=true"
+                },
+                "price": {
+                  "listPrice": 0,
+                  "saleInfo": {
+                    "salePrice": 0,
+                    "storeId": "91b8c70a-50cd-4b48-a0fa-ddbf160d2045",
+                    "startDate": "2025-10-23T17:00:00Z",
+                    "expirationDate": "2025-10-24T17:00:00Z",
+                    "discount": 0.33,
+                    "category": "RegularSale"
+                  },
+                  "realmsInfo": {
+                    "inRealmsPlus": false
+                  },
+                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "virtualCurrencyType": "Minecoin"
+                },
+                "linksTo": "",
+                "linksToInfo": {
+                  "linksTo": "",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.store_data_driven_screen",
+                  "navigateInPlace": false
+                },
+                "creatorPage": "CreatorPage_master_player_account!BionicBen1218",
+                "statistics": {
+                  "skins": 0,
+                  "worlds": 0,
+                  "textures": 0,
+                  "behaviors": 0,
+                  "addOns": 0
+                },
+                "flags": ["New"],
+                "pieceType": "persona_capes",
+                "rarity": "epic",
+                "ownership": "Purchased",
+                "packType": "Persona",
+                "packIdentity": [
+                  {
+                    "type": "persona_piece",
+                    "uuid": "2286fcf8-7add-4829-b2ce-c8e94ea2fe19",
+                    "version": "1.0.0"
+                  }
+                ],
+                "tags": [],
+                "images": [
+                  {
+                    "tag": "Thumbnail",
+                    "type": "Thumbnail",
+                    "url": "https://github.com/zoroark19/zoroark19.github.io/blob/main/Main/Thumbnails/Persona/1Mil_cape.png?raw=true",
+                    "urlWithResolution": "https://github.com/zoroark19/zoroark19.github.io/blob/main/Main/Thumbnails/Persona/1Mil_cape.png?raw=true"
+                  }
+                ],
+                "contents": [],
+                "platformRestricted": false,
+                "iconOverlay": [],
+                "descriptionLineByLine": [],
+                "startDate": "2025-09-27T17:00:00Z",
+                "subscription": [],
+                "thumbnailPreviewOnly": false,
+                "namedLinksToInfoMap": {
+                  "dr.persona_creator_page": {
+                    "linksTo": "PersonaCreatorPage_master_player_account!BionicBen1218",
+                    "linkType": "external",
+                    "displayType": "store_layout.character_creator_screen",
+                    "navigateInPlace": false
+                  }
+                }
+              },
+              {
+                "id": "0ed75751-d5a7-4331-b3ea-bb495566ce96",
+                "contentType": "PersonaDurable",
+                "title": "2011 Unused Cape #1",
+                "description": "§",
+                "creatorName": "BionicBen",
+                "thumbnail": {
+                  "tag": "Thumbnail",
+                  "type": "Thumbnail",
+                  "url": "https://github.com/zoroark19/zoroark19.github.io/blob/main/Main/Thumbnails/Persona/2011UnusedCape1_cape.png?raw=true",
+                  "urlWithResolution": "https://github.com/zoroark19/zoroark19.github.io/blob/main/Main/Thumbnails/Persona/2011UnusedCape1_cape.png?raw=true"
+                },
+                "price": {
+                  "listPrice": 0,
+                  "saleInfo": {
+                    "salePrice": 0,
+                    "storeId": "0ed75751-d5a7-4331-b3ea-bb495566ce96",
+                    "startDate": "2025-10-23T17:00:00Z",
+                    "expirationDate": "2025-10-24T17:00:00Z",
+                    "discount": 0.33,
+                    "category": "RegularSale"
+                  },
+                  "realmsInfo": {
+                    "inRealmsPlus": false
+                  },
+                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "virtualCurrencyType": "Minecoin"
+                },
+                "linksTo": "",
+                "linksToInfo": {
+                  "linksTo": "",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.store_data_driven_screen",
+                  "navigateInPlace": false
+                },
+                "creatorPage": "CreatorPage_master_player_account!BionicBen1218",
+                "statistics": {
+                  "skins": 0,
+                  "worlds": 0,
+                  "textures": 0,
+                  "behaviors": 0,
+                  "addOns": 0
+                },
+                "flags": ["New"],
+                "pieceType": "persona_capes",
+                "rarity": "epic",
+                "ownership": "Purchased",
+                "packType": "Persona",
+                "packIdentity": [
+                  {
+                    "type": "persona_piece",
+                    "uuid": "f2abaf66-2212-4ed7-92f6-35d9e4d1abdc",
+                    "version": "1.0.0"
+                  }
+                ],
+                "tags": [],
+                "images": [
+                  {
+                    "tag": "Thumbnail",
+                    "type": "Thumbnail",
+                    "url": "https://github.com/zoroark19/zoroark19.github.io/blob/main/Main/Thumbnails/Persona/2011UnusedCape1_cape.png?raw=true",
+                    "urlWithResolution": "https://github.com/zoroark19/zoroark19.github.io/blob/main/Main/Thumbnails/Persona/2011UnusedCape1_cape.png?raw=true"
+                  }
+                ],
+                "contents": [],
+                "platformRestricted": false,
+                "iconOverlay": [],
+                "descriptionLineByLine": [],
+                "startDate": "2025-09-27T17:00:00Z",
+                "subscription": [],
+                "thumbnailPreviewOnly": false,
+                "namedLinksToInfoMap": {
+                  "dr.persona_creator_page": {
+                    "linksTo": "PersonaCreatorPage_master_player_account!BionicBen1218",
+                    "linkType": "external",
+                    "displayType": "store_layout.character_creator_screen",
+                    "navigateInPlace": false
+                  }
+                }
+              }
+            ],
+            "totalItems": 24,
+            "linksTo": "MultiItemPage_Inventory",
+            "linksToInfo": {
+              "linksTo": "MultiItemPage_Inventory",
+              "linkType": "marketplace_inventory",
+              "displayType": "store_layout.store_data_driven_screen",
+              "navigateInPlace": false
+            },
+            "customStoreRowConfiguration": {
+              "seeAllVisible": false,
+              "maxOffers": 24,
+              "arrowsVisible": false,
+              "visibleOffersPerRow": 0
+            },
+            "type": "itemListComp",
+            "$type": "ItemListComponent"
+          },
+          {
+            "type": "dispPreviewPieceComp",
+            "$type": "DisplayPreviewedPieceOfferComponent"
+          },
+          {
+            "type": "personaDefaultButtonComp",
+            "$type": "PersonaDefaultButton"
+          }
+        ]
+      },
+      {
+        "controlId": "VerticalLineDivider",
+        "components": [
+          {
+            "textureImage": {
+              "type": "Unknown",
+              "style": {
+                "highlightColor": [],
+                "alignment": "Left",
+                "textColor": [],
+                "font": "default",
+                "showBackground": false,
+                "showOutline": false,
+                "indent": 0.0,
+                "buttonWidth": 0.0,
+                "color": [0.70196, 0.8392, 0.8588, 0.2],
+                "offerControlIdType": "None"
+              }
+            },
+            "type": "textureComp",
+            "$type": "TextureComponent"
+          }
+        ]
+      }
+    ],
+    "itemsPerRow": 0,
+    "screenshotHeightRatio": 0.0,
+    "inventoryVersion": "1/MjYyMQ==",
+    "userListsVersion": "1332cba9-6562-4256-938e-a181d69a0b43",
+    "pageRefresh": false,
+    "sidebarLayoutType": "Persona"
+  }
+}
