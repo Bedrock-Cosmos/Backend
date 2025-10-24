@@ -142,7 +142,7 @@
               },
               "flags": ["New"],
               "ownership": "Purchased",
-              "packType": "AddOn",
+              "packType": "SkinPack",
               "packIdentity": [
                 {
                   "type": "skinpack",
@@ -150,7 +150,6 @@
                   "version": "1.0.0"
                 }
               ],
-              "videoUrl": "https://www.youtube.com/watch?v=9s_ohhKwM5g",
               "images": [
                 {
                   "tag": "Thumbnail",
