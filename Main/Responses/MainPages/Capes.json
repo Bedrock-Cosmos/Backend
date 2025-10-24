@@ -1185,7 +1185,7 @@
                   }
                 }
               },
-			  {
+              {
                 "id": "cfbb7987-e21a-43a3-8932-07294c2aefd7",
                 "contentType": "PersonaDurable",
                 "title": "The Pan Cape!",
@@ -1197,7 +1197,7 @@
                   "url": "https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/7b6368e8-2953-4142-949d-bb4d4d7040ce/cape_pancape_thumbnail_0.png",
                   "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/pf-title-b63a0803d3653643-20ca2/7b6368e8-2953-4142-949d-bb4d4d7040ce/cape_pancape_thumbnail_0.png?width=800&height=450"
                 },
-				"price": {
+                "price": {
                   "listPrice": 0,
                   "realmsInfo": {
                     "inRealmsPlus": false
@@ -1405,12 +1405,13 @@
                   }
                 }
               },
+              // START OF CUSTOM CAPES
               {
                 "id": "91b8c70a-50cd-4b48-a0fa-ddbf160d2045",
                 "contentType": "PersonaDurable",
                 "title": "Millionth Sale Cape",
                 "description": "§",
-                "creatorName": "Minecraft",
+                "creatorName": "Custom Cosmetics",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -1482,7 +1483,7 @@
                 "contentType": "PersonaDurable",
                 "title": "Minecon 2011",
                 "description": "§",
-                "creatorName": "Minecraft",
+                "creatorName": "Custom Cosmetics",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -1554,7 +1555,7 @@
                 "contentType": "PersonaDurable",
                 "title": "Minecon 2012",
                 "description": "§",
-                "creatorName": "Minecraft",
+                "creatorName": "Custom Cosmetics",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -1626,7 +1627,7 @@
                 "contentType": "PersonaDurable",
                 "title": "Minecon 2013",
                 "description": "§",
-                "creatorName": "Minecraft",
+                "creatorName": "Custom Cosmetics",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -1698,7 +1699,7 @@
                 "contentType": "PersonaDurable",
                 "title": "Minecon 2015",
                 "description": "§",
-                "creatorName": "Minecraft",
+                "creatorName": "Custom Cosmetics",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -1770,7 +1771,7 @@
                 "contentType": "PersonaDurable",
                 "title": "Minecon 2016",
                 "description": "§",
-                "creatorName": "Minecraft",
+                "creatorName": "Custom Cosmetics",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -1808,7 +1809,7 @@
                 "packIdentity": [
                   {
                     "type": "persona_piece",
-                    "uuid": "61e8f038-e067-43d9-bd6e-0f8fa3bdf13b",
+                    "uuid": "bb3f8cd6-9a5b-47ad-b629-9352e140d3eb",
                     "version": "1.0.0"
                   }
                 ],
@@ -1837,12 +1838,12 @@
                   }
                 }
               },
-			  {
+              {
                 "id": "0ed75751-d5a7-4331-b3ea-bb495566ce96",
                 "contentType": "PersonaDurable",
                 "title": "Minecon Unused Cape #1",
                 "description": "§",
-                "creatorName": "Minecraft",
+                "creatorName": "Custom Cosmetics",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -1914,7 +1915,7 @@
                 "contentType": "PersonaDurable",
                 "title": "Minecon Unused Cape #2",
                 "description": "§",
-                "creatorName": "Minecraft",
+                "creatorName": "Custom Cosmetics",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -1986,7 +1987,7 @@
                 "contentType": "PersonaDurable",
                 "title": "Minecon Unused Cape #3",
                 "description": "§",
-                "creatorName": "Minecraft",
+                "creatorName": "Custom Cosmetics",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",

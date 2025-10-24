@@ -1,0 +1,20 @@
+{
+  "skins": [
+    {
+      "localization_name": "BionicBen_custom",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "BionicBen_custom.png",
+      "cape": "BionicBen_cape.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Zoroark19_custom",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Zoroark19_custom.png",
+      "cape": "Zoroark19_cape.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "DevTestPack", 
+  "localization_name": "DevTestPack"
+}
