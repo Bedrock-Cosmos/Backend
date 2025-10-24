@@ -1960,7 +1960,7 @@
                 "packIdentity": [
                   {
                     "type": "persona_piece",
-                    "uuid": "61e8f038-e067-43d9-bd6e-0f8fa3bdf13b",
+                    "uuid": "bb3f8cd6-9a5b-47ad-b629-9352e140d3eb",
                     "version": "1.0.0"
                   }
                 ],
@@ -1990,7 +1990,7 @@
                 }
               }
             ],
-            "totalItems": 24,
+            "totalItems": 30,
             "linksTo": "MultiItemPage_Inventory",
             "linksToInfo": {
               "linksTo": "MultiItemPage_Inventory",
@@ -2000,7 +2000,7 @@
             },
             "customStoreRowConfiguration": {
               "seeAllVisible": false,
-              "maxOffers": 24,
+              "maxOffers": 30,
               "arrowsVisible": false,
               "visibleOffersPerRow": 0
             },
