@@ -747,7 +747,7 @@
                 "namedLinksToInfoMap": {}
               }
             ],
-            "totalItems": 6,
+            "totalItems": 76,
             "linksTo": "MultiItemPage_PersonaSkinSelector%7cSkinPack_10000000-2000-3000-4000-500000000000",
             "linksToInfo": {
               "linksTo": "MultiItemPage_PersonaSkinSelector%7cSkinPack_10000000-2000-3000-4000-500000000000",
@@ -757,7 +757,7 @@
             },
             "customStoreRowConfiguration": {
               "seeAllVisible": false,
-              "maxOffers": 6,
+              "maxOffers": 7,
               "arrowsVisible": true,
               "visibleOffersPerRow": 6
             },
