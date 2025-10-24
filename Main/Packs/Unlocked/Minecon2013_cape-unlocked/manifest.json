@@ -1,0 +1,10 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "pack.description",
+    "name": "pack.name",
+    "uuid": "e701dbaa-fe9f-4d6a-920d-ee3f4b40102e",
+    "version": [1, 0, 0]
+  },
+  "modules": [{ "type": "persona_piece", "uuid": "ad08386f-b5b7-45f7-a586-323e3549d1b7", "version": [1, 0, 0] }]
+}
