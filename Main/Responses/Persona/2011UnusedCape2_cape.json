@@ -3,10 +3,10 @@
   "status": "OK",
   "data": {
     "Item": {
-      "Id": "0ed75751-d5a7-4331-b3ea-bb495566ce96",
+      "Id": "6c05c0a3-56f8-47bd-b2f3-2d7fe36771fd",
       "Contents": [
         {
-          "Id": "f2abaf66-2212-4ed7-92f6-35d9e4d1abdc",
+          "Id": "3a025630-9518-43e5-8891-6483baa4080f",
           "Url": "https://github.com/zoroark19/zoroark19.github.io/blob/main/Main/Packs/Persona/2011UnusedCape1_cape.zip?raw=true",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
@@ -30,7 +30,7 @@
         "packIdentity": [
           {
             "type": "persona_piece",
-            "uuid": "f2abaf66-2212-4ed7-92f6-35d9e4d1abdc",
+            "uuid": "3a025630-9518-43e5-8891-6483baa4080f",
             "version": "1.0.0"
           }
         ]
