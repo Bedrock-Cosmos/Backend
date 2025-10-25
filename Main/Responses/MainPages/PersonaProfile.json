@@ -125,6 +125,7 @@
                 },
                 "pieceType": "persona_capes",
                 "rarity": "epic",
+                "flags": ["New"],
                 "ownership": "Purchased",
                 "packType": "Persona",
                 "packIdentity": [
@@ -174,6 +175,7 @@
                 },
                 "pieceType": "persona_capes",
                 "rarity": "legendary",
+                "flags": ["New"],
                 "ownership": "Purchased",
                 "packType": "Persona",
                 "packIdentity": [
@@ -223,6 +225,7 @@
                 },
                 "pieceType": "persona_capes",
                 "rarity": "legendary",
+                "flags": ["New"],
                 "ownership": "Purchased",
                 "packType": "Persona",
                 "packIdentity": [
@@ -272,6 +275,7 @@
                 },
                 "pieceType": "persona_capes",
                 "rarity": "legendary",
+                "flags": ["New"],
                 "ownership": "Purchased",
                 "packType": "Persona",
                 "packIdentity": [
@@ -321,6 +325,7 @@
                 },
                 "pieceType": "persona_capes",
                 "rarity": "legendary",
+                "flags": ["New"],
                 "ownership": "Purchased",
                 "packType": "Persona",
                 "packIdentity": [
@@ -370,6 +375,7 @@
                 },
                 "pieceType": "persona_capes",
                 "rarity": "legendary",
+                "flags": ["New"],
                 "ownership": "Purchased",
                 "packType": "Persona",
                 "packIdentity": [
@@ -419,6 +425,7 @@
                 },
                 "pieceType": "persona_capes",
                 "rarity": "common",
+                "flags": ["New"],
                 "ownership": "Purchased",
                 "packType": "Persona",
                 "packIdentity": [
@@ -468,6 +475,7 @@
                 },
                 "pieceType": "persona_capes",
                 "rarity": "common",
+                "flags": ["New"],
                 "ownership": "Purchased",
                 "packType": "Persona",
                 "packIdentity": [
@@ -517,6 +525,7 @@
                 },
                 "pieceType": "persona_capes",
                 "rarity": "common",
+                "flags": ["New"],
                 "ownership": "Purchased",
                 "packType": "Persona",
                 "packIdentity": [
@@ -562,6 +571,7 @@
                 },
                 "pieceType": "persona_capes",
                 "rarity": "legendary",
+                "flags": ["New"],
                 "ownership": "Purchased",
                 "packType": "Persona",
                 "packIdentity": [
