@@ -1,0 +1,10 @@
+{
+  "piece_id": "e5909b48-ba25-4456-ba08-af25128cc27e",
+  "piece_name": "Peak Cape",
+  "piece_type": "persona_capes",
+  "texture_sources": [
+    {
+      "texture": "peak_cape.png"
+    }
+  ]
+}

@@ -2053,6 +2053,53 @@
                     "navigateInPlace": false
                   }
                 }
+              },
+              // 8onfire
+              {
+                "id": "5c05c51e-f29c-4991-9b96-88256022df45",
+                "contentType": "PersonaDurable",
+                "title": "Peak Cape",
+                "description": "§",
+                "creatorName": "Bon",
+                "thumbnail": {
+                  "tag": "Thumbnail",
+                  "type": "Thumbnail",
+                  "url": "https://github.com/zoroark19/zoroark19.github.io/blob/main/Main/Thumbnails/Persona/8onfire/Peak_cape.png?raw=true",
+                  "urlWithResolution": "https://github.com/zoroark19/zoroark19.github.io/blob/main/Main/Thumbnails/Persona/8onfire/Peak_cape.png?raw=true"
+                },
+                "price": {
+                  "listPrice": 0
+                },
+                "creatorPage": "CreatorPage_master_player_account!8onfire",
+                "flags": [],
+                "pieceType": "persona_capes",
+                "rarity": "legendary",
+                "ownership": "Purchased",
+                "packType": "Persona",
+                "packIdentity": [
+                  {
+                    "type": "persona_piece",
+                    "uuid": "a7571d23-44da-497c-acae-db87947e30cb",
+                    "version": "1.0.0"
+                  }
+                ],
+                "images": [
+                  {
+                    "tag": "Thumbnail",
+                    "type": "Thumbnail",
+                    "url": "https://github.com/zoroark19/zoroark19.github.io/blob/main/Main/Thumbnails/Persona/8onfire/Peak_cape.png?raw=true",
+                    "urlWithResolution": "https://github.com/zoroark19/zoroark19.github.io/blob/main/Main/Thumbnails/Persona/8onfire/Peak_cape.png?raw=true"
+                  }
+                ],
+                "startDate": "2025-10-24T12:00:00Z",
+                "namedLinksToInfoMap": {
+                  "dr.persona_creator_page": {
+                    "linksTo": "PersonaCreatorPage_master_player_account!8onfire",
+                    "linkType": "external",
+                    "displayType": "store_layout.character_creator_screen",
+                    "navigateInPlace": false
+                  }
+                }
               }
             ],
             "totalItems": 48,
