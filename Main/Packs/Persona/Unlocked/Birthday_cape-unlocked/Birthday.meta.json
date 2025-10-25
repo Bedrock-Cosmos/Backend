@@ -1,0 +1,10 @@
+{
+  "piece_id": "f26eb88c-5909-42cd-a795-80ff0f0da918",
+  "piece_name": "Birthday Cape",
+  "piece_type": "persona_capes",
+  "texture_sources": [
+    {
+      "texture": "Birthday.png"
+    }
+  ]
+}
