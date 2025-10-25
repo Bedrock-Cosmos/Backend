@@ -3,7 +3,6 @@
     "id": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
     "pageId": "DressingRoom_Capes",
     "addToRecentlyViewed": false,
-    "pageName": "8onfire's Capes",
     "rows": [
       {
         "controlId": "Layout",
@@ -81,11 +80,35 @@
         ]
       },
       {
+        "controlId": "VerticalLineDivider",
+        "components": [
+          {
+            "textureImage": {
+              "type": "Unknown",
+              "style": {
+                "highlightColor": [],
+                "alignment": "Left",
+                "textColor": [],
+                "font": "default",
+                "showBackground": false,
+                "showOutline": false,
+                "indent": 0.0,
+                "buttonWidth": 0.0,
+                "color": [0.70196, 0.8392, 0.8588, 0.2],
+                "offerControlIdType": "None"
+              }
+            },
+            "type": "textureComp",
+            "$type": "TextureComponent"
+          }
+        ]
+      },
+      {
         "controlId": "GridList",
         "components": [
           {
             "text": {
-              "value": "dr.collector_title.owned",
+              "value": "Capes by @8onfire",
               "style": {
                 "highlightColor": [],
                 "alignment": "Left",
@@ -172,10 +195,6 @@
           {
             "type": "dispPreviewPieceComp",
             "$type": "DisplayPreviewedPieceOfferComponent"
-          },
-          {
-            "type": "personaDefaultButtonComp",
-            "$type": "PersonaDefaultButton"
           }
         ]
       },
@@ -206,8 +225,6 @@
     ],
     "itemsPerRow": 0,
     "screenshotHeightRatio": 0.0,
-    "inventoryVersion": "1/MjYyMQ==",
-    "userListsVersion": "1332cba9-6562-4256-938e-a181d69a0b43",
     "pageRefresh": false,
     "sidebarLayoutType": "Persona"
   }
