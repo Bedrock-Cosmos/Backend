@@ -173,6 +173,50 @@
                     "navigateInPlace": false
                   }
                 }
+              },
+              {
+                "id": "42fd455e-9547-4bae-bd20-a0dfbb85eda4",
+                "contentType": "PersonaDurable",
+                "title": "Buried Skull Cape",
+                "description": "§",
+                "creatorName": "Bon",
+                "thumbnail": {
+                  "tag": "Thumbnail",
+                  "type": "Thumbnail",
+                  "url": "https://github.com/zoroark19/zoroark19.github.io/blob/main/Main/Thumbnails/Persona/8onfire/Buried_Skull_cape.png?raw=true",
+                  "urlWithResolution": "https://github.com/zoroark19/zoroark19.github.io/blob/main/Main/Thumbnails/Persona/8onfire/Buried_Skull_cape.png?raw=true"
+                },
+                "price": {
+                  "listPrice": 0
+                },
+                "pieceType": "persona_capes",
+                "rarity": "legendary",
+                "ownership": "Purchased",
+                "packType": "Persona",
+                "packIdentity": [
+                  {
+                    "type": "persona_piece",
+                    "uuid": "05a78c86-0ffe-4ece-ac64-7b3d66f636be",
+                    "version": "1.0.0"
+                  }
+                ],
+                "images": [
+                  {
+                    "tag": "Thumbnail",
+                    "type": "Thumbnail",
+                    "url": "https://github.com/zoroark19/zoroark19.github.io/blob/main/Main/Thumbnails/Persona/8onfire/Buried_Skull_cape.png?raw=true",
+                    "urlWithResolution": "https://github.com/zoroark19/zoroark19.github.io/blob/main/Main/Thumbnails/Persona/8onfire/Buried_Skull_cape.png?raw=true"
+                  }
+                ],
+                "startDate": "2025-10-24T12:00:00Z",
+                "namedLinksToInfoMap": {
+                  "dr.persona_creator_page": {
+                    "linksTo": "PersonaCreatorPage_master_player_account!8onfire",
+                    "linkType": "external",
+                    "displayType": "store_layout.character_creator_screen",
+                    "navigateInPlace": false
+                  }
+                }
               }
             ],
             "totalItems": 24,

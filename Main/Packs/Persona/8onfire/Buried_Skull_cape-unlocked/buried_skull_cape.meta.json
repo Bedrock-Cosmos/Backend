@@ -1,0 +1,10 @@
+{
+  "piece_id": "f4b53638-9ee8-49b6-985b-047ddf38c36c",
+  "piece_name": "Buried Skull Cape",
+  "piece_type": "persona_capes",
+  "texture_sources": [
+    {
+      "texture": "buried_skull_cape.png"
+    }
+  ]
+}
