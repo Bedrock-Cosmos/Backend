@@ -127,7 +127,8 @@
           }
         ]
       },
-      {
+
+      /* {
         "controlId": "StoreRow",
         "components": [
           {
@@ -550,31 +551,6 @@
         ]
       },
       {
-        "controlId": "NavButtonRow",
-        "components": [
-          {
-            "buttons": [
-              {
-                "buttonSizeIsFill": true,
-                "image": "textures/ui/sidebar_icons/marketplace",
-                "images": [],
-                "navButtonName": "dr.marketplace.get_more_skins",
-                "linksToInfo": {
-                  "linksTo": "MultiItemPage_SkinsRoot",
-                  "linkType": "pageId",
-                  "displayType": "store_layout.store_data_driven_screen",
-                  "navigateInPlace": false
-                },
-                "defaultColor": [],
-                "interactColor": []
-              }
-            ],
-            "type": "navButtonListComp",
-            "$type": "NavButtonListComponent"
-          }
-        ]
-      },
-      {
         "controlId": "VerticalLineDivider",
         "components": [
           {
@@ -597,7 +573,8 @@
             "$type": "TextureComponent"
           }
         ]
-      },
+      }, */
+
       {
         "controlId": "SkinPackList",
         "components": [
@@ -1279,86 +1256,6 @@
                 }
               },
               {
-                "id": "d0f9abcb-4915-4008-9837-ff7946f4a115",
-                "contentType": "MarketplaceDurableCatalog_V1.2",
-                "title": "MINECON Earth 2017 Skin Pack",
-                "description": "Join the party, wherever you are - and get dressed for the occasion with these fancy skins, celebrating everything from cosplay to cake! Available for a short time only, so get 'em fast!",
-                "creatorName": "Minecraft",
-                "thumbnail": {
-                  "tag": "Thumbnail",
-                  "type": "Thumbnail",
-                  "url": "https://xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/e08abe63-a71c-492d-a166-000d3b5cf121/MINECONEARTH_Thumbnail_0.jpg",
-                  "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/e08abe63-a71c-492d-a166-000d3b5cf121/MINECONEARTH_Thumbnail_0.jpg?width=800&height=450"
-                },
-                "rating": {
-                  "average": 4.6,
-                  "totalCount": 17288
-                },
-                "price": {
-                  "listPrice": 0,
-                  "realmsInfo": {
-                    "inRealmsPlus": false
-                  },
-                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
-                  "virtualCurrencyType": "Minecoin"
-                },
-                "linksTo": "MultiItemPage_PersonaSkinSelector%7cSkinPack_d0f9abcb-4915-4008-9837-ff7946f4a115",
-                "linksToInfo": {
-                  "linksTo": "MultiItemPage_PersonaSkinSelector%7cSkinPack_d0f9abcb-4915-4008-9837-ff7946f4a115",
-                  "linkType": "pageId",
-                  "displayType": "store_layout.skin_selector_screen",
-                  "navigateInPlace": false
-                },
-                "creatorPage": "CreatorPage_master_player_account!301F442C3B63DC20",
-                "statistics": {
-                  "skins": 8,
-                  "worlds": 0,
-                  "textures": 0,
-                  "behaviors": 0,
-                  "addOns": 0
-                },
-                "flags": [],
-                "ownership": "Purchased",
-                "packType": "SkinPack",
-                "packIdentity": [
-                  {
-                    "type": "skinpack",
-                    "uuid": "a3fd78f1-23a4-49f9-9122-1cdc5e49b3bd",
-                    "version": "1.0.4"
-                  }
-                ],
-                "tags": [],
-                "images": [
-                  {
-                    "tag": "Thumbnail",
-                    "type": "Thumbnail",
-                    "url": "https://xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/e08abe63-a71c-492d-a166-000d3b5cf121/MINECONEARTH_Thumbnail_0.jpg",
-                    "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/e08abe63-a71c-492d-a166-000d3b5cf121/MINECONEARTH_Thumbnail_0.jpg?width=800&height=450"
-                  }
-                ],
-                "contents": [],
-                "platformRestricted": false,
-                "iconOverlay": [],
-                "descriptionLineByLine": [],
-                "startDate": "2017-11-13T15:00:00Z",
-                "subscription": [],
-                "thumbnailPreviewOnly": false,
-                "namedLinksToInfoMap": {
-                  "dr.expanded_skins": {
-                    "linksTo": "MultiItemPage_PersonaSkinSelector%7cSkinPack_d0f9abcb-4915-4008-9837-ff7946f4a115",
-                    "linkType": "pageId",
-                    "displayType": "store_layout.skin_selector_screen",
-                    "navigateInPlace": false
-                  },
-                  "dr.see_in_store": {
-                    "linksTo": "ItemDetail_d0f9abcb-4915-4008-9837-ff7946f4a115",
-                    "linkType": "pageId",
-                    "displayType": "store_layout.store_data_driven_screen",
-                    "navigateInPlace": false
-                  }
-                }
-              },
-              {
                 "id": "01d22780-c8c6-421d-a5cf-c615a398c480",
                 "contentType": "MarketplaceDurableCatalog_V1.2",
                 "title": "Mumbo Jumbo & Grian Skins",
@@ -1457,7 +1354,9 @@
             "$type": "ItemListComponent"
           }
         ]
-      },
+      }
+
+      /*,  // Featured + Marketplace Pass commented out bc we dont need it but could use it one day for our packs
       {
         "controlId": "VerticalLineDivider",
         "components": [
@@ -1738,7 +1637,7 @@
             "$type": "PagedItemListComponent"
           }
         ]
-      }
+      } */
     ],
     "itemsPerRow": 0,
     "screenshotHeightRatio": 0.0,

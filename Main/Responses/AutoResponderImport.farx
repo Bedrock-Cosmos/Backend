@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AutoResponder LastSave="2025-10-26T15:04:46.0562865-04:00" FiddlerVersion="5.0.20245.10105">
+  <State Enabled="true" AcceptAllConnects="false" Fallthrough="true" UseLatency="false">
+    <ResponseRule Match="Cape Page below" Action="*exit" Enabled="false" />
+    <ResponseRule Match="EXACT:https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/DressingRoom_Capes" Action="C:\Users\CHANGEMETOYOURUSER\Documents\GitHub\zoroark19.github.io\Main\Responses\MainPages\Capes.json" Enabled="true" />
+    <ResponseRule Match="URLWithBody:https://20ca2.playfabapi.com/Catalog/GetPublishedItem 91b8c70a-50cd-4b48-a0fa-ddbf160d2045" Action="C:\Users\CHANGEMETOYOURUSER\Documents\GitHub\zoroark19.github.io\Main\Responses\Persona\MillionthSale_cape.json" Enabled="true" />
+    <ResponseRule Match="URLWithBody:https://20ca2.playfabapi.com/Catalog/GetPublishedItem 0ed75751-d5a7-4331-b3ea-bb495566ce96" Action="C:\Users\CHANGEMETOYOURUSER\Documents\GitHub\zoroark19.github.io\Main\Responses\Persona\MineconUnused1_cape.json" Enabled="true" />
+    <ResponseRule Match="URLWithBody:https://20ca2.playfabapi.com/Catalog/GetPublishedItem 6c05c0a3-56f8-47bd-b2f3-2d7fe36771fd" Action="C:\Users\CHANGEMETOYOURUSER\Documents\GitHub\zoroark19.github.io\Main\Responses\Persona\MineconUnused2_cape.json" Enabled="true" />
+    <ResponseRule Match="URLWithBody:https://20ca2.playfabapi.com/Catalog/GetPublishedItem ce769de4-4af0-40a0-90da-818053064716" Action="C:\Users\CHANGEMETOYOURUSER\Documents\GitHub\zoroark19.github.io\Main\Responses\Persona\MineconUnused3_cape.json" Enabled="true" />
+    <ResponseRule Match="URLWithBody:https://20ca2.playfabapi.com/Catalog/GetPublishedItem e847fc66-b988-4065-bdc9-fa8fd17457b2" Action="C:\Users\CHANGEMETOYOURUSER\Documents\GitHub\zoroark19.github.io\Main\Responses\Persona\Minecon2011_cape.json" Enabled="true" />
+    <ResponseRule Match="URLWithBody:https://20ca2.playfabapi.com/Catalog/GetPublishedItem 6d520e39-e9d3-4d89-9b5c-01a2ebfd527b" Action="C:\Users\CHANGEMETOYOURUSER\Documents\GitHub\zoroark19.github.io\Main\Responses\Persona\Minecon2012_cape.json" Enabled="true" />
+    <ResponseRule Match="URLWithBody:https://20ca2.playfabapi.com/Catalog/GetPublishedItem 92fcae65-45fa-44e4-b39d-e586f0e9e710" Action="C:\Users\CHANGEMETOYOURUSER\Documents\GitHub\zoroark19.github.io\Main\Responses\Persona\Minecon2013_cape.json" Enabled="true" />
+    <ResponseRule Match="URLWithBody:https://20ca2.playfabapi.com/Catalog/GetPublishedItem aafefeee-7cca-4f19-9508-b949d1d26561" Action="C:\Users\CHANGEMETOYOURUSER\Documents\GitHub\zoroark19.github.io\Main\Responses\Persona\Minecon2015_cape.json" Enabled="true" />
+    <ResponseRule Match="URLWithBody:https://20ca2.playfabapi.com/Catalog/GetPublishedItem 5a71fd20-dc29-448e-aa14-5bbca08f37bb" Action="C:\Users\CHANGEMETOYOURUSER\Documents\GitHub\zoroark19.github.io\Main\Responses\Persona\Minecon2016_cape.json" Enabled="true" />
+    <ResponseRule Match="URLWithBody:https://20ca2.playfabapi.com/Catalog/GetPublishedItem 5c05c51e-f29c-4991-9b96-88256022df45" Action="C:\Users\CHANGEMETOYOURUSER\Documents\GitHub\zoroark19.github.io\Main\Responses\Persona\8onfire\Peak_cape.json" Enabled="true" />
+    <ResponseRule Match="URLWithBody:https://20ca2.playfabapi.com/Catalog/GetPublishedItem 42fd455e-9547-4bae-bd20-a0dfbb85eda4" Action="C:\Users\CHANGEMETOYOURUSER\Documents\GitHub\zoroark19.github.io\Main\Responses\Persona\8onfire\Buried_Skull_cape.json" Enabled="true" />
+    <ResponseRule Match="URLWithBody:https://20ca2.playfabapi.com/Catalog/GetPublishedItem f2f9ca6c-13c5-4a96-b8b1-64bd5371b4b0" Action="C:\Users\CHANGEMETOYOURUSER\Documents\GitHub\zoroark19.github.io\Main\Responses\Persona\Birthday_cape.json" Enabled="true" />
+    
+    <ResponseRule Match="Cape Creator Page below" Action="*exit" Enabled="false" />
+    <ResponseRule Match="EXACT:https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/PersonaCreatorPage_master_player_account!CustomCosmetics" Action="C:\Users\CHANGEMETOYOURUSER\Documents\GitHub\zoroark19.github.io\Main\Responses\MainPages\CustomCosmetics.json" Enabled="true" />
+    <ResponseRule Match="EXACT:https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/PersonaCreatorPage_master_player_account!8onfire" Action="C:\Users\CHANGEMETOYOURUSER\Documents\GitHub\zoroark19.github.io\Main\Responses\MainPages\8onfire.json" Enabled="true" />
+    
+    <ResponseRule Match="Persona Screens below" Action="*exit" Enabled="false" />
+    <ResponseRule Match="EXACT:https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/DressingRoom_PersonaProfile" Action="C:\Users\CHANGEMETOYOURUSER\Documents\GitHub\zoroark19.github.io\Main\Responses\MainPages\PersonaProfile.json" Enabled="true" />
+    <ResponseRule Match="EXACT:https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/MultiItemPage_PersonaSkinSelector" Action="C:\Users\CHANGEMETOYOURUSER\Documents\GitHub\zoroark19.github.io\Main\Responses\MainPages\PersonaSkinSelector.json" Enabled="true" />
+    
+    <ResponseRule Match="Other Pages below" Action="*exit" Enabled="false" />
+    <ResponseRule Match="EXACT:https://messaging.mktpl.minecraft-services.net/api/v1.0/session/start" Action="C:\Users\CHANGEMETOYOURUSER\Documents\GitHub\zoroark19.github.io\Main\Responses\MainPages\start.json" Enabled="true" />
+    <ResponseRule Match="EXACT:https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/DressingRoom_Emotes" Action="C:\Users\CHANGEMETOYOURUSER\Documents\GitHub\zoroark19.github.io\Main\Responses\MainPages\emote.json" Enabled="true" />
+    
+    <ResponseRule Match="Skinpacks below" Action="*exit" Enabled="false" />
+    <ResponseRule Match="EXACT:https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/ItemDetail_02b54955-9b4d-40cb-9b73-360d23cf1b9e" Action="C:\Users\CHANGEMETOYOURUSER\Documents\GitHub\zoroark19.github.io\Main\Responses\SkinPacks\2ndBirthdaySkinPack.json" Enabled="true" />
+    <ResponseRule Match="URLWithBody:https://20ca2.playfabapi.com/Catalog/Search e823767b-7337-49da-aaef-de616d2c2c3a" Action="C:\Users\CHANGEMETOYOURUSER\Documents\GitHub\zoroark19.github.io\Main\Responses\SkinPacks\Responses\2ndBirthdaySkinPack.json" Enabled="true" />
+    
+    <ResponseRule Match="EXACT:https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/ItemDetail_770196c2-718f-43ef-94d6-8e53a7b5b0af" Action="C:\Users\CHANGEMETOYOURUSER\Documents\GitHub\zoroark19.github.io\Main\Responses\SkinPacks\2ndBirthdaySkinPack2015.json" Enabled="true" />
+    <ResponseRule Match="URLWithBody:https://20ca2.playfabapi.com/Catalog/Search d532b9b3-eddc-4f98-96fc-5fe5e227c426" Action="C:\Users\CHANGEMETOYOURUSER\Documents\GitHub\zoroark19.github.io\Main\Responses\SkinPacks\Responses\2ndBirthdaySkinPack2015.json" Enabled="true" />
+    
+    <ResponseRule Match="EXACT:https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/ItemDetail_b89ef5de-78ad-4a48-b8a5-f12065286e7d" Action="C:\Users\CHANGEMETOYOURUSER\Documents\GitHub\zoroark19.github.io\Main\Responses\SkinPacks\LegacySkinPack.json" Enabled="true" />
+    <ResponseRule Match="URLWithBody:https://20ca2.playfabapi.com/Catalog/Search 39fa1d65-b3ca-4726-b9e0-f3d2a404e5a4" Action="C:\Users\CHANGEMETOYOURUSER\Documents\GitHub\zoroark19.github.io\Main\Responses\SkinPacks\Responses\LegacySkinPack.json" Enabled="true" />
+    
+    <ResponseRule Match="EXACT:https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/ItemDetail_4d7590d6-8f7f-4f53-989a-2df76b6b015b" Action="C:\Users\CHANGEMETOYOURUSER\Documents\GitHub\zoroark19.github.io\Main\Responses\SkinPacks\LittleBigPlanetMashup.json" Enabled="true" />
+    <ResponseRule Match="URLWithBody:https://20ca2.playfabapi.com/Catalog/Search 0f2e08ee-8ef2-4521-b03d-9f89c907c70e" Action="C:\Users\CHANGEMETOYOURUSER\Documents\GitHub\zoroark19.github.io\Main\Responses\SkinPacks\Responses\LittleBigPlanetMashup.json" Enabled="true" />
+    
+    <ResponseRule Match="EXACT:https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/ItemDetail_2766095f-b2c0-4237-911f-e18a30fb0928" Action="C:\Users\CHANGEMETOYOURUSER\Documents\GitHub\zoroark19.github.io\Main\Responses\SkinPacks\MarvelAvengersSkinPack.json" Enabled="true" />
+    <ResponseRule Match="URLWithBody:https://20ca2.playfabapi.com/Catalog/Search 083c0c90-cd38-46ad-a473-881f2a7cc069" Action="C:\Users\CHANGEMETOYOURUSER\Documents\GitHub\zoroark19.github.io\Main\Responses\SkinPacks\Responses\MarvelAvengersSkinPack.json" Enabled="true" />
+    
+    <ResponseRule Match="EXACT:https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/ItemDetail_1213b670-c82f-4e28-baf2-9f0d88954c9a" Action="C:\Users\CHANGEMETOYOURUSER\Documents\GitHub\zoroark19.github.io\Main\Responses\SkinPacks\MarvelGuardiansoftheGalaxySkinPack.json" Enabled="true" />
+    <ResponseRule Match="URLWithBody:https://20ca2.playfabapi.com/Catalog/Search 1d3e88a9-617c-45a8-83ba-b4abef5fda4e" Action="C:\Users\CHANGEMETOYOURUSER\Documents\GitHub\zoroark19.github.io\Main\Responses\SkinPacks\Responses\MarvelGuardiansoftheGalaxySkinPack.json" Enabled="true" />
+    
+    <ResponseRule Match="EXACT:https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/ItemDetail_b79f57ee-ef4f-4e01-bc03-20f5aa21bc26" Action="C:\Users\CHANGEMETOYOURUSER\Documents\GitHub\zoroark19.github.io\Main\Responses\SkinPacks\MarvelSpiderManSkinPack.json" Enabled="true" />
+    <ResponseRule Match="URLWithBody:https://20ca2.playfabapi.com/Catalog/Search 8eba8968-4ad4-446c-8717-36c38cae0edb" Action="C:\Users\CHANGEMETOYOURUSER\Documents\GitHub\zoroark19.github.io\Main\Responses\SkinPacks\Responses\MarvelSpiderManSkinPack.json" Enabled="true" />
+    
+    <ResponseRule Match="EXACT:https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/ItemDetail_4ad937a2-bf33-4390-93e3-62198b58f9ff" Action="C:\Users\CHANGEMETOYOURUSER\Documents\GitHub\zoroark19.github.io\Main\Responses\SkinPacks\MightyMorphinPowerRangers.json" Enabled="true" />
+    <ResponseRule Match="URLWithBody:https://20ca2.playfabapi.com/Catalog/Search 98500e08-627e-4f46-a4d3-705a01f6f110" Action="C:\Users\CHANGEMETOYOURUSER\Documents\GitHub\zoroark19.github.io\Main\Responses\SkinPacks\Responses\MightyMorphinPowerRangers.json" Enabled="true" />
+    
+    <ResponseRule Match="EXACT:https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/productId/01d22780-c8c6-421d-a5cf-c615a398c480" Action="C:\Users\CHANGEMETOYOURUSER\Documents\GitHub\zoroark19.github.io\Main\Responses\SkinPacks\MumboJumboGrianSkins.json" Enabled="true" />
+    <ResponseRule Match="EXACT:https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/ItemDetail_01d22780-c8c6-421d-a5cf-c615a398c480" Action="C:\Users\CHANGEMETOYOURUSER\Documents\GitHub\zoroark19.github.io\Main\Responses\SkinPacks\MumboJumboGrianSkins.json" Enabled="true" />
+    <ResponseRule Match="URLWithBody:https://20ca2.playfabapi.com/Catalog/Search ac3914ce-f321-4b13-89bf-5a74990242c8" Action="C:\Users\CHANGEMETOYOURUSER\Documents\GitHub\zoroark19.github.io\Main\Responses\SkinPacks\Responses\MumboJumboGrianSkins.json" Enabled="true" />
+    
+    <ResponseRule Match="EXACT:https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/ItemDetail_f60ed293-2f4c-46e5-92b3-922a95df2dd6" Action="C:\Users\CHANGEMETOYOURUSER\Documents\GitHub\zoroark19.github.io\Main\Responses\SkinPacks\StrangerThingsSkinPack.json" Enabled="true" />
+    <ResponseRule Match="URLWithBody:https://20ca2.playfabapi.com/Catalog/Search 93b450c2-910f-4915-894d-444dde7a3306" Action="C:\Users\CHANGEMETOYOURUSER\Documents\GitHub\zoroark19.github.io\Main\Responses\SkinPacks\Responses\StrangerThingsSkinPack.json" Enabled="true" />
+    
+    <ResponseRule Match="EXACT:https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/ItemDetail_39ddc16e-e398-4c71-b562-75b2ac5b1319" Action="C:\Users\CHANGEMETOYOURUSER\Documents\GitHub\zoroark19.github.io\Main\Responses\SkinPacks\TheSimpsonsSkinPack.json" Enabled="true" />
+    <ResponseRule Match="URLWithBody:https://20ca2.playfabapi.com/Catalog/Search 4f4a0dfa-6e3a-4a2b-bad1-eb84b1b76ee9" Action="C:\Users\CHANGEMETOYOURUSER\Documents\GitHub\zoroark19.github.io\Main\Responses\SkinPacks\Responses\TheSimpsonsSkinPack.json" Enabled="true" />
+  </State>
+</AutoResponder>
