@@ -1,31 +1,31 @@
 {
   "result": {
-    "id": "39ddc16e-e398-4c71-b562-75b2ac5b1319",
-    "pageId": "ItemDetail_39ddc16e-e398-4c71-b562-75b2ac5b1319",
+    "id": "38fdf771-febb-4b6f-a162-c42850817d95",
+    "pageId": "ItemDetail_38fdf771-febb-4b6f-a162-c42850817d95",
     "addToRecentlyViewed": true,
-    "pageName": "ItemDetail For 'The Simpsons Skin Pack'",
+    "pageName": "ItemDetail For 'LEGO(R) Minecraft(TM) Dragon Slayer'",
     "rows": [
       {
         "controlId": "ItemSummary",
         "components": [
           {
             "item": {
-              "id": "39ddc16e-e398-4c71-b562-75b2ac5b1319",
+              "id": "38fdf771-febb-4b6f-a162-c42850817d95",
               "contentType": "MarketplaceDurableCatalog_V1.2",
-              "title": "The Simpsons Skin Pack",
+              "title": "LEGO(R) Minecraft(TM) Dragon Slayer",
               "creatorName": "Minecraft",
               "thumbnail": {
                 "tag": "Thumbnail",
                 "type": "Thumbnail",
-                "url": "https://xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/5d180df6-b118-4c66-8700-3c119809a1d8/simpsons_Thumbnail_0.jpg",
-                "urlWithResolution": "https://xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/5d180df6-b118-4c66-8700-3c119809a1d8/simpsons_Thumbnail_0.jpg?width=800&height=450"
+                "url": "https://xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/535394f8-9660-4d82-8d20-6a39b30a695c/Lego_Thumbnail_0.jpg",
+                "urlWithResolution": "https://xforgeassets001.xboxlive.com:443/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/535394f8-9660-4d82-8d20-6a39b30a695c/Lego_Thumbnail_0.jpg?width=800&height=450"
               },
               "rating": {
-                "average": 4.3,
-                "totalCount": 2377
+                "average": 4.8,
+                "totalCount": 12888
               },
               "price": {
-                "listPrice": -1,
+                "listPrice": 0,
                 "realmsInfo": {
                   "inRealmsPlus": false
                 },
@@ -40,7 +40,7 @@
                 "navigateInPlace": false
               },
               "statistics": {
-                "skins": 24,
+                "skins": 1,
                 "worlds": 0,
                 "textures": 0,
                 "behaviors": 0,
@@ -52,8 +52,8 @@
               "packIdentity": [
                 {
                   "type": "skinpack",
-                  "uuid": "4f4a0dfa-6e3a-4a2b-bad1-eb84b1b76ee9",
-                  "version": "1.0.3"
+                  "uuid": "0232dca2-f67e-40d7-9f32-3e836cce9e88",
+                  "version": "1.0.0"
                 }
               ],
               "tags": [],
@@ -61,15 +61,15 @@
                 {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
-                  "url": "https://xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/5d180df6-b118-4c66-8700-3c119809a1d8/simpsons_Thumbnail_0.jpg",
-                  "urlWithResolution": "https://xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/5d180df6-b118-4c66-8700-3c119809a1d8/simpsons_Thumbnail_0.jpg?width=800&height=450"
+                  "url": "https://xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/535394f8-9660-4d82-8d20-6a39b30a695c/Lego_Thumbnail_0.jpg",
+                  "urlWithResolution": "https://xforgeassets001.xboxlive.com:443/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/535394f8-9660-4d82-8d20-6a39b30a695c/Lego_Thumbnail_0.jpg?width=800&height=450"
                 }
               ],
               "contents": [],
               "platformRestricted": false,
               "iconOverlay": [],
               "descriptionLineByLine": [],
-              "startDate": "2017-09-12T15:00:00Z",
+              "startDate": "2018-12-12T18:00:00Z",
               "subscription": [],
               "thumbnailPreviewOnly": false,
               "namedLinksToInfoMap": {}
@@ -80,17 +80,9 @@
           {
             "binaries": [
               {
-                "url": "https://xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/b01ca240-dab6-47b3-995b-5d2e2562fab5/SkinPack_Simpsons.zip"
+                "url": "https://xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/4f61ff6e-c280-4054-9f35-63be12dd55e5/SkinPack_LEGODragonSlayer.zip"
               }
             ],
-            "price": {
-              "listPrice": -1,
-              "realmsInfo": {
-                "inRealmsPlus": false
-              },
-              "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
-              "virtualCurrencyType": "Minecoin"
-            },
             "type": "purchaseInfoComp",
             "$type": "PurchaseInfoComponent"
           }
@@ -121,7 +113,7 @@
             "$type": "HeaderComponent"
           },
           {
-            "description": "The Simpsons as you have never seen them before; in pure, unadulterated Minecraft block-o-vision! Don't miss out this awesome pack featuring 24 characters from the series.",
+            "description": "Be the Dragon Slayer!\r\nThink you can defeat the ender dragon? Then you’re worthy of wearing this cool Dragon Slayer Skin! Don your armor, grab your enchanted bow and head for the End dimension, where the dragon awaits!",
             "genres": [],
             "subgenres": [],
             "playerCounts": [],
@@ -137,20 +129,20 @@
         "components": [
           {
             "binary": {
-              "url": "https://xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/b01ca240-dab6-47b3-995b-5d2e2562fab5/SkinPack_Simpsons.zip"
+              "url": "https://xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/4f61ff6e-c280-4054-9f35-63be12dd55e5/SkinPack_LEGODragonSlayer.zip"
             },
             "packIdentity": {
               "type": "skinpack",
-              "uuid": "4f4a0dfa-6e3a-4a2b-bad1-eb84b1b76ee9",
-              "version": "1.0.3"
+              "uuid": "0232dca2-f67e-40d7-9f32-3e836cce9e88",
+              "version": "1.0.0"
             },
             "type": "skinViewerComp",
             "$type": "SkinViewerComponent"
           },
           {
-            "headerText": "The Simpsons Skin Pack: %s",
+            "headerText": "LEGO(R) Minecraft(TM) Dragon Slayer: %s",
             "text": {
-              "value": "The Simpsons Skin Pack: %s",
+              "value": "LEGO(R) Minecraft(TM) Dragon Slayer: %s",
               "style": {
                 "highlightColor": [],
                 "alignment": "Left",
@@ -175,21 +167,21 @@
         "components": [
           {
             "rating": {
-              "average": 4.3,
-              "totalCount": 2377,
-              "count5Star": 1800,
-              "count4Star": 132,
-              "count3Star": 109,
-              "count2Star": 38,
-              "count1Star": 298,
-              "id": "39ddc16e-e398-4c71-b562-75b2ac5b1319",
+              "average": 4.8,
+              "totalCount": 12888,
+              "count5Star": 11795,
+              "count4Star": 593,
+              "count3Star": 228,
+              "count2Star": 74,
+              "count1Star": 198,
+              "id": "38fdf771-febb-4b6f-a162-c42850817d95",
               "ownership": "NotOwned",
               "ratingPercentages": {
-                "percentage5Star": "76%",
-                "percentage4Star": "6%",
-                "percentage3Star": "5%",
-                "percentage2Star": "2%",
-                "percentage1Star": "13%"
+                "percentage5Star": "91%%",
+                "percentage4Star": "5%%",
+                "percentage3Star": "2%%",
+                "percentage2Star": "1%%",
+                "percentage1Star": "1%%"
               }
             },
             "type": "ratingComp",
@@ -199,6 +191,7 @@
       }
     ],
     "inventoryVersion": "1/Njky",
+    "userListsVersion": "b98236f0-38c4-4856-906a-1a8d6c9dab1d",
     "pageRefresh": false,
     "sidebarLayoutType": "Marketplace"
   }

@@ -1,28 +1,28 @@
 {
   "result": {
-    "id": "39ddc16e-e398-4c71-b562-75b2ac5b1319",
-    "pageId": "ItemDetail_39ddc16e-e398-4c71-b562-75b2ac5b1319",
+    "id": "e205acc9-2c5a-430f-8576-d87c5ba67db4",
+    "pageId": "ItemDetail_e205acc9-2c5a-430f-8576-d87c5ba67db4",
     "addToRecentlyViewed": true,
-    "pageName": "ItemDetail For 'The Simpsons Skin Pack'",
+    "pageName": "ItemDetail For 'Joslyn's Give Campaign Skin'",
     "rows": [
       {
         "controlId": "ItemSummary",
         "components": [
           {
             "item": {
-              "id": "39ddc16e-e398-4c71-b562-75b2ac5b1319",
+              "id": "e205acc9-2c5a-430f-8576-d87c5ba67db4",
               "contentType": "MarketplaceDurableCatalog_V1.2",
-              "title": "The Simpsons Skin Pack",
+              "title": "Joslyn's Give Campaign Skin",
               "creatorName": "Minecraft",
               "thumbnail": {
                 "tag": "Thumbnail",
                 "type": "Thumbnail",
-                "url": "https://xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/5d180df6-b118-4c66-8700-3c119809a1d8/simpsons_Thumbnail_0.jpg",
-                "urlWithResolution": "https://xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/5d180df6-b118-4c66-8700-3c119809a1d8/simpsons_Thumbnail_0.jpg?width=800&height=450"
+                "url": "https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/d84e5543-39a6-4623-baf0-8534c25ec640/thumbnail_0.jpg",
+                "urlWithResolution": "https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/d84e5543-39a6-4623-baf0-8534c25ec640/thumbnail_0.jpg?width=800&height=450"
               },
               "rating": {
-                "average": 4.3,
-                "totalCount": 2377
+                "average": 4.6,
+                "totalCount": 123
               },
               "price": {
                 "listPrice": -1,
@@ -40,7 +40,7 @@
                 "navigateInPlace": false
               },
               "statistics": {
-                "skins": 24,
+                "skins": 1,
                 "worlds": 0,
                 "textures": 0,
                 "behaviors": 0,
@@ -52,8 +52,8 @@
               "packIdentity": [
                 {
                   "type": "skinpack",
-                  "uuid": "4f4a0dfa-6e3a-4a2b-bad1-eb84b1b76ee9",
-                  "version": "1.0.3"
+                  "uuid": "a9396dff-9629-43fa-b7f7-4e885ab258fd",
+                  "version": "1.0.5"
                 }
               ],
               "tags": [],
@@ -61,15 +61,15 @@
                 {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
-                  "url": "https://xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/5d180df6-b118-4c66-8700-3c119809a1d8/simpsons_Thumbnail_0.jpg",
-                  "urlWithResolution": "https://xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/5d180df6-b118-4c66-8700-3c119809a1d8/simpsons_Thumbnail_0.jpg?width=800&height=450"
+                  "url": "https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/d84e5543-39a6-4623-baf0-8534c25ec640/thumbnail_0.jpg",
+                  "urlWithResolution": "https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/d84e5543-39a6-4623-baf0-8534c25ec640/thumbnail_0.jpg?width=800&height=450"
                 }
               ],
               "contents": [],
               "platformRestricted": false,
               "iconOverlay": [],
               "descriptionLineByLine": [],
-              "startDate": "2017-09-12T15:00:00Z",
+              "startDate": "2020-10-07T17:00:00Z",
               "subscription": [],
               "thumbnailPreviewOnly": false,
               "namedLinksToInfoMap": {}
@@ -80,7 +80,7 @@
           {
             "binaries": [
               {
-                "url": "https://xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/b01ca240-dab6-47b3-995b-5d2e2562fab5/SkinPack_Simpsons.zip"
+                "url": "https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/7d369c64-cead-47fc-ab73-67db73032ad4/secondary.zip"
               }
             ],
             "price": {
@@ -106,7 +106,11 @@
               "style": {
                 "highlightColor": [],
                 "alignment": "Left",
-                "textColor": [1.0, 1.0, 1.0],
+                "textColor": [
+                  1.0,
+                  1.0,
+                  1.0
+                ],
                 "font": "default",
                 "showBackground": false,
                 "showOutline": false,
@@ -121,7 +125,7 @@
             "$type": "HeaderComponent"
           },
           {
-            "description": "The Simpsons as you have never seen them before; in pure, unadulterated Minecraft block-o-vision! Don't miss out this awesome pack featuring 24 characters from the series.",
+            "description": "A special skin pack for winning the Give Campaign auction.",
             "genres": [],
             "subgenres": [],
             "playerCounts": [],
@@ -137,24 +141,28 @@
         "components": [
           {
             "binary": {
-              "url": "https://xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/b01ca240-dab6-47b3-995b-5d2e2562fab5/SkinPack_Simpsons.zip"
+              "url": "https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/7d369c64-cead-47fc-ab73-67db73032ad4/secondary.zip"
             },
             "packIdentity": {
               "type": "skinpack",
-              "uuid": "4f4a0dfa-6e3a-4a2b-bad1-eb84b1b76ee9",
-              "version": "1.0.3"
+              "uuid": "a9396dff-9629-43fa-b7f7-4e885ab258fd",
+              "version": "1.0.5"
             },
             "type": "skinViewerComp",
             "$type": "SkinViewerComponent"
           },
           {
-            "headerText": "The Simpsons Skin Pack: %s",
+            "headerText": "Joslyn's Give Campaign Skin: %s",
             "text": {
-              "value": "The Simpsons Skin Pack: %s",
+              "value": "Joslyn's Give Campaign Skin: %s",
               "style": {
                 "highlightColor": [],
                 "alignment": "Left",
-                "textColor": [1.0, 1.0, 1.0],
+                "textColor": [
+                  1.0,
+                  1.0,
+                  1.0
+                ],
                 "font": "default",
                 "showBackground": false,
                 "showOutline": false,
@@ -175,21 +183,21 @@
         "components": [
           {
             "rating": {
-              "average": 4.3,
-              "totalCount": 2377,
-              "count5Star": 1800,
-              "count4Star": 132,
-              "count3Star": 109,
-              "count2Star": 38,
-              "count1Star": 298,
-              "id": "39ddc16e-e398-4c71-b562-75b2ac5b1319",
+              "average": 4.6,
+              "totalCount": 123,
+              "count5Star": 102,
+              "count4Star": 5,
+              "count3Star": 7,
+              "count2Star": 1,
+              "count1Star": 8,
+              "id": "e205acc9-2c5a-430f-8576-d87c5ba67db4",
               "ownership": "NotOwned",
               "ratingPercentages": {
-                "percentage5Star": "76%",
-                "percentage4Star": "6%",
-                "percentage3Star": "5%",
-                "percentage2Star": "2%",
-                "percentage1Star": "13%"
+                "percentage5Star": "83%",
+                "percentage4Star": "4%",
+                "percentage3Star": "6%",
+                "percentage2Star": "1%",
+                "percentage1Star": "7%"
               }
             },
             "type": "ratingComp",

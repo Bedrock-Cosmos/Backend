@@ -1,28 +1,28 @@
 {
   "result": {
-    "id": "39ddc16e-e398-4c71-b562-75b2ac5b1319",
-    "pageId": "ItemDetail_39ddc16e-e398-4c71-b562-75b2ac5b1319",
+    "id": "7dae6bfe-e92b-403e-842e-d8d75e329644",
+    "pageId": "ItemDetail_7dae6bfe-e92b-403e-842e-d8d75e329644",
     "addToRecentlyViewed": true,
-    "pageName": "ItemDetail For 'The Simpsons Skin Pack'",
+    "pageName": "ItemDetail For 'Minecon 2015 Skin Pack'",
     "rows": [
       {
         "controlId": "ItemSummary",
         "components": [
           {
             "item": {
-              "id": "39ddc16e-e398-4c71-b562-75b2ac5b1319",
+              "id": "7dae6bfe-e92b-403e-842e-d8d75e329644",
               "contentType": "MarketplaceDurableCatalog_V1.2",
-              "title": "The Simpsons Skin Pack",
+              "title": "Minecon 2015 Skin Pack",
               "creatorName": "Minecraft",
               "thumbnail": {
                 "tag": "Thumbnail",
                 "type": "Thumbnail",
-                "url": "https://xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/5d180df6-b118-4c66-8700-3c119809a1d8/simpsons_Thumbnail_0.jpg",
-                "urlWithResolution": "https://xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/5d180df6-b118-4c66-8700-3c119809a1d8/simpsons_Thumbnail_0.jpg?width=800&height=450"
+                "url": "https://xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/65f2a2fb-cd9e-46f7-9b91-660b83245f4e/Minecon2015_Thumbnail_0.jpg",
+                "urlWithResolution": "https://xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/65f2a2fb-cd9e-46f7-9b91-660b83245f4e/Minecon2015_Thumbnail_0.jpg?width=800&height=450"
               },
               "rating": {
-                "average": 4.3,
-                "totalCount": 2377
+                "average": 4.7,
+                "totalCount": 3175
               },
               "price": {
                 "listPrice": -1,
@@ -40,7 +40,7 @@
                 "navigateInPlace": false
               },
               "statistics": {
-                "skins": 24,
+                "skins": 1,
                 "worlds": 0,
                 "textures": 0,
                 "behaviors": 0,
@@ -52,8 +52,8 @@
               "packIdentity": [
                 {
                   "type": "skinpack",
-                  "uuid": "4f4a0dfa-6e3a-4a2b-bad1-eb84b1b76ee9",
-                  "version": "1.0.3"
+                  "uuid": "42ae66b4-d3db-49be-8dd8-207a0cade6d8",
+                  "version": "1.0.2"
                 }
               ],
               "tags": [],
@@ -61,8 +61,8 @@
                 {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
-                  "url": "https://xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/5d180df6-b118-4c66-8700-3c119809a1d8/simpsons_Thumbnail_0.jpg",
-                  "urlWithResolution": "https://xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/5d180df6-b118-4c66-8700-3c119809a1d8/simpsons_Thumbnail_0.jpg?width=800&height=450"
+                  "url": "https://xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/65f2a2fb-cd9e-46f7-9b91-660b83245f4e/Minecon2015_Thumbnail_0.jpg",
+                  "urlWithResolution": "https://xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/65f2a2fb-cd9e-46f7-9b91-660b83245f4e/Minecon2015_Thumbnail_0.jpg?width=800&height=450"
                 }
               ],
               "contents": [],
@@ -80,7 +80,7 @@
           {
             "binaries": [
               {
-                "url": "https://xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/b01ca240-dab6-47b3-995b-5d2e2562fab5/SkinPack_Simpsons.zip"
+                "url": "https://xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/a3f382b3-c684-4f1c-8759-dedb83853e21/SkinPack_Minecon2015.zip"
               }
             ],
             "price": {
@@ -106,7 +106,11 @@
               "style": {
                 "highlightColor": [],
                 "alignment": "Left",
-                "textColor": [1.0, 1.0, 1.0],
+                "textColor": [
+                  1.0,
+                  1.0,
+                  1.0
+                ],
                 "font": "default",
                 "showBackground": false,
                 "showOutline": false,
@@ -121,7 +125,7 @@
             "$type": "HeaderComponent"
           },
           {
-            "description": "The Simpsons as you have never seen them before; in pure, unadulterated Minecraft block-o-vision! Don't miss out this awesome pack featuring 24 characters from the series.",
+            "description": "Alex and Steve are ready for Minecon 2015! They’ve brought their complete Minecon cape collection with them and don’t they both look grand?",
             "genres": [],
             "subgenres": [],
             "playerCounts": [],
@@ -137,24 +141,28 @@
         "components": [
           {
             "binary": {
-              "url": "https://xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/b01ca240-dab6-47b3-995b-5d2e2562fab5/SkinPack_Simpsons.zip"
+              "url": "https://xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/a3f382b3-c684-4f1c-8759-dedb83853e21/SkinPack_Minecon2015.zip"
             },
             "packIdentity": {
               "type": "skinpack",
-              "uuid": "4f4a0dfa-6e3a-4a2b-bad1-eb84b1b76ee9",
-              "version": "1.0.3"
+              "uuid": "42ae66b4-d3db-49be-8dd8-207a0cade6d8",
+              "version": "1.0.2"
             },
             "type": "skinViewerComp",
             "$type": "SkinViewerComponent"
           },
           {
-            "headerText": "The Simpsons Skin Pack: %s",
+            "headerText": "Minecon 2015 Skin Pack: %s",
             "text": {
-              "value": "The Simpsons Skin Pack: %s",
+              "value": "Minecon 2015 Skin Pack: %s",
               "style": {
                 "highlightColor": [],
                 "alignment": "Left",
-                "textColor": [1.0, 1.0, 1.0],
+                "textColor": [
+                  1.0,
+                  1.0,
+                  1.0
+                ],
                 "font": "default",
                 "showBackground": false,
                 "showOutline": false,
@@ -175,21 +183,21 @@
         "components": [
           {
             "rating": {
-              "average": 4.3,
-              "totalCount": 2377,
-              "count5Star": 1800,
-              "count4Star": 132,
-              "count3Star": 109,
-              "count2Star": 38,
-              "count1Star": 298,
-              "id": "39ddc16e-e398-4c71-b562-75b2ac5b1319",
+              "average": 4.7,
+              "totalCount": 3175,
+              "count5Star": 2720,
+              "count4Star": 156,
+              "count3Star": 103,
+              "count2Star": 42,
+              "count1Star": 154,
+              "id": "7dae6bfe-e92b-403e-842e-d8d75e329644",
               "ownership": "NotOwned",
               "ratingPercentages": {
-                "percentage5Star": "76%",
-                "percentage4Star": "6%",
-                "percentage3Star": "5%",
-                "percentage2Star": "2%",
-                "percentage1Star": "13%"
+                "percentage5Star": "86%",
+                "percentage4Star": "5%",
+                "percentage3Star": "3%",
+                "percentage2Star": "1%",
+                "percentage1Star": "5%"
               }
             },
             "type": "ratingComp",
