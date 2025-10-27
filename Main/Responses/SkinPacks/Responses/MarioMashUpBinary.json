@@ -3,25 +3,26 @@
   "status": "OK",
   "data": {
     "Item": {
-      "Id": "0153270e-2db6-4837-8302-ecb65ac65721",
+      "Id": "7f4ba1a2-43dd-45b1-aa3f-0b3ca2ebd5c8",
       "Contents": [
         {
-          "Id": "70777aa6-5949-4529-947f-2fcdbc94c3cb",
-          "Url": "https://github.com/zoroark19/zoroark19.github.io/blob/main/Main/Packs/SkinPacks/DevTestPack.zip?raw=true",
+          "Id": "47ca6989-81db-404b-a9f1-f3391258b8a2",
+          "Url": "https://github.com/zoroark19/-/blob/main/UserPackage.zip?raw=true",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.2.0",
+          "Tags": [],
           "Type": "skinbinary"
         }
       ],
       "DisplayProperties": {
         "creatorName": "Minecraft",
         "originalCreatorId": "2535448579972708",
-        "purchasable": true,
+        "purchasable": false,
         "packIdentity": [
           {
             "type": "skinpack",
-            "uuid": "70777aa6-5949-4529-947f-2fcdbc94c3cb",
-            "version": "1.0.0"
+            "uuid": "47ca6989-81db-404b-a9f1-f3391258b8a2",
+            "version": "1.0.5"
           }
         ]
       }
