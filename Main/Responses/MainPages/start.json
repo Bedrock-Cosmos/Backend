@@ -86,9 +86,362 @@
       "categories": [
         {
           "category": "News",
-          "totalNumberOfUnreadMessages": 2,
-          "totalNumberOfMessages": 2,
+          "totalNumberOfUnreadMessages": 4,
+          "totalNumberOfMessages": 4,
           "messages": [
+            {
+              "id": "20c17543-dda9-46ee-afca-9bafa1c25bc1",
+              "instanceId": "20c17543-dda9-46ee-afca-9bafa1c25bc1",
+              "surface": "InboxMessage",
+              "template": "ContentListNoCTA",
+              "header": "Out with the New in with the Old!",
+              "body": "We've decided to freshen up the Marketplace a bit, and brought back a ton of classics along with packs from both Playstation and Nintendo! While most packs can NOT be purchased anymore, those listed below can be bought if you do so choose.",
+              "images": {
+                "Primary": {
+                  "id": "ccaf6479-58f7-450a-b3ea-4c7e6f3d3d12",
+                  "url": "https://github.com/Bedrock-Cosmos/Backend/blob/main/Main/Thumbnails/SkinPacks/SkinPack4_Thumbnail_0.jpg?raw=true"
+                }
+              },
+              "buttons": {
+                "Dismiss": {
+                  "text": "Continue",
+                  "action": "Dismiss",
+                  "link": "",
+                  "description": ""
+                }
+              },
+              "reportId": "NjdmZDc5NWE0ZTJiMjIwMDY1MjAzMTEzXyRfY2M9NTAyN2ZiMWQtMzgyZC1mMTFlLTZjMTMtZDY3YTJkZjE2OWRkJm12PTY3ZmQ3OTVhNGUyYjIyMDA2NTIwMzEwZCZwaT1jbXA=",
+              "isControl": false,
+              "sender": "Cosmos",
+              "status": "Unread",
+              "persistToInbox": false,
+              "persistToInboxOnImpression": false,
+              "inboxCategory": "News",
+              "dateReceived": "6969-6-9T12:00:00Z",
+              "itemList": [
+                {
+                  "id": "1c0ca56a-28e3-4eab-b848-02f19dd9a799",
+                  "contentType": "MarketplaceDurableCatalog_V1.2",
+                  "title": "Star Wars Sequel Skin Pack",
+                  "description": "A long time ago in a galaxy far, far away.... The epic adventure continues with the Star Wars Sequel Skin Pack. Explore both sides of the Force(TM), Minecraft style, as powerful Star Wars characters like Rey and Kylo Ren from Star Wars(TM): The Force Awakens and Star Wars(TM): The Last Jedi.",
+                  "creatorName": "Minecraft",
+                  "thumbnail": {
+                    "tag": "Thumbnail",
+                    "type": "Thumbnail",
+                    "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/59b7b629-13da-420a-841d-0b64cb7c4a20/StarWarsSequel_Thumbnail_0.jpg",
+                    "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/pf-namespace-b63a0803d3653643/59b7b629-13da-420a-841d-0b64cb7c4a20/StarWarsSequel_Thumbnail_0.jpg?width=800&height=450"
+                  },
+                  "rating": {
+                    "average": 4.6,
+                    "totalCount": 28979
+                  },
+                  "linksTo": "/marketplace?productId=1c0ca56a-28e3-4eab-b848-02f19dd9a799&origin=PlayerMessaging",
+                  "linksToInfo": {
+                    "linksTo": "ItemDetail_1c0ca56a-28e3-4eab-b848-02f19dd9a799",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
+                    "navigateInPlace": false
+                  },
+                  "creatorPage": "CreatorPage_master_player_account!301F442C3B63DC20",
+                  "statistics": {
+                    "skins": 53,
+                    "worlds": 0,
+                    "textures": 0,
+                    "behaviors": 0,
+                    "addOns": 0
+                  },
+                  "flags": [],
+                  "ownership": "NotOwned",
+                  "packType": "SkinPack",
+                  "packIdentity": [
+                    {
+                      "type": "skinpack",
+                      "uuid": "d295470d-1c23-4088-8ada-5f946a9d23a3"
+                    }
+                  ],
+                  "tags": [],
+                  "images": [
+                    {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/59b7b629-13da-420a-841d-0b64cb7c4a20/StarWarsSequel_Thumbnail_0.jpg",
+                      "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/pf-namespace-b63a0803d3653643/59b7b629-13da-420a-841d-0b64cb7c4a20/StarWarsSequel_Thumbnail_0.jpg?width=800&height=450"
+                    }
+                  ],
+                  "contents": [],
+                  "platformRestricted": false,
+                  "iconOverlay": [],
+                  "descriptionLineByLine": [],
+                  "startDate": "2022-10-22T01:00:00Z",
+                  "subscription": [],
+                  "thumbnailPreviewOnly": false,
+                  "namedLinksToInfoMap": {}
+                },
+                {
+                  "id": "4e7a9ea1-6716-4481-8f61-b6b846ad1f8d",
+                  "contentType": "MarketplaceDurableCatalog_V1.2",
+                  "title": "Star Wars Rebels Skin Pack",
+                  "description": "Are you ready to join the rebellion - Minecraft style? The Star Wars Rebels Skin Pack features the crew of the Ghost and their adversaries in the Galactic Empire. Chose from over 20 skins and play as your favorite Star Wars Rebels characters.",
+                  "creatorName": "Minecraft",
+                  "thumbnail": {
+                    "tag": "Thumbnail",
+                    "type": "Thumbnail",
+                    "url": "https://xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7/72f8b2ad-7bf2-458a-bb4f-b586667c361c/StarWarsRebels_Thumbnail_0.jpg",
+                    "urlWithResolution": "https://xforgeassets001.xboxlive.com:443/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7/72f8b2ad-7bf2-458a-bb4f-b586667c361c/StarWarsRebels_Thumbnail_0.jpg?width=800&height=450"
+                  },
+                  "rating": {
+                    "average": 4.6,
+                    "totalCount": 4985
+                  },
+                  "linksTo": "/marketplace?productId=4e7a9ea1-6716-4481-8f61-b6b846ad1f8d&origin=PlayerMessaging",
+                  "linksToInfo": {
+                    "linksTo": "ItemDetail_4e7a9ea1-6716-4481-8f61-b6b846ad1f8d",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
+                    "navigateInPlace": false
+                  },
+                  "creatorPage": "CreatorPage_master_player_account!301F442C3B63DC20",
+                  "statistics": {
+                    "skins": 23,
+                    "worlds": 0,
+                    "textures": 0,
+                    "behaviors": 0,
+                    "addOns": 0
+                  },
+                  "flags": [],
+                  "ownership": "NotOwned",
+                  "packType": "SkinPack",
+                  "packIdentity": [
+                    {
+                      "type": "skinpack",
+                      "uuid": "277d7d0e-d065-4d22-957f-f60b963509fd"
+                    }
+                  ],
+                  "tags": [],
+                  "images": [
+                    {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7/72f8b2ad-7bf2-458a-bb4f-b586667c361c/StarWarsRebels_Thumbnail_0.jpg",
+                      "urlWithResolution": "https://xforgeassets001.xboxlive.com:443/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7/72f8b2ad-7bf2-458a-bb4f-b586667c361c/StarWarsRebels_Thumbnail_0.jpg?width=800&height=450"
+                    }
+                  ],
+                  "contents": [],
+                  "platformRestricted": false,
+                  "iconOverlay": [],
+                  "descriptionLineByLine": [],
+                  "startDate": "2017-09-12T15:00:00Z",
+                  "subscription": [],
+                  "thumbnailPreviewOnly": false,
+                  "namedLinksToInfoMap": {}
+                },
+                {
+                  "id": "5917cc87-c880-4a41-86e9-834d18eae32d",
+                  "contentType": "MarketplaceDurableCatalog_V1.2",
+                  "title": "Star Wars Classic Skin Pack",
+                  "description": "A long time ago in a galaxy far, far away.... The Star Wars Classic Skin Pack features an assortment of over 50 heroes, villains, and rogues from the Galactic Civil War. Whether you pick a Jawa or the mighty Darth Vader, you can play as your favorite Star Wars characters from Episodes IV to VI, Minecraft style.",
+                  "creatorName": "Minecraft",
+                  "thumbnail": {
+                    "tag": "Thumbnail",
+                    "type": "Thumbnail",
+                    "url": "https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/075b3c66-f5eb-4919-891a-cc631d3fb7f5/StarWarsClassic_Thumbnail_0.jpg",
+                    "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/pf-title-b63a0803d3653643-20ca2/075b3c66-f5eb-4919-891a-cc631d3fb7f5/StarWarsClassic_Thumbnail_0.jpg?width=800&height=450"
+                  },
+                  "rating": {
+                    "average": 4.7,
+                    "totalCount": 96875
+                  },
+                  "linksTo": "/marketplace?productId=5917cc87-c880-4a41-86e9-834d18eae32d&origin=PlayerMessaging",
+                  "linksToInfo": {
+                    "linksTo": "ItemDetail_5917cc87-c880-4a41-86e9-834d18eae32d",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
+                    "navigateInPlace": false
+                  },
+                  "creatorPage": "CreatorPage_master_player_account!301F442C3B63DC20",
+                  "statistics": {
+                    "skins": 55,
+                    "worlds": 0,
+                    "textures": 0,
+                    "behaviors": 0,
+                    "addOns": 0
+                  },
+                  "flags": [],
+                  "ownership": "NotOwned",
+                  "packType": "SkinPack",
+                  "packIdentity": [
+                    {
+                      "type": "skinpack",
+                      "uuid": "56f20cf6-2ba7-417c-9242-56ad6690129c"
+                    }
+                  ],
+                  "tags": [],
+                  "images": [
+                    {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/075b3c66-f5eb-4919-891a-cc631d3fb7f5/StarWarsClassic_Thumbnail_0.jpg",
+                      "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/pf-title-b63a0803d3653643-20ca2/075b3c66-f5eb-4919-891a-cc631d3fb7f5/StarWarsClassic_Thumbnail_0.jpg?width=800&height=450"
+                    }
+                  ],
+                  "contents": [],
+                  "platformRestricted": false,
+                  "iconOverlay": [],
+                  "descriptionLineByLine": [],
+                  "startDate": "2017-09-12T15:00:00Z",
+                  "subscription": [],
+                  "thumbnailPreviewOnly": false,
+                  "namedLinksToInfoMap": {}
+                },
+                {
+                  "id": "713a0d2f-29ff-4d5f-a2f6-aee8bdac0583",
+                  "contentType": "MarketplaceDurableCatalog_V1.2",
+                  "title": "STAR WARS",
+                  "description": "Explore the galaxy in this epic STAR WARS Mash-up, featuring characters and locations from the original trilogy and The Mandalorian series. This is the way!",
+                  "creatorName": "Minecraft",
+                  "thumbnail": {
+                    "tag": "Thumbnail",
+                    "type": "Thumbnail",
+                    "url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/a69407fb-6802-4036-bd95-ecd431be7987/Star_Wars_Thumbnail_0.jpg",
+                    "urlWithResolution": "https://xforgeassets001.xboxlive.com:443/pf-namespace-b63a0803d3653643/a69407fb-6802-4036-bd95-ecd431be7987/Star_Wars_Thumbnail_0.jpg?width=800&height=450"
+                  },
+                  "rating": {
+                    "average": 4.7,
+                    "totalCount": 80495
+                  },
+                  "linksTo": "/marketplace?productId=713a0d2f-29ff-4d5f-a2f6-aee8bdac0583&origin=PlayerMessaging",
+                  "linksToInfo": {
+                    "linksTo": "ItemDetail_713a0d2f-29ff-4d5f-a2f6-aee8bdac0583",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
+                    "navigateInPlace": false
+                  },
+                  "creatorPage": "CreatorPage_master_player_account!301F442C3B63DC20",
+                  "statistics": {
+                    "skins": 36,
+                    "worlds": 1,
+                    "textures": 1,
+                    "behaviors": 0,
+                    "addOns": 0
+                  },
+                  "flags": [],
+                  "ownership": "NotOwned",
+                  "packType": "MashUp",
+                  "packIdentity": [
+                    {
+                      "type": "skinpack",
+                      "uuid": "4c6e1b57-3252-47dd-bd41-e1101d4dc458"
+                    },
+                    {
+                      "type": "resourcepack",
+                      "uuid": "ce03522a-71a7-4573-abe8-90d8f0e1bc45"
+                    },
+                    {
+                      "type": "worldtemplate",
+                      "uuid": "f1d38736-f204-4a09-a6f9-e433eaf0f4d5"
+                    }
+                  ],
+                  "minPerformanceTier": "LowTier",
+                  "tags": [],
+                  "videoUrl": "https://www.youtube.com/watch?v=0CSgm5Vu9h4",
+                  "images": [
+                    {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/a69407fb-6802-4036-bd95-ecd431be7987/Star_Wars_Thumbnail_0.jpg",
+                      "urlWithResolution": "https://xforgeassets001.xboxlive.com:443/pf-namespace-b63a0803d3653643/a69407fb-6802-4036-bd95-ecd431be7987/Star_Wars_Thumbnail_0.jpg?width=800&height=450"
+                    }
+                  ],
+                  "contents": [],
+                  "platformRestricted": false,
+                  "iconOverlay": [],
+                  "descriptionLineByLine": [],
+                  "startDate": "2020-11-09T18:00:00Z",
+                  "subscription": [],
+                  "thumbnailPreviewOnly": false,
+                  "namedLinksToInfoMap": {}
+                }
+              ],
+              "style": "Default",
+              "associatedProducts": [],
+              "messageItemList": [
+                {
+                  "button": {
+                    "id": "1c0ca56a-28e3-4eab-b848-02f19dd9a799",
+                    "text": "Star Wars Sequel Skin Pack",
+                    "action": "Internal",
+                    "link": "/marketplace?productId=1c0ca56a-28e3-4eab-b848-02f19dd9a799&origin=PlayerMessaging",
+                    "description": "By Minecraft"
+                  },
+                  "image": {
+                    "id": "1c0ca56a-28e3-4eab-b848-02f19dd9a799",
+                    "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/59b7b629-13da-420a-841d-0b64cb7c4a20/StarWarsSequel_Thumbnail_0.jpg",
+                    "imageSize": {
+                      "height": 450,
+                      "width": 800
+                    }
+                  }
+                },
+                {
+                  "button": {
+                    "id": "4e7a9ea1-6716-4481-8f61-b6b846ad1f8d",
+                    "text": "Star Wars Rebels Skin Pack",
+                    "action": "Internal",
+                    "link": "/marketplace?productId=4e7a9ea1-6716-4481-8f61-b6b846ad1f8d&origin=PlayerMessaging",
+                    "description": "By Minecraft"
+                  },
+                  "image": {
+                    "id": "4e7a9ea1-6716-4481-8f61-b6b846ad1f8d",
+                    "url": "https://xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7/72f8b2ad-7bf2-458a-bb4f-b586667c361c/StarWarsRebels_Thumbnail_0.jpg",
+                    "imageSize": {
+                      "height": 450,
+                      "width": 800
+                    }
+                  }
+                },
+                {
+                  "button": {
+                    "id": "5917cc87-c880-4a41-86e9-834d18eae32d",
+                    "text": "Star Wars Classic Skin Pack",
+                    "action": "Internal",
+                    "link": "/marketplace?productId=5917cc87-c880-4a41-86e9-834d18eae32d&origin=PlayerMessaging",
+                    "description": "By Minecraft"
+                  },
+                  "image": {
+                    "id": "5917cc87-c880-4a41-86e9-834d18eae32d",
+                    "url": "https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/075b3c66-f5eb-4919-891a-cc631d3fb7f5/StarWarsClassic_Thumbnail_0.jpg",
+                    "imageSize": {
+                      "height": 450,
+                      "width": 800
+                    }
+                  }
+                },
+                {
+                  "button": {
+                    "id": "713a0d2f-29ff-4d5f-a2f6-aee8bdac0583",
+                    "text": "STAR WARS",
+                    "action": "Internal",
+                    "link": "/marketplace?productId=713a0d2f-29ff-4d5f-a2f6-aee8bdac0583&origin=PlayerMessaging",
+                    "description": "By Minecraft"
+                  },
+                  "image": {
+                    "id": "713a0d2f-29ff-4d5f-a2f6-aee8bdac0583",
+                    "url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/a69407fb-6802-4036-bd95-ecd431be7987/Star_Wars_Thumbnail_0.jpg",
+                    "imageSize": {
+                      "height": 450,
+                      "width": 800
+                    }
+                  }
+                }
+              ],
+              "messageText": {
+                "header": "Explore the Star Wars Day Sale",
+                "body": "May the 4th be with you! Celebrate Star Wars Day in Minecraft Marketplace between April 29 at 10 am PT and May 6 at 10 am PT. Get 33% off the Star Wars: Path of the Jedi DLC, the Star Wars mash-up pack, and five interstellar skin packs! You can also grab your free R2-D2 Beanie in the Dressing Room. With deals like this, we’re speeding to the Marketplace in less than 12 parsecs!"
+              },
+              "versionConstraint": "",
+              "colors": {},
+              "isSentimentSubmitButtonVisible": false
+            },
             {
               "id": "7f21535e-062c-442a-bcf0-2e68934f9d8f",
               "instanceId": "7f21535e-062c-442a-bcf0-2e68934f9d8f",
@@ -134,8 +487,8 @@
                   "thumbnail": {
                     "tag": "Thumbnail",
                     "type": "Thumbnail",
-                    "url": "https://github.com/zoroark19/zoroark19.github.io/blob/main/Main/Thumbnails/Persona/MillionthSale_cape.png?raw=true",
-                    "urlWithResolution": "https://github.com/zoroark19/zoroark19.github.io/blob/main/Main/Thumbnails/Persona/MillionthSale_cape.png?raw=true"
+                    "url": "https://github.com/Bedrock-Cosmos/Backend/blob/main/Main/Thumbnails/Persona/MillionthSale_cape.png?raw=true",
+                    "urlWithResolution": "https://github.com/Bedrock-Cosmos/Backend/blob/main/Main/Thumbnails/Persona/MillionthSale_cape.png?raw=true"
                   },
                   "price": {
                     "listPrice": 0,
@@ -160,8 +513,8 @@
                     {
                       "tag": "Thumbnail",
                       "type": "Thumbnail",
-                      "url": "https://github.com/zoroark19/zoroark19.github.io/blob/main/Main/Thumbnails/Persona/MillionthSale_cape.png?raw=true",
-                      "urlWithResolution": "https://github.com/zoroark19/zoroark19.github.io/blob/main/Main/Thumbnails/Persona/MillionthSale_cape.png?raw=true"
+                      "url": "https://github.com/Bedrock-Cosmos/Backend/blob/main/Main/Thumbnails/Persona/MillionthSale_cape.png?raw=true",
+                      "urlWithResolution": "https://github.com/Bedrock-Cosmos/Backend/blob/main/Main/Thumbnails/Persona/MillionthSale_cape.png?raw=true"
                     }
                   ],
                   "startDate": "2020-01-01T12:00:00Z",
@@ -188,7 +541,7 @@
                   },
                   "image": {
                     "id": "91b8c70a-50cd-4b48-a0fa-ddbf160d2045",
-                    "url": "https://github.com/zoroark19/zoroark19.github.io/blob/main/Main/Thumbnails/Persona/MillionthSale_cape.png?raw=true",
+                    "url": "https://github.com/Bedrock-Cosmos/Backend/blob/main/Main/Thumbnails/Persona/MillionthSale_cape.png?raw=true",
                     "imageSize": {
                       "height": 450,
                       "width": 450
