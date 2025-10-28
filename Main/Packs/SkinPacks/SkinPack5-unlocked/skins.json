@@ -97,8 +97,8 @@
       "type": "free"
     },
     {
-      "localization_name": "AvelinedeGrandpré",
-      "texture": "AvelinedeGrandpré.png",
+      "localization_name": "AvelinedeGrandpre",
+      "texture": "AvelinedeGrandpre.png",
       "geometry": "geometry.BattleAndBeasts.EndermaninaSuit",
       "type": "free"
     },
