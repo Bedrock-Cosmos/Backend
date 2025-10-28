@@ -2425,6 +2425,52 @@
                 "namedLinksToInfoMap": {}
               },
               {
+                "id": "2f60a7a0-8010-49b1-8b57-851ac41f34cf",
+                "contentType": "MarketplaceDurableCatalog_V1.2",
+                "title": "Skin Pack 4",
+                "creatorName": "Minecraft",
+                "thumbnail": {
+                  "tag": "Thumbnail",
+                  "type": "Thumbnail",
+                  "url": "https://www.4jstudios.com/wp-content/uploads/2022/09/skinpack4_Thumbnail_0.jpg",
+                  "urlWithResolution": "https://www.4jstudios.com/wp-content/uploads/2022/09/skinpack4_Thumbnail_0.jpg?width=800&height=450"
+                },
+                "price": {
+                  "listPrice": -1,
+                  "realmsInfo": {
+                    "inRealmsPlus": false
+                  },
+                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "virtualCurrencyType": "Minecoin"
+                },
+                "linksTo": "ItemDetail_2f60a7a0-8010-49b1-8b57-851ac41f34cf",
+                "linksToInfo": {
+                  "linksTo": "ItemDetail_2f60a7a0-8010-49b1-8b57-851ac41f34cf",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.store_data_driven_screen",
+                  "navigateInPlace": false
+                },
+                "creatorPage": "CreatorPage_master_player_account!301F442C3B63DC20",
+                "statistics": {
+                  "skins": 50,
+                  "worlds": 0,
+                  "textures": 0,
+                  "behaviors": 0,
+                  "addOns": 0
+                },
+                "flags": ["New"],
+                "ownership": "Purchased",
+                "packType": "SkinPack",
+                "packIdentity": [
+                  {
+                    "type": "skinpack",
+                    "uuid": "55fa75f0-1635-485f-9586-1bdd0cb6a255",
+                    "version": "1.0.0"
+                  }
+                ],
+                "startDate": "2019-12-09T18:00:00Z"
+              },
+              {
                 "id": "f60ed293-2f4c-46e5-92b3-922a95df2dd6",
                 "contentType": "MarketplaceDurableCatalog_V1.2",
                 "title": "Stranger Things Skin Pack",
@@ -2569,7 +2615,7 @@
                 "namedLinksToInfoMap": {}
               }
             ],
-            "totalItems": 23,
+            "totalItems": 30,
             "linksTo": "MultiItemPage_PersonaSkinSelector%7cSkinPack_10000000-2000-3000-4000-500000000000",
             "linksToInfo": {
               "linksTo": "MultiItemPage_PersonaSkinSelector%7cSkinPack_10000000-2000-3000-4000-500000000000",
@@ -2579,7 +2625,7 @@
             },
             "customStoreRowConfiguration": {
               "seeAllVisible": false,
-              "maxOffers": 23,
+              "maxOffers": 30,
               "arrowsVisible": true,
               "visibleOffersPerRow": 6
             },
