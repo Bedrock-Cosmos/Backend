@@ -1,15 +1,15 @@
 {
   "header": {
     "version": [1, 0, 0],
-    "name": "SkinPack5",
+    "name": "SkinPack6",
     "description": "Template by Ultmate_Mario, Conversion by Nobledez & BionicBen, Updated by Legacy Vault",
-    "uuid": "cc59b688-7cfb-4fa0-a76e-84aa55b92cae"
+    "uuid": "0037a29f-876e-4709-8bb8-a388738e6f51"
   },
   "modules": [
     {
       "version": [1, 0, 0],
       "type": "skin_pack",
-      "uuid": "be0a9aff-7104-429f-8de0-a95385c50e60"
+      "uuid": "6dce8d4c-05af-437e-ac52-d58ad9d19574"
     }
   ],
   "format_version": 1

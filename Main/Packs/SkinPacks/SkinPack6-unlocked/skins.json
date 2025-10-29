@@ -1,0 +1,262 @@
+{
+  "skins": [
+    { "localization_name": "Jago", "texture": "Jago.png", "geometry": "geometry.SkinPack6.Jago", "type": "free" },
+    {
+      "localization_name": "Sabrewulf",
+      "texture": "Sabrewulf.png",
+      "geometry": "geometry.SkinPack6.Sabrewulf",
+      "type": "free"
+    },
+    {
+      "localization_name": "Glacius",
+      "texture": "Glacius.png",
+      "geometry": "geometry.SkinPack6.Glacius",
+      "type": "free"
+    },
+    {
+      "localization_name": "Thunder",
+      "texture": "Thunder.png",
+      "geometry": "geometry.SkinPack6.Thunder",
+      "type": "free"
+    },
+    {
+      "localization_name": "Sadira",
+      "texture": "Sadira.png",
+      "geometry": "geometry.SkinPack6.Sadira",
+      "type": "free"
+    },
+    { "localization_name": "Orchid", "texture": "Orchid.png", "geometry": "geometry.SkinPack6.Orchid", "type": "free" },
+    { "localization_name": "Spinal", "texture": "Spinal.png", "geometry": "geometry.SkinPack6.Spinal", "type": "free" },
+    {
+      "localization_name": "Fulgore",
+      "texture": "Fulgore.png",
+      "geometry": "geometry.SkinPack6.Fulgore",
+      "type": "free"
+    },
+    {
+      "localization_name": "HorseMan",
+      "texture": "HorseMan.png",
+      "geometry": "geometry.SkinPack6.HorseMan",
+      "type": "free"
+    },
+    {
+      "localization_name": "VillagerPriest",
+      "texture": "VillagerPriest.png",
+      "geometry": "geometry.SkinPack6.Villager",
+      "type": "free"
+    },
+    {
+      "localization_name": "VillagerButcher",
+      "texture": "VillagerButcher.png",
+      "geometry": "geometry.SkinPack6.Villager",
+      "type": "free"
+    },
+    {
+      "localization_name": "VillagerLibrarian",
+      "texture": "VillagerLibrarian.png",
+      "geometry": "geometry.SkinPack6.Villager",
+      "type": "free"
+    },
+    {
+      "localization_name": "VillagerBlacksmith",
+      "texture": "VillagerBlacksmith.png",
+      "geometry": "geometry.SkinPack6.Villager",
+      "type": "free"
+    },
+    {
+      "localization_name": "VillagerZombie",
+      "texture": "VillagerZombie.png",
+      "geometry": "geometry.SkinPack6.ZombieVillager",
+      "animations": {
+        "holding": "animation.player.holding.zombie",
+        "move.arms": "animation.player.move.arms.zombie",
+        "riding.arms": "animation.player.Riding.arms.zombie"
+      },
+      "type": "free"
+    },
+    {
+      "localization_name": "HawkeFemale",
+      "texture": "HawkeFemale.png",
+      "geometry": "geometry.SkinPack6.Hawke",
+      "type": "free"
+    },
+    {
+      "localization_name": "HawkeMale",
+      "texture": "HawkeMale.png",
+      "geometry": "geometry.SkinPack6.Hawke",
+      "type": "free"
+    },
+    {
+      "localization_name": "Flemeth",
+      "texture": "Flemeth.png",
+      "geometry": "geometry.SkinPack6.Flemeth",
+      "type": "free"
+    },
+    {
+      "localization_name": "VarricTethras",
+      "texture": "VarricTethras.png",
+      "geometry": "geometry.BattleAndBeasts.EndermaninaSuit",
+      "type": "free"
+    },
+    {
+      "localization_name": "Fenris",
+      "texture": "Fenris.png",
+      "geometry": "geometry.BattleAndBeasts.EndermaninaSuit",
+      "type": "free"
+    },
+    {
+      "localization_name": "Isabela",
+      "texture": "Isabela.png",
+      "geometry": "geometry.BattleAndBeasts.EndermaninaSuit",
+      "type": "free"
+    },
+    {
+      "localization_name": "Merrill",
+      "texture": "Merrill.png",
+      "geometry": "geometry.BattleAndBeasts.EndermaninaSuit",
+      "type": "free"
+    },
+    {
+      "localization_name": "MarcusCampbell",
+      "texture": "MarcusCampbell.png",
+      "geometry": "geometry.SkinPack6.MarcusCampbell",
+      "type": "free"
+    },
+    {
+      "localization_name": "MayaTorres",
+      "texture": "MayaTorres.png",
+      "geometry": "geometry.SkinPack6.MayaTorres",
+      "type": "free"
+    },
+    {
+      "localization_name": "EdJones",
+      "texture": "EdJones.png",
+      "geometry": "geometry.SkinPack6.EdJones",
+      "type": "free"
+    },
+    {
+      "localization_name": "SharkHoodieGuy",
+      "texture": "SharkHoodieGuy.png",
+      "geometry": "geometry.SkinPack6.SharkHoodieGuy",
+      "type": "free"
+    },
+    {
+      "localization_name": "DocHanson",
+      "texture": "DocHanson.png",
+      "geometry": "geometry.SkinPack6.DocHanson",
+      "type": "free"
+    },
+    {
+      "localization_name": "JeanRambois",
+      "texture": "JeanRambois.png",
+      "geometry": "geometry.BattleAndBeasts.EndermaninaSuit",
+      "type": "free"
+    },
+    {
+      "localization_name": "AimyMcKillin",
+      "texture": "AimyMcKillin.png",
+      "geometry": "geometry.SkinPack6.AimyMckillin",
+      "type": "free"
+    },
+    {
+      "localization_name": "JefLeppard",
+      "texture": "JefLeppard.png",
+      "geometry": "geometry.SkinPack6.JefLeppard",
+      "type": "free"
+    },
+    {
+      "localization_name": "ShieldyBlockerson",
+      "texture": "ShieldyBlockerson.png",
+      "geometry": "geometry.SkinPack6.ShieldyBlockerson",
+      "cape": "ShieldyBlockersonCape.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "CommanderRepeatski",
+      "texture": "CommanderRepeatski.png",
+      "geometry": "geometry.BattleAndBeasts.EndermaninaSuit",
+      "type": "free"
+    },
+    {
+      "localization_name": "Zackasaurus",
+      "texture": "Zackasaurus.png",
+      "geometry": "geometry.SkinPack6.Zackasaurus",
+      "type": "free"
+    },
+    {
+      "localization_name": "TeenGirl",
+      "texture": "TeenGirl.png",
+      "geometry": "geometry.BattleAndBeasts.EndermaninaSuit",
+      "type": "free"
+    },
+    {
+      "localization_name": "TeenBoy",
+      "texture": "TeenBoy.png",
+      "geometry": "geometry.BattleAndBeasts.EndermaninaSuit",
+      "type": "free"
+    },
+    {
+      "localization_name": "USSoldier",
+      "texture": "USSoldier.png",
+      "geometry": "geometry.SkinPack6.UsSoldier",
+      "type": "free"
+    },
+    {
+      "localization_name": "BritishSpecialForces",
+      "texture": "BritishSpecialForces.png",
+      "geometry": "geometry.SkinPack6.BritishSpecialForces",
+      "type": "free"
+    },
+    {
+      "localization_name": "USSpecialForces",
+      "texture": "USSpecialForces.png",
+      "geometry": "geometry.SkinPack6.UsSpecialForces",
+      "type": "free"
+    },
+    {
+      "localization_name": "RussianSpecialForces",
+      "texture": "RussianSpecialForces.png",
+      "geometry": "geometry.SkinPack6.RussianSpecialForces",
+      "type": "free"
+    },
+    {
+      "localization_name": "ModernPirate",
+      "texture": "ModernPirate.png",
+      "geometry": "geometry.SkinPack6.ModernPirate",
+      "type": "free"
+    },
+    {
+      "localization_name": "AnarchistRioter",
+      "texture": "AnarchistRioter.png",
+      "geometry": "geometry.SkinPack6.AnarchistRioter",
+      "type": "free"
+    },
+    {
+      "localization_name": "RebelFighter",
+      "texture": "RebelFighter.png",
+      "geometry": "geometry.SkinPack6.RebelFighter",
+      "type": "free"
+    },
+    {
+      "localization_name": "RepublicanGuard",
+      "texture": "RepublicanGuard.png",
+      "geometry": "geometry.SkinPack6.RepublicanGuard",
+      "type": "free"
+    },
+    { "localization_name": "Faith", "texture": "Faith.png", "geometry": "geometry.humanoid.custom", "type": "free" },
+    {
+      "localization_name": "TechBoy",
+      "texture": "TechBoy.png",
+      "geometry": "geometry.BattleAndBeasts.EndermaninaSuit",
+      "type": "free"
+    },
+    {
+      "localization_name": "DirtRunner",
+      "texture": "DirtRunner.png",
+      "geometry": "geometry.SkinPack6.DirtRunner",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "SkinPack6",
+  "localization_name": "SkinPack6"
+}

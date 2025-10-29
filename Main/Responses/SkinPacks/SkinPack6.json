@@ -1,9 +1,9 @@
 {
   "result": {
-    "id": "80c85890-dad7-4d3a-b2ef-60071327b7cf",
-    "pageId": "ItemDetail_80c85890-dad7-4d3a-b2ef-60071327b7cf",
+    "id": "4c61b1f5-2bbc-492f-8a2a-1f3b813c4113",
+    "pageId": "ItemDetail_4c61b1f5-2bbc-492f-8a2a-1f3b813c4113",
     "addToRecentlyViewed": true,
-    "pageName": "ItemDetail For 'Skin Pack 5'",
+    "pageName": "ItemDetail For 'Skin Pack 6'",
     "rows": [
       {
         "controlId": "Layout",
@@ -116,15 +116,15 @@
         "components": [
           {
             "item": {
-              "id": "80c85890-dad7-4d3a-b2ef-60071327b7cf",
+              "id": "4c61b1f5-2bbc-492f-8a2a-1f3b813c4113",
               "contentType": "MarketplaceDurableCatalog_V1.2",
-              "title": "Skin Pack 5",
+              "title": "Skin Pack 6",
               "creatorName": "Minecraft",
               "thumbnail": {
                 "tag": "Thumbnail",
                 "type": "Thumbnail",
-                "url": "https://www.4jstudios.com/wp-content/uploads/2022/09/skinpack5_Thumbnail_0.jpg",
-                "urlWithResolution": "https://www.4jstudios.com/wp-content/uploads/2022/09/skinpack5_Thumbnail_0.jpg?width=800&height=450"
+                "url": "https://www.4jstudios.com/wp-content/uploads/2022/09/skinpack6_Thumbnail_0.jpg",
+                "urlWithResolution": "https://www.4jstudios.com/wp-content/uploads/2022/09/skinpack6_Thumbnail_0.jpg?width=800&height=450"
               },
               "rating": {
                 "average": 0.0,
@@ -158,7 +158,7 @@
               "packIdentity": [
                 {
                   "type": "skinpack",
-                  "uuid": "cc59b688-7cfb-4fa0-a76e-84aa55b92cae",
+                  "uuid": "0037a29f-876e-4709-8bb8-a388738e6f51",
                   "version": "1.0.0"
                 }
               ],
@@ -167,8 +167,8 @@
                 {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
-                  "url": "https://www.4jstudios.com/wp-content/uploads/2022/09/skinpack5_Thumbnail_0.jpg",
-                  "urlWithResolution": "https://www.4jstudios.com/wp-content/uploads/2022/09/skinpack5_Thumbnail_0.jpg?width=800&height=450"
+                  "url": "https://www.4jstudios.com/wp-content/uploads/2022/09/skinpack6_Thumbnail_0.jpg",
+                  "urlWithResolution": "https://www.4jstudios.com/wp-content/uploads/2022/09/skinpack6_Thumbnail_0.jpg?width=800&height=450"
                 }
               ],
               "contents": [],
@@ -240,7 +240,7 @@
                         "$type": "HeaderComponent"
                       },
                       {
-                        "description": "Dress up as your favorite Minecraft characters from this striking 5th collection.\r\n§lPLEASE CLICK SHOW MORE FOR ADDITIONAL USAGE INFORMATION!\r\n\n§rThis is a §lLegacy Vault§r port of §lSkin Pack 5.\r\n§r• This Skin Pack cannot be seen by other players unless they have ''Only Allow Trusted Skins'' disabled! You can ask them to disable it in §lSettings §r> §lGeneral > §lOnly Allow Trusted Skins Off.\r\n§r• This Skin Pack cannot be worn on featured servers!",
+                        "description": "A cool assortment of amazing characters is ready for you in this wonderful 6th collection. Don’t miss out!\r\n§lPLEASE CLICK SHOW MORE FOR ADDITIONAL USAGE INFORMATION!\r\n\n§rThis is a §lLegacy Vault§r port of §lSkin Pack 6.\r\n§r• This Skin Pack cannot be seen by other players unless they have ''Only Allow Trusted Skins'' disabled! You can ask them to disable it in §lSettings §r> §lGeneral > §lOnly Allow Trusted Skins Off.\r\n§r• This Skin Pack cannot be worn on featured servers!",
                         "genres": [],
                         "subgenres": [],
                         "playerCounts": [],
@@ -258,58 +258,58 @@
                         "images": [
                           {
                             "type": "Unknown",
-                            "url": "https://download-ssl.xbox.com/content/images/80c85890-dad7-4d3a-b2ef-60071327b7cf/1033/screenlg1.jpg",
-                            "urlWithResolution": "https://download-ssl.xbox.com/content/images/80c85890-dad7-4d3a-b2ef-60071327b7cf/1033/screenlg1.jpg?width=800&height=450"
+                            "url": "https://download-ssl.xbox.com/content/images/4c61b1f5-2bbc-492f-8a2a-1f3b813c4113/1033/screenlg1.jpg",
+                            "urlWithResolution": "https://download-ssl.xbox.com/content/images/4c61b1f5-2bbc-492f-8a2a-1f3b813c4113/1033/screenlg1.jpg?width=800&height=450"
                           },
                           {
                             "type": "Unknown",
-                            "url": "https://download-ssl.xbox.com/content/images/80c85890-dad7-4d3a-b2ef-60071327b7cf/1033/screenlg2.jpg",
-                            "urlWithResolution": "https://download-ssl.xbox.com/content/images/80c85890-dad7-4d3a-b2ef-60071327b7cf/1033/screenlg2.jpg?width=800&height=450"
+                            "url": "https://download-ssl.xbox.com/content/images/4c61b1f5-2bbc-492f-8a2a-1f3b813c4113/1033/screenlg2.jpg",
+                            "urlWithResolution": "https://download-ssl.xbox.com/content/images/4c61b1f5-2bbc-492f-8a2a-1f3b813c4113/1033/screenlg2.jpg?width=800&height=450"
                           },
                           {
                             "type": "Unknown",
-                            "url": "https://download-ssl.xbox.com/content/images/80c85890-dad7-4d3a-b2ef-60071327b7cf/1033/screenlg3.jpg",
-                            "urlWithResolution": "https://download-ssl.xbox.com/content/images/80c85890-dad7-4d3a-b2ef-60071327b7cf/1033/screenlg3.jpg?width=800&height=450"
+                            "url": "https://download-ssl.xbox.com/content/images/4c61b1f5-2bbc-492f-8a2a-1f3b813c4113/1033/screenlg3.jpg",
+                            "urlWithResolution": "https://download-ssl.xbox.com/content/images/4c61b1f5-2bbc-492f-8a2a-1f3b813c4113/1033/screenlg3.jpg?width=800&height=450"
                           },
                           {
                             "type": "Unknown",
-                            "url": "https://download-ssl.xbox.com/content/images/80c85890-dad7-4d3a-b2ef-60071327b7cf/1033/screenlg4.jpg",
-                            "urlWithResolution": "https://download-ssl.xbox.com/content/images/80c85890-dad7-4d3a-b2ef-60071327b7cf/1033/screenlg4.jpg?width=800&height=450"
+                            "url": "https://download-ssl.xbox.com/content/images/4c61b1f5-2bbc-492f-8a2a-1f3b813c4113/1033/screenlg4.jpg",
+                            "urlWithResolution": "https://download-ssl.xbox.com/content/images/4c61b1f5-2bbc-492f-8a2a-1f3b813c4113/1033/screenlg4.jpg?width=800&height=450"
                           },
                           {
                             "type": "Unknown",
-                            "url": "https://download-ssl.xbox.com/content/images/80c85890-dad7-4d3a-b2ef-60071327b7cf/1033/screenlg5.jpg",
-                            "urlWithResolution": "https://download-ssl.xbox.com/content/images/80c85890-dad7-4d3a-b2ef-60071327b7cf/1033/screenlg5.jpg?width=800&height=450"
+                            "url": "https://download-ssl.xbox.com/content/images/4c61b1f5-2bbc-492f-8a2a-1f3b813c4113/1033/screenlg5.jpg",
+                            "urlWithResolution": "https://download-ssl.xbox.com/content/images/4c61b1f5-2bbc-492f-8a2a-1f3b813c4113/1033/screenlg5.jpg?width=800&height=450"
                           },
                           {
                             "type": "Unknown",
-                            "url": "https://download-ssl.xbox.com/content/images/80c85890-dad7-4d3a-b2ef-60071327b7cf/1033/screenlg6.jpg",
-                            "urlWithResolution": "https://download-ssl.xbox.com/content/images/80c85890-dad7-4d3a-b2ef-60071327b7cf/1033/screenlg6.jpg?width=800&height=450"
+                            "url": "https://download-ssl.xbox.com/content/images/4c61b1f5-2bbc-492f-8a2a-1f3b813c4113/1033/screenlg6.jpg",
+                            "urlWithResolution": "https://download-ssl.xbox.com/content/images/4c61b1f5-2bbc-492f-8a2a-1f3b813c4113/1033/screenlg6.jpg?width=800&height=450"
                           },
                           {
                             "type": "Unknown",
-                            "url": "https://download-ssl.xbox.com/content/images/80c85890-dad7-4d3a-b2ef-60071327b7cf/1033/screenlg7.jpg",
-                            "urlWithResolution": "https://download-ssl.xbox.com/content/images/80c85890-dad7-4d3a-b2ef-60071327b7cf/1033/screenlg7.jpg?width=800&height=450"
+                            "url": "https://download-ssl.xbox.com/content/images/4c61b1f5-2bbc-492f-8a2a-1f3b813c4113/1033/screenlg7.jpg",
+                            "urlWithResolution": "https://download-ssl.xbox.com/content/images/4c61b1f5-2bbc-492f-8a2a-1f3b813c4113/1033/screenlg7.jpg?width=800&height=450"
                           },
                           {
                             "type": "Unknown",
-                            "url": "https://download-ssl.xbox.com/content/images/80c85890-dad7-4d3a-b2ef-60071327b7cf/1033/screenlg8.jpg",
-                            "urlWithResolution": "https://download-ssl.xbox.com/content/images/80c85890-dad7-4d3a-b2ef-60071327b7cf/1033/screenlg8.jpg?width=800&height=450"
+                            "url": "https://download-ssl.xbox.com/content/images/4c61b1f5-2bbc-492f-8a2a-1f3b813c4113/1033/screenlg8.jpg",
+                            "urlWithResolution": "https://download-ssl.xbox.com/content/images/4c61b1f5-2bbc-492f-8a2a-1f3b813c4113/1033/screenlg8.jpg?width=800&height=450"
                           },
                           {
                             "type": "Unknown",
-                            "url": "https://download-ssl.xbox.com/content/images/80c85890-dad7-4d3a-b2ef-60071327b7cf/1033/screenlg9.jpg",
-                            "urlWithResolution": "https://download-ssl.xbox.com/content/images/80c85890-dad7-4d3a-b2ef-60071327b7cf/1033/screenlg9.jpg?width=800&height=450"
+                            "url": "https://download-ssl.xbox.com/content/images/4c61b1f5-2bbc-492f-8a2a-1f3b813c4113/1033/screenlg9.jpg",
+                            "urlWithResolution": "https://download-ssl.xbox.com/content/images/4c61b1f5-2bbc-492f-8a2a-1f3b813c4113/1033/screenlg9.jpg?width=800&height=450"
                           },
                           {
                             "type": "Unknown",
-                            "url": "https://download-ssl.xbox.com/content/images/80c85890-dad7-4d3a-b2ef-60071327b7cf/1033/screenlg10.jpg",
-                            "urlWithResolution": "https://download-ssl.xbox.com/content/images/80c85890-dad7-4d3a-b2ef-60071327b7cf/1033/screenlg10.jpg?width=800&height=450"
+                            "url": "https://download-ssl.xbox.com/content/images/4c61b1f5-2bbc-492f-8a2a-1f3b813c4113/1033/screenlg10.jpg",
+                            "urlWithResolution": "https://download-ssl.xbox.com/content/images/4c61b1f5-2bbc-492f-8a2a-1f3b813c4113/1033/screenlg10.jpg?width=800&height=450"
                           },
                           {
                             "type": "Unknown",
-                            "url": "https://download-ssl.xbox.com/content/images/80c85890-dad7-4d3a-b2ef-60071327b7cf/1033/screenlg11.jpg",
-                            "urlWithResolution": "https://download-ssl.xbox.com/content/images/80c85890-dad7-4d3a-b2ef-60071327b7cf/1033/screenlg11.jpg?width=800&height=450"
+                            "url": "https://download-ssl.xbox.com/content/images/4c61b1f5-2bbc-492f-8a2a-1f3b813c4113/1033/screenlg11.jpg",
+                            "urlWithResolution": "https://download-ssl.xbox.com/content/images/4c61b1f5-2bbc-492f-8a2a-1f3b813c4113/1033/screenlg11.jpg?width=800&height=450"
                           }
                         ],
                         "type": "imageGalleryComp",
@@ -344,16 +344,16 @@
                       {
                         "packIdentity": {
                           "type": "skinpack",
-                          "uuid": "cc59b688-7cfb-4fa0-a76e-84aa55b92cae",
+                          "uuid": "0037a29f-876e-4709-8bb8-a388738e6f51",
                           "version": "1.0.0"
                         },
                         "type": "skinViewerComp",
                         "$type": "SkinViewerComponent"
                       },
                       {
-                        "headerText": "Skin Pack 5: %s",
+                        "headerText": "Skin Pack 6: %s",
                         "text": {
-                          "value": "Skin Pack 5: %s",
+                          "value": "Skin Pack 6: %s",
                           "style": {
                             "highlightColor": [],
                             "alignment": "Left",
@@ -446,16 +446,16 @@
                       {
                         "packIdentity": {
                           "type": "skinpack",
-                          "uuid": "cc59b688-7cfb-4fa0-a76e-84aa55b92cae",
+                          "uuid": "0037a29f-876e-4709-8bb8-a388738e6f51",
                           "version": "1.0.0"
                         },
                         "type": "skinViewerComp",
                         "$type": "SkinViewerComponent"
                       },
                       {
-                        "headerText": "Skin Pack 5: %s",
+                        "headerText": "Skin Pack 6: %s",
                         "text": {
-                          "value": "Skin Pack 5: %s",
+                          "value": "Skin Pack 6: %s",
                           "style": {
                             "highlightColor": [],
                             "alignment": "Left",

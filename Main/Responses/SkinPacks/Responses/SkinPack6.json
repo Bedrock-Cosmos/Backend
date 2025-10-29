@@ -15,15 +15,15 @@
           "Type": "namespace",
           "TypeString": "namespace"
         },
-        "Id": "80c85890-dad7-4d3a-b2ef-60071327b7cf",
+        "Id": "4c61b1f5-2bbc-492f-8a2a-1f3b813c4113",
         "Type": "bundle",
         "Title": {
-          "NEUTRAL": "Skin Pack 5",
-          "neutral": "Skin Pack 5"
+          "NEUTRAL": "Skin Pack 6",
+          "neutral": "Skin Pack 6"
         },
         "Description": {
-          "NEUTRAL": "Dress up as your favorite Minecraft characters from this striking 5th collection.",
-          "neutral": "Dress up as your favorite Minecraft characters from this striking 5th collection."
+          "NEUTRAL": "A cool assortment of amazing characters is ready for you in this wonderful 6th collection. Don’t miss out!",
+          "neutral": "A cool assortment of amazing characters is ready for you in this wonderful 6th collection. Don’t miss out!"
         },
         "ContentType": "MarketplaceDurableCatalog_V1.2",
         "CreatorEntityKey": {
@@ -41,8 +41,8 @@
           "xboxone.store"
         ],
         "Tags": [
-          "80c85890-dad7-4d3a-b2ef-60071327b7cf",
-          "cc59b688-7cfb-4fa0-a76e-84aa55b92cae",
+          "4c61b1f5-2bbc-492f-8a2a-1f3b813c4113",
+          "0037a29f-876e-4709-8bb8-a388738e6f51",
           "skinpack"
         ],
         "CreationDate": "2025-10-27T10:00:00Z",
@@ -52,20 +52,20 @@
             "Id": "2211bea0-8a75-4150-a548-9ccaa2f9f246",
             "Tag": "Thumbnail",
             "Type": "Thumbnail",
-            "Url": "https://www.4jstudios.com/wp-content/uploads/2022/09/skinpack5_Thumbnail_0.jpg"
+            "Url": "https://www.4jstudios.com/wp-content/uploads/2022/09/skinpack6_Thumbnail_0.jpg"
           }
         ],
         "DeepLinks": [],
         "DisplayProperties": {
           "creatorName": "Minecraft",
-          "offerId": "80c85890-dad7-4d3a-b2ef-60071327b7cf",
+          "offerId": "4c61b1f5-2bbc-492f-8a2a-1f3b813c4113",
           "originalCreatorId": "2535448579972708",
           "price": -1,
           "purchasable": false,
           "packIdentity": [
             {
               "type": "skinpack",
-              "uuid": "cc59b688-7cfb-4fa0-a76e-84aa55b92cae",
+              "uuid": "0037a29f-876e-4709-8bb8-a388738e6f51",
               "version": "1.0.0"
             }
           ]
