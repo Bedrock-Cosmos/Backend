@@ -256,8 +256,8 @@
                   "thumbnail": {
                     "tag": "Thumbnail",
                     "type": "Thumbnail",
-                    "url": "https://github.com/Bedrock-Cosmos/Backend/blob/main/Main/Thumbnails/Persona/MillionthSale_cape.png?raw=true",
-                    "urlWithResolution": "https://github.com/Bedrock-Cosmos/Backend/blob/main/Main/Thumbnails/Persona/MillionthSale_cape.png?raw=true"
+                    "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/MillionthSale_cape.png",
+                    "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/MillionthSale_cape.png"
                   },
                   "price": {
                     "listPrice": 0,
@@ -282,8 +282,8 @@
                     {
                       "tag": "Thumbnail",
                       "type": "Thumbnail",
-                      "url": "https://github.com/Bedrock-Cosmos/Backend/blob/main/Main/Thumbnails/Persona/MillionthSale_cape.png?raw=true",
-                      "urlWithResolution": "https://github.com/Bedrock-Cosmos/Backend/blob/main/Main/Thumbnails/Persona/MillionthSale_cape.png?raw=true"
+                      "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/MillionthSale_cape.png",
+                      "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/MillionthSale_cape.png"
                     }
                   ],
                   "startDate": "2020-01-01T12:00:00Z",
@@ -310,7 +310,7 @@
                   },
                   "image": {
                     "id": "91b8c70a-50cd-4b48-a0fa-ddbf160d2045",
-                    "url": "https://github.com/Bedrock-Cosmos/Backend/blob/main/Main/Thumbnails/Persona/MillionthSale_cape.png?raw=true",
+                    "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/MillionthSale_cape.png",
                     "imageSize": {
                       "height": 450,
                       "width": 450

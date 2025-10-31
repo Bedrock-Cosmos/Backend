@@ -42,6 +42,21 @@
           "Type": "master_player_account",
           "TypeString": "master_player_account"
         },
+        "IsStackable": false,
+        "Platforms": [
+          "title.bedrockvanilla"
+        ],
+        "Tags": [
+          "7f4ba1a2-43dd-45b1-aa3f-0b3ca2ebd5c8",
+          "47ca6989-81db-404b-a9f1-f3391258b8a2",
+          "mashup",
+          "has_skinpack",
+          "survival_spawn_world",
+          "genre.survival",
+          "subgenre.open_world",
+          "playercount.1-4",
+          "1P"
+        ],
         "CreationDate": "2025-10-26T00:00:00Z",
         "LastModifiedDate": "2025-10-26T00:00:00Z",
         "Images": [
@@ -50,6 +65,12 @@
             "Tag": "Thumbnail",
             "Type": "Thumbnail",
             "Url": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_700/store/software/switch/70010000000964/94d3ce6833675dc3266b98aa756b14d0a5e634c5db5bbbd81d294b7be4a8c4e8"
+          }
+        ],
+        "ItemReferences": [
+          {
+            "Id": "bf4e0eba-34d7-4e6a-a55e-d1ffcc6696ba",
+            "Amount": 1
           }
         ],
         "DisplayProperties": {

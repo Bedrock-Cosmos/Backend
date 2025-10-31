@@ -20,9 +20,21 @@
                 "url": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_700/store/software/switch/70010000000964/94d3ce6833675dc3266b98aa756b14d0a5e634c5db5bbbd81d294b7be4a8c4e8",
                 "urlWithResolution": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_700/store/software/switch/70010000000964/94d3ce6833675dc3266b98aa756b14d0a5e634c5db5bbbd81d294b7be4a8c4e8"
               },
-              "linksTo": "CreatorPage_master_player_account!301F442C3B63DC20",
+              "rating": {
+                "average": 0,
+                "totalCount": 0
+              },
+              "price": {
+                "listPrice": -1,
+                "realmsInfo": {
+                  "inRealmsPlus": false
+                },
+                "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                "virtualCurrencyType": "Minecoin"
+              },
+              "linksTo": "CreatorPage_master_player_account!MinecraftHidden",
               "linksToInfo": {
-                "linksTo": "CreatorPage_master_player_account!301F442C3B63DC20",
+                "linksTo": "CreatorPage_master_player_account!MinecraftHidden",
                 "linkType": "pageId",
                 "displayType": "store_layout.store_data_driven_screen",
                 "navigateInPlace": false
@@ -45,9 +57,16 @@
                 }
               ],
               "minPerformanceTier": "SuperLowTier",
+              "tags": [],
               "videoUrl": "https://www.youtube.com/watch?v=sNcVYOPw6r0",
+              "contents": [],
               "platformRestricted": false,
-              "startDate": "2025-10-26T00:00:00Z"
+              "iconOverlay": [],
+              "descriptionLineByLine": [],
+              "startDate": "2025-10-26T00:00:00Z",
+              "subscription": [],
+              "thumbnailPreviewOnly": false,
+              "namedLinksToInfoMap": {}
             },
             "type": "itemSummaryComp",
             "$type": "ItemSummaryComponent"
@@ -55,9 +74,17 @@
           {
             "binaries": [
               {
-                "url": "https://github.com/zoroark19/-/blob/main/UserPackage.zip?raw=true"
+                "url": "https://github.com/zoroark19/-/blob/main/UserPackage.zip"
               }
             ],
+            "price": {
+              "listPrice": -1,
+              "realmsInfo": {
+                "inRealmsPlus": false
+              },
+              "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+              "virtualCurrencyType": "Minecoin"
+            },
             "type": "purchaseInfoComp",
             "$type": "PurchaseInfoComponent"
           }
@@ -126,7 +153,7 @@
         "components": [
           {
             "binary": {
-              "url": "https://github.com/zoroark19/-/blob/main/UserPackage.zip?raw=true"
+              "url": "https://github.com/zoroark19/-/blob/main/UserPackage.zip"
             },
             "packIdentity": {
               "type": "skinpack",
