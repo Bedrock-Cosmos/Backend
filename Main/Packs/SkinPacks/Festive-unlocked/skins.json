@@ -26,7 +26,7 @@
     },
     {
       "localization_name": "SmallElf3",
-      "geometry": "geometry.FestiveMashup.SmallElf3",
+      "geometry": "geometry.FestiveMashup.SmallElf2",
       "texture": "SmallElf3.png",
       "type": "free"
     },
@@ -44,7 +44,7 @@
     },
     {
       "localization_name": "BlueSanta",
-      "geometry": "geometry.FestiveMashup.BlueSanta",
+      "geometry": "geometry.FestiveMashup.SteveXmasSweater2",
       "texture": "BlueSanta.png",
       "type": "free"
     },
@@ -104,7 +104,7 @@
     },
     {
       "localization_name": "SnowFlake",
-      "geometry": "geometry.FestiveMashup.SnowFlake",
+      "geometry": "geometry.FestiveMashup.SteveXmasSweater2",
       "texture": "SnowFlake.png",
       "type": "free"
     },
@@ -116,7 +116,6 @@
         "move.legs": "animation.player.move.legs.single",
         "move.arms": "animation.player.move.arms.single"
       },
-      "enable_attachables": true,
       "hide_armor": true,
       "type": "free"
     },
@@ -146,49 +145,49 @@
     },
     {
       "localization_name": "SteveXmasSweater",
-      "geometry": "geometry.FestiveMashup.SteveXmasSweater",
+      "geometry": "geometry.FestiveMashup.SteveXmasSweater2",
       "texture": "SteveXmasSweater.png",
       "type": "free"
     },
     {
       "localization_name": "TennisSteveXmasSweater",
-      "geometry": "geometry.FestiveMashup.TennisSteveXmasSweater",
+      "geometry": "geometry.FestiveMashup.SteveXmasSweater2",
       "texture": "TennisSteveXmasSweater.png",
       "type": "free"
     },
     {
       "localization_name": "FestiveMashupTuxedoSteveXmasSweater",
-      "geometry": "geometry.FestiveMashup.FestiveMashupTuxedoSteveXmasSweater",
+      "geometry": "geometry.FestiveMashup.SteveXmasSweater2",
       "texture": "TuxedoSteveXmas.png",
       "type": "free"
     },
     {
       "localization_name": "AthleteSteveXmasSweater",
-      "geometry": "geometry.FestiveMashup.AthleteSteveXmasSweater",
+      "geometry": "geometry.FestiveMashup.SteveXmasSweater2",
       "texture": "AthleteSteveXmasSweater.png",
       "type": "free"
     },
     {
       "localization_name": "ScottishSteveXmasSweater",
-      "geometry": "geometry.FestiveMashup.ScottishSteveXmasSweater",
+      "geometry": "geometry.FestiveMashup.SteveXmasSweater2",
       "texture": "ScottishSteveXmasSweater.png",
       "type": "free"
     },
     {
       "localization_name": "PrisonerSteveXmasSweater",
-      "geometry": "geometry.FestiveMashup.PrisonerSteveXmasSweater",
+      "geometry": "geometry.FestiveMashup.SteveXmasSweater2",
       "texture": "PrisonerSteveXmasSweater.png",
       "type": "free"
     },
     {
       "localization_name": "CyclistSteveXmasSweater",
-      "geometry": "geometry.FestiveMashup.CyclistSteveXmasSweater",
+      "geometry": "geometry.FestiveMashup.SteveXmasSweater2",
       "texture": "CyclistSteveXmasSweater.png",
       "type": "free"
     },
     {
       "localization_name": "BoxerSteveXmasSweater",
-      "geometry": "geometry.FestiveMashup.BoxerSteveXmasSweater",
+      "geometry": "geometry.FestiveMashup.SteveXmasSweater2",
       "texture": "BoxerSteveXmasSweater.png",
       "type": "free"
     },

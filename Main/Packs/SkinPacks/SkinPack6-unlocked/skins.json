@@ -70,7 +70,7 @@
       "animations": {
         "holding": "animation.player.holding.zombie",
         "move.arms": "animation.player.move.arms.zombie",
-        "riding.arms": "animation.player.Riding.arms.zombie"
+        "riding.arms": "animation.player.riding.arms.zombie"
       },
       "type": "free"
     },
