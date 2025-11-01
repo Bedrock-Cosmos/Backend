@@ -1,0 +1,163 @@
+{
+  "result": {
+    "pageId": "CreatorPage_master_player_account!MinecraftHidden",
+    "addToRecentlyViewed": false,
+    "rows": [
+      {
+        "controlId": "TextRow",
+        "components": [
+          {
+            "text": {
+              "value": " Minecraft Restored",
+              "style": {
+                "highlightColor": [],
+                "alignment": "Left",
+                "textColor": [1.0, 1.0, 1.0],
+                "font": "MinecraftTen",
+                "showBackground": false,
+                "showOutline": false,
+                "indent": 0.0,
+                "buttonWidth": 0.0,
+                "color": [],
+                "offerControlIdType": "None"
+              },
+              "replacements": []
+            },
+            "type": "headerComp",
+            "$type": "HeaderComponent"
+          },
+          {
+            "text": {
+              "value": " Restores all §oRemoved/Censored§r Skins & Capes that have been lost over time.",
+              "style": {
+                "highlightColor": [],
+                "alignment": "Left",
+                "textColor": [],
+                "font": "SmoothWithEmoticons",
+                "showBackground": false,
+                "showOutline": false,
+                "indent": 0.0,
+                "buttonWidth": 0.0,
+                "color": [],
+                "offerControlIdType": "None"
+              },
+              "replacements": []
+            },
+            "type": "textComponent",
+            "$type": "TextComponent"
+          }
+        ]
+      },
+      {
+        "controlId": "VerticalLineDivider",
+        "components": [
+          {
+            "textureImage": {
+              "type": "Unknown",
+              "style": {
+                "highlightColor": [],
+                "alignment": "Left",
+                "textColor": [],
+                "font": "default",
+                "showBackground": false,
+                "showOutline": false,
+                "indent": 0.0,
+                "buttonWidth": 0.0,
+                "color": [0.70196, 0.8392, 0.8588, 0.2],
+                "offerControlIdType": "None"
+              }
+            },
+            "type": "textureComp",
+            "$type": "TextureComponent"
+          }
+        ]
+      },
+      {
+        "controlId": "TextRow",
+        "components": [
+          {
+            "text": {
+              "value": "2nd Birthday Skin Pack 2015 (Playstation)",
+              "style": {
+                "highlightColor": [],
+                "alignment": "Left",
+                "textColor": [1.0, 1.0, 1.0],
+                "font": "MinecraftTen",
+                "showBackground": false,
+                "showOutline": false,
+                "indent": 0.0,
+                "buttonWidth": 0.0,
+                "color": [],
+                "offerControlIdType": "None"
+              },
+              "replacements": []
+            },
+            "type": "headerComp",
+            "$type": "HeaderComponent"
+          },
+          {
+            "text": {
+              "value": "- Fixes §lParty Robed Figure-Red(& White)§r's Cape previously being static.",
+              "style": {
+                "highlightColor": [],
+                "alignment": "Left",
+                "textColor": [],
+                "font": "SmoothWithEmoticons",
+                "showBackground": false,
+                "showOutline": false,
+                "indent": 0.0,
+                "buttonWidth": 0.0,
+                "color": [],
+                "offerControlIdType": "None"
+              },
+              "replacements": []
+            },
+            "type": "textComponent",
+            "$type": "TextComponent"
+          }
+        ]
+      },
+      {
+        "controlId": "SkinPreview",
+        "components": [
+          {
+            "binary": {
+              "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Packs/SkinPacks/2ndBirthday.zip"
+            },
+            "packIdentity": {
+              "type": "skinpack",
+              "uuid": "d532b9b3-eddc-4f98-96fc-5fe5e227c426",
+              "version": "1.0.6"
+            },
+            "type": "skinViewerComp",
+            "$type": "SkinViewerComponent"
+          },
+          {
+            "headerText": "2nd Birthday Skin Pack - 2015: %s",
+            "text": {
+              "value": "2nd Birthday Skin Pack - 2015: %s",
+              "style": {
+                "highlightColor": [],
+                "alignment": "Left",
+                "textColor": [1.0, 1.0, 1.0],
+                "font": "default",
+                "showBackground": false,
+                "showOutline": false,
+                "indent": 0.0,
+                "buttonWidth": 0.0,
+                "color": [],
+                "offerControlIdType": "None"
+              },
+              "replacements": []
+            },
+            "type": "headerComp",
+            "$type": "HeaderComponent"
+          }
+        ]
+      }
+    ],
+    "inventoryVersion": "1/Njkz",
+    "pageRefresh": false,
+    "sidebarLayoutType": "None"
+  }
+}
