@@ -3,11 +3,11 @@
   "status": "OK",
   "data": {
     "Item": {
-      "Id": "aafefeee-7cca-4f19-9508-b949d1d26561",
+      "Id": "f9672b86-12ce-490d-a3e2-416111ecbe95",
       "Contents": [
         {
-          "Id": "61e8f038-e067-43d9-bd6e-0f8fa3bdf13b",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Realms_cape.zip",
+          "Id": "0f33c3be-d1b6-45ff-8536-7f6a890a64cf",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Breeze.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"
@@ -20,7 +20,7 @@
         "packIdentity": [
           {
             "type": "persona_piece",
-            "uuid": "61e8f038-e067-43d9-bd6e-0f8fa3bdf13b",
+            "uuid": "52cabefa-5bab-41c2-8df3-e45e9e02c41f",
             "version": "1.0.0"
           }
         ]

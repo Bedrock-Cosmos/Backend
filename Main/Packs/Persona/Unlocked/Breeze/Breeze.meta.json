@@ -1,0 +1,10 @@
+{
+  "piece_id": "0f33c3be-d1b6-45ff-8536-7f6a890a64cf",
+  "piece_name": "Breeze",
+  "piece_type": "persona_capes",
+  "texture_sources": [
+    {
+      "texture": "Breeze.png"
+    }
+  ]
+}

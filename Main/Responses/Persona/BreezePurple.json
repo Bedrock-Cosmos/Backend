@@ -3,11 +3,11 @@
   "status": "OK",
   "data": {
     "Item": {
-      "Id": "aafefeee-7cca-4f19-9508-b949d1d26561",
+      "Id": "075155bf-e1e5-448c-8501-9b8799e514d3",
       "Contents": [
         {
-          "Id": "61e8f038-e067-43d9-bd6e-0f8fa3bdf13b",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/New_Years_cape.zip",
+          "Id": "eb0dcb1a-3de0-4943-b97c-7848ed5d21f4",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/BreezePurple.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"
@@ -20,7 +20,7 @@
         "packIdentity": [
           {
             "type": "persona_piece",
-            "uuid": "61e8f038-e067-43d9-bd6e-0f8fa3bdf13b",
+            "uuid": "032f3eb0-8244-444b-bf98-2dfcd132328f",
             "version": "1.0.0"
           }
         ]
