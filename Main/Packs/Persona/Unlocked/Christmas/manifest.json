@@ -3,7 +3,7 @@
   "header": {
     "description": "pack.description",
     "name": "pack.name",
-    "uuid": "d36ece97-827f-4f80-bdf9-7fe665c08892",
+    "uuid": "3e05bbb7-7ef3-4ec9-8a4b-705c7494d50c",
     "version": [
       1,
       0,
@@ -13,7 +13,7 @@
   "modules": [
     {
       "type": "persona_piece",
-      "uuid": "1a8515ce-30b3-4263-8cea-1a9b4f5576cf",
+      "uuid": "930074fe-7dce-4c57-beed-83436b251468",
       "version": [
         1,
         0,

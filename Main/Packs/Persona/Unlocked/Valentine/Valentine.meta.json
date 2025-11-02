@@ -1,0 +1,10 @@
+{
+  "piece_id": "17d53330-32bb-456d-9f14-66b4c724e613",
+  "piece_name": "Valentine",
+  "piece_type": "persona_capes",
+  "texture_sources": [
+    {
+      "texture": "Valentine.png"
+    }
+  ]
+}
