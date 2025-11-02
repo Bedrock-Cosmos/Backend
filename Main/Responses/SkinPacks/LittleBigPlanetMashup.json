@@ -216,28 +216,28 @@
             "images": [
               {
                 "type": "Unknown",
-                  "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/90f0019f-6e36-4703-b956-caf68ae936c9/LittleBigPlanet_Screenshot_0.jpg",
-                  "urlWithResolution": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/90f0019f-6e36-4703-b956-caf68ae936c9/LittleBigPlanet_Screenshot_0.jpg?width=800&height=450"
+                "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/90f0019f-6e36-4703-b956-caf68ae936c9/LittleBigPlanet_Screenshot_0.jpg",
+                "urlWithResolution": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/90f0019f-6e36-4703-b956-caf68ae936c9/LittleBigPlanet_Screenshot_0.jpg?width=800&height=450"
               },
               {
                 "type": "Unknown",
-                  "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/8a0ca0fc-6fa4-46f6-b74b-0b75ca3d9b46/LittleBigPlanet_Screenshot_1.jpg",
-                  "urlWithResolution": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/8a0ca0fc-6fa4-46f6-b74b-0b75ca3d9b46/LittleBigPlanet_Screenshot_1.jpg?width=800&height=450"
+                "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/8a0ca0fc-6fa4-46f6-b74b-0b75ca3d9b46/LittleBigPlanet_Screenshot_1.jpg",
+                "urlWithResolution": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/8a0ca0fc-6fa4-46f6-b74b-0b75ca3d9b46/LittleBigPlanet_Screenshot_1.jpg?width=800&height=450"
               },
               {
                 "type": "Unknown",
-                  "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/c803adc4-097f-49ae-8dd3-1f4e46e70c97/LittleBigPlanet_Screenshot_2.jpg",
-                  "urlWithResolution": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/c803adc4-097f-49ae-8dd3-1f4e46e70c97/LittleBigPlanet_Screenshot_2.jpg?width=800&height=450"
+                "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/c803adc4-097f-49ae-8dd3-1f4e46e70c97/LittleBigPlanet_Screenshot_2.jpg",
+                "urlWithResolution": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/c803adc4-097f-49ae-8dd3-1f4e46e70c97/LittleBigPlanet_Screenshot_2.jpg?width=800&height=450"
               },
               {
                 "type": "Unknown",
-                  "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/9b28994c-ab09-48da-8da1-ab48c364e173/LittleBigPlanet_Screenshot_3.jpg",
-                  "urlWithResolution": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/9b28994c-ab09-48da-8da1-ab48c364e173/LittleBigPlanet_Screenshot_3.jpg?width=800&height=450"
+                "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/9b28994c-ab09-48da-8da1-ab48c364e173/LittleBigPlanet_Screenshot_3.jpg",
+                "urlWithResolution": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/9b28994c-ab09-48da-8da1-ab48c364e173/LittleBigPlanet_Screenshot_3.jpg?width=800&height=450"
               },
               {
                 "type": "Unknown",
-                  "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/45249c39-5f5f-4afd-a6bb-89cd2a6b5568/LittleBigPlanet_Screenshot_4.jpg",
-                  "urlWithResolution": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/45249c39-5f5f-4afd-a6bb-89cd2a6b5568/LittleBigPlanet_Screenshot_4.jpg?width=800&height=450"
+                "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/45249c39-5f5f-4afd-a6bb-89cd2a6b5568/LittleBigPlanet_Screenshot_4.jpg",
+                "urlWithResolution": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/45249c39-5f5f-4afd-a6bb-89cd2a6b5568/LittleBigPlanet_Screenshot_4.jpg?width=800&height=450"
               }
             ],
             "type": "imageGalleryComp",
@@ -273,8 +273,8 @@
             "panoramaUrl": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/5fb4a276-d89c-4833-b02d-920eed0c0d58/ChineseMythologyMash-up_panorama_0.jpg",
             "panoramaImage": {
               "type": "Panorama",
-                  "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/adbdc2e3-e587-4dc9-ae44-e8f7c7b01716/LittleBigPlanet_panorama_0.jpg",
-                  "urlWithResolution": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/adbdc2e3-e587-4dc9-ae44-e8f7c7b01716/LittleBigPlanet_panorama_0.jpg?width=800&height=450"
+              "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/adbdc2e3-e587-4dc9-ae44-e8f7c7b01716/LittleBigPlanet_panorama_0.jpg",
+              "urlWithResolution": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/adbdc2e3-e587-4dc9-ae44-e8f7c7b01716/LittleBigPlanet_panorama_0.jpg?width=800&height=450"
             },
             "type": "panoramaComp",
             "$type": "PanoramaComponent"
@@ -364,6 +364,65 @@
             },
             "type": "ratingComp",
             "$type": "RatingComponent"
+          }
+        ]
+      },
+      {
+        "controlId": "Layout",
+        "components": [
+          {
+            "linksToInfo": {
+              "linksTo": "MultiItemPage_DressingRoomCoinScreen",
+              "linkType": "pageId",
+              "displayType": "store_layout.character_creator_screen",
+              "screenTitle": {
+                "value": "dr.header.minecoin.screen",
+                "style": {
+                  "highlightColor": [],
+                  "alignment": "Left",
+                  "textColor": [],
+                  "font": "MinecraftTen",
+                  "showBackground": false,
+                  "showOutline": false,
+                  "indent": 0,
+                  "buttonWidth": 0,
+                  "color": [],
+                  "offerControlIdType": "None"
+                },
+                "replacements": []
+              },
+              "navigateInPlace": false
+            },
+            "isVisible": true,
+            "type": "topBarMinecoinComp",
+            "$type": "TopBarMinecoinComponent"
+          },
+          {
+            "linksToInfo": {
+              "linksTo": "Search_DressingRoomSearchHome",
+              "linkType": "pageId",
+              "displayType": "store_layout.character_creator_screen",
+              "screenTitle": {
+                "value": "dr.header.search.home",
+                "style": {
+                  "highlightColor": [],
+                  "alignment": "Left",
+                  "textColor": [],
+                  "font": "MinecraftTen",
+                  "showBackground": false,
+                  "showOutline": false,
+                  "indent": 0,
+                  "buttonWidth": 0,
+                  "color": [],
+                  "offerControlIdType": "None"
+                },
+                "replacements": []
+              },
+              "navigateInPlace": false
+            },
+            "isVisible": true,
+            "type": "topBarSearchComp",
+            "$type": "TopBarSearchComponent"
           }
         ]
       }

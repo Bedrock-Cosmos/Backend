@@ -665,6 +665,25 @@
           {
             "items": [
               {
+                "id": "CreatorPage_master_player_account!MinecraftRestored",
+                "contentType": "MarketplaceDurableCatalog_V1.2",
+                "thumbnail": {
+                  "tag": "Thumbnail",
+                  "type": "Thumbnail",
+                  "url": "https://img.youtube.com/vi/xZMk_UIsI2Y/mqdefault.jpg?72222",
+                  "urlWithResolution": "https://img.youtube.com/vi/xZMk_UIsI2Y/mqdefault.jpg?width=800&height=450"
+                },
+                "packType": "Realms",
+                "linksTo": "CreatorPage_master_player_account!MinecraftRestored",
+                "linksToInfo": {
+                  "linksTo": "CreatorPage_master_player_account!MinecraftRestored",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.store_data_driven_screen",
+                  "navigateInPlace": false
+                },
+                "startDate": "2025-10-25T12:00:00Z"
+              },
+              {
                 "id": "770196c2-718f-43ef-94d6-8e53a7b5b0af",
                 "contentType": "MarketplaceDurableCatalog_V1.2",
                 "title": "2nd Birthday Skin Pack - 2015",
@@ -786,7 +805,7 @@
                     "version": "1.0.0"
                   }
                 ],
-                "startDate": "2019-12-09T18:00:00Z"
+                "startDate": "2025-10-25T12:00:00Z"
               },
               {
                 "id": "4d7590d6-8f7f-4f53-989a-2df76b6b015b",
@@ -1438,7 +1457,7 @@
                 "startDate": "2019-12-09T18:00:00Z"
               }
             ],
-            "totalItems": 10,
+            "totalItems": 12,
             "linksTo": "MultiItemPage_PersonaSkinSelector%7cSkinPack_10000000-2000-3000-4000-500000000000",
             "linksToInfo": {
               "linksTo": "MultiItemPage_PersonaSkinSelector%7cSkinPack_10000000-2000-3000-4000-500000000000",
@@ -1448,7 +1467,7 @@
             },
             "customStoreRowConfiguration": {
               "seeAllVisible": false,
-              "maxOffers": 10,
+              "maxOffers": 12,
               "arrowsVisible": true,
               "visibleOffersPerRow": 6
             },

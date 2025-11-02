@@ -1233,10 +1233,21 @@
                   "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/MillionthSale_cape.png",
                   "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/MillionthSale_cape.png"
                 },
+                "requiresRedeem": true,
+                "achievementRewardType": "earth_achievement",
                 "price": {
                   "listPrice": 0,
                   "realmsInfo": {
                     "inRealmsPlus": false
+                  },
+                  "saleInfo": {
+                    // Date cannot be greater than 24 hours
+                    "salePrice": 0,
+                    "storeId": "6c05c0a3-56f8-47bd-b2f3-2d7fe36771fd",
+                    "startDate": "2025-11-01T17:00:00Z",
+                    "expirationDate": "2025-11-02T17:00:00Z",
+                    "discount": 0.33,
+                    "category": "RegularSale"
                   },
                   "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
                   "virtualCurrencyType": "Minecoin"
