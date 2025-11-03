@@ -7,7 +7,7 @@
       "Contents": [
         {
           "Id": "fddd322c-e2b5-4fdf-9ecb-22fc3b99eba0",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Day_17_Desert_Temple.zip",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Creator/Day_17_Desert_Temple.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"

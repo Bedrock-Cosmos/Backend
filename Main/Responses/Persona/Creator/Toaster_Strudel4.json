@@ -7,7 +7,7 @@
       "Contents": [
         {
           "Id": "9354f2f2-3d90-45ea-8163-8eda55bf07e4",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Toaster_Strudel4.zip",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Creator/Toaster_Strudel4.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"

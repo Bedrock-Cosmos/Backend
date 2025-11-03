@@ -7,7 +7,7 @@
       "Contents": [
         {
           "Id": "0cf0c6a2-548a-45e2-a9e8-8f4324612a88",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Day_13_Mystic_Beetle.zip",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Creator/Day_13_Mystic_Beetle.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"

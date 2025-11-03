@@ -7,7 +7,7 @@
       "Contents": [
         {
           "Id": "8d4c2a93-1b7b-41a6-a61c-6247babed9f5",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/DRIED_GHAST.zip",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Creator/DRIED_GHAST.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"
