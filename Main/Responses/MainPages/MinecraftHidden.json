@@ -65,7 +65,7 @@
                   "urlWithResolution": "https://minecraft.wiki/images/Festive_Mash-up.jpg?width=800&height=450"
                 },
                 "price": {
-                  "listPrice": 0,
+                  "listPrice": -1,
                   "realmsInfo": {
                     "inRealmsPlus": false
                   },
@@ -87,7 +87,7 @@
                   "behaviors": 0,
                   "addOns": 0
                 },
-                "flags": ["Update"],
+                "flags": [],
                 "ownership": "NotOwned",
                 "packType": "SkinPack",
                 "packIdentity": [
@@ -132,7 +132,7 @@
                   "totalCount": 26545
                 },
                 "price": {
-                  "listPrice": 0,
+                  "listPrice": -1,
                   "realmsInfo": {
                     "inRealmsPlus": false
                   },
@@ -1003,7 +1003,7 @@
                   "totalCount": 12888
                 },
                 "price": {
-                  "listPrice": 0,
+                  "listPrice": -1,
                   "realmsInfo": {
                     "inRealmsPlus": false
                   },
@@ -1256,7 +1256,7 @@
                   "totalCount": 0
                 },
                 "price": {
-                  "listPrice": 0,
+                  "listPrice": -1,
                   "realmsInfo": {
                     "inRealmsPlus": false
                   },
