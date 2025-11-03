@@ -73,7 +73,7 @@
         },
         "isSentimentSubmitButtonVisible": false
       },
-      {
+      { // This pop up appears when the player opens the marketplace
         "id": "c5ca017c-dccb-4c80-80ba-d324d8ac19a4",
         "instanceId": "c5ca017c-dccb-4c80-80ba-d324d8ac19a4",
         "surface": "MarketplaceAnnouncement",

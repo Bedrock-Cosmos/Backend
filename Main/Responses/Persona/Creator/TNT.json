@@ -3,24 +3,23 @@
   "status": "OK",
   "data": {
     "Item": {
-      "Id": "056fe248-ca00-4696-9c32-e4f1969e0a53",
+      "Id": "4f6fab37-3d36-4332-9ee9-449bee944cd4",
       "Contents": [
         {
-          "Id": "43471ce4-42e1-4e39-9ad9-7c5b4565b22a",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Creator/Campfire.zip",
+          "Id": "af5414a8-baa9-4dae-86a5-ed94e27f1cad",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Creator/TNT.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"
         }
       ],
       "DisplayProperties": {
-        "creatorName": "8onfire",
-        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "creatorName": "FlameStreem",
         "purchasable": true,
         "packIdentity": [
           {
             "type": "persona_piece",
-            "uuid": "0748d1ea-1fe1-47cb-b7e4-d14df63ce789",
+            "uuid": "67e44c84-9516-4b69-a197-e696c68cd78a",
             "version": "1.0.0"
           }
         ]
