@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "52ce3a71-f771-4031-a7dd-111ef5813355",
+      "Contents": [
+        {
+          "Id": "b83bc26f-ad52-4703-8634-e4016ba347ec",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/JulianClark_Revamp.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "8onfire",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "705a42e7-72f0-46fb-99b0-dd9f229c626a",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "289d3d1c-8dd4-43a3-8c7b-e26dd79ca0ea",
+      "Contents": [
+        {
+          "Id": "ce474fc3-93ce-47c6-978d-eba803df977c",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Blossom.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "8onfire",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "22c2811f-c661-4522-a0e9-da1165e97f8c",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

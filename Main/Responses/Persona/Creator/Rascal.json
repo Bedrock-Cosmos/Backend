@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "f944c575-6fd8-43db-ba28-940611a10411",
+      "Contents": [
+        {
+          "Id": "c19f8673-d0d9-43a0-aaa1-6beb44b59a84",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Rascal.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "8onfire",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "df8e9d56-1ab1-404d-a621-1af8530c6545",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

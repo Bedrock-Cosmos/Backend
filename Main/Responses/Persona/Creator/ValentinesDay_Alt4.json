@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "3c82a7e6-8211-48e5-ae7b-fa9e2f083cfa",
+      "Contents": [
+        {
+          "Id": "b5fa70a5-c6c8-4620-817c-bf498720ab71",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/ValentinesDay_Alt4.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "8onfire",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "156a99bf-4827-4a86-ba46-0f0e8a749d6a",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

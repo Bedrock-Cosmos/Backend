@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "bc8067eb-7df1-4b4b-abd7-b6c7c21ce43a",
+      "Contents": [
+        {
+          "Id": "cddc097c-ba63-42cf-9b35-392ca9178df5",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Sunset.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "8onfire",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "5c861f51-e4b4-42dc-8219-4ad80dc1c57f",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

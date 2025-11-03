@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "95f48e7a-de4d-48c8-943a-52bc38131266",
+      "Contents": [
+        {
+          "Id": "efbb3b46-7637-4575-beb2-256a7075b396",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Enchanted.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "8onfire",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "84ae11be-d2cf-4726-8398-008405e3200c",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "42169971-da89-4b31-a4a4-8819e3ac2fa6",
+      "Contents": [
+        {
+          "Id": "dae2ce59-e5bb-4e88-a242-66bd5f1b2f34",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Toaster_Strudel2.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "8onfire",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "6010285d-28c8-435f-a892-e76b60ac554f",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

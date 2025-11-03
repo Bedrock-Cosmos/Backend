@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "056fe248-ca00-4696-9c32-e4f1969e0a53",
+      "Contents": [
+        {
+          "Id": "43471ce4-42e1-4e39-9ad9-7c5b4565b22a",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Campfire.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "8onfire",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "0748d1ea-1fe1-47cb-b7e4-d14df63ce789",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

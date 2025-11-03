@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "af7dd0c4-98c0-49ca-bc46-ae8387e41393",
+      "Contents": [
+        {
+          "Id": "645ef28a-e44a-4a22-920a-ee83dba2ae63",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Day_7_Gargoyle.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "8onfire",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "3afbdbfb-b107-4b53-917d-16bd959645cc",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

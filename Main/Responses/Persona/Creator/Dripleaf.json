@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "93ef578a-eb82-4840-a969-79986b9385c5",
+      "Contents": [
+        {
+          "Id": "1d2015aa-1d6e-4f44-922b-0ea00422dd19",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Dripleaf.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "8onfire",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "8b041915-8309-4fb1-95f4-633fc59fe47d",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

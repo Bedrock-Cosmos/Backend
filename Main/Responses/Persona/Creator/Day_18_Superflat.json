@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "0ba0a3e3-4327-46f4-9913-1fc3ae205dff",
+      "Contents": [
+        {
+          "Id": "2f929425-d788-4a9f-a198-6edebad9e971",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Day_18_Superflat.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "8onfire",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "5da45af9-1dd5-4651-a2a2-cacb4ed0ee6c",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}
