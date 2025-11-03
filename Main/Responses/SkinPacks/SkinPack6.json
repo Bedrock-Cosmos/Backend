@@ -194,16 +194,6 @@
                             "type": "Unknown",
                             "url": "https://download-ssl.xbox.com/content/images/4c61b1f5-2bbc-492f-8a2a-1f3b813c4113/1033/screenlg9.jpg",
                             "urlWithResolution": "https://download-ssl.xbox.com/content/images/4c61b1f5-2bbc-492f-8a2a-1f3b813c4113/1033/screenlg9.jpg?width=800&height=450"
-                          },
-                          {
-                            "type": "Unknown",
-                            "url": "https://download-ssl.xbox.com/content/images/4c61b1f5-2bbc-492f-8a2a-1f3b813c4113/1033/screenlg10.jpg",
-                            "urlWithResolution": "https://download-ssl.xbox.com/content/images/4c61b1f5-2bbc-492f-8a2a-1f3b813c4113/1033/screenlg10.jpg?width=800&height=450"
-                          },
-                          {
-                            "type": "Unknown",
-                            "url": "https://download-ssl.xbox.com/content/images/4c61b1f5-2bbc-492f-8a2a-1f3b813c4113/1033/screenlg11.jpg",
-                            "urlWithResolution": "https://download-ssl.xbox.com/content/images/4c61b1f5-2bbc-492f-8a2a-1f3b813c4113/1033/screenlg11.jpg?width=800&height=450"
                           }
                         ],
                         "type": "imageGalleryComp",
