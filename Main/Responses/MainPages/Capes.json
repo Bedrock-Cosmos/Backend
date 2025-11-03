@@ -26176,15 +26176,15 @@
           {
             "items": [
               {
-                "id": "42fd455e-9547-4bae-bd20-a0dfbb85eda4",
+                "id": "a4e215b3-23b4-4938-9a91-5c8faec0cf91",
                 "contentType": "PersonaDurable",
-                "title": "Buried Skull Cape",
+                "title": "8onfire Capes",
                 "creatorName": "Bon - §lCLICK HERE 4 MORE CAPES!",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
-                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/Creator/Buried_Skull_cape.png",
-                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/Creator/Buried_Skull_cape.png"
+                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/Creator/Faces/8onfire.png",
+                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/Creator/Faces/8onfire.png"
                 },
                 "requiresRedeem": true,
                 "price": {
@@ -26197,16 +26197,8 @@
                 "packIdentity": [
                   {
                     "type": "persona_piece",
-                    "uuid": "05a78c86-0ffe-4ece-ac64-7b3d66f636be",
+                    "uuid": "251bccae-0a22-7b9a-9cec-876d55a03c6a",
                     "version": "1.0.0"
-                  }
-                ],
-                "images": [
-                  {
-                    "tag": "Thumbnail",
-                    "type": "Thumbnail",
-                    "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/Creator/Buried_Skull_cape.png",
-                    "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/Creator/Buried_Skull_cape.png"
                   }
                 ],
                 "startDate": "2025-10-25T12:00:00Z",
@@ -26220,15 +26212,15 @@
                 }
               },
               {
-                "id": "3c4c4473-41ed-4a2b-89a2-f948c5bf42f0",
+                "id": "98e24376-f3bc-4155-b78d-c07bf67853be",
                 "contentType": "PersonaDurable",
-                "title": "15 Year Cape",
+                "title": "FlameStreem Capes",
                 "creatorName": "FlameStreem - §lCLICK HERE 4 MORE CAPES!",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
-                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/Creator/15_Year.png",
-                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/Creator/15_Year.png"
+                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/Creator/Faces/FlameStreem.png",
+                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/Creator/Faces/FlameStreem.png"
                 },
                 "requiresRedeem": true,
                 "price": {
@@ -26241,7 +26233,7 @@
                 "packIdentity": [
                   {
                     "type": "persona_piece",
-                    "uuid": "a536ede9-a6f5-48dc-b8ca-c2ba8992d15c",
+                    "uuid": "c05e4fa5-e248-67b8-1d4d-9aa90fc3024f",
                     "version": "1.0.0"
                   }
                 ],
@@ -26256,9 +26248,9 @@
                 }
               },
               {
-                "id": "48be9c1e-8f50-43f2-8ed6-7659e597b35c",
+                "id": "51685c7c-a222-4f87-a740-b22187dd6bad",
                 "contentType": "PersonaDurable",
-                "title": "NAUTILUS Cape",
+                "title": "Dragon104 Capes",
                 "creatorName": "Dragon104 - §lCLICK HERE 4 MORE CAPES!",
                 "thumbnail": {
                   "tag": "Thumbnail",
@@ -26277,7 +26269,7 @@
                 "packIdentity": [
                   {
                     "type": "persona_piece",
-                    "uuid": "d63805b9-50de-4991-99ed-227cacb4f4ec",
+                    "uuid": "bbd71595-5517-7f28-b4e3-65c5de933e12",
                     "version": "1.0.0"
                   }
                 ],
