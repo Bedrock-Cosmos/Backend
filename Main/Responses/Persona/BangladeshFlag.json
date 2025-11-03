@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "3b9bd7f4-0544-4fd2-9a37-21622988f697",
+      "Contents": [
+        {
+          "Id": "a8451e3b-2015-486f-b0af-88bfeec2b2ec",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/BangladeshFlag.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "b76d8e0b-4d60-4fe1-8ce9-b972dfaeb8ef",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

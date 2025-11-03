@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "3145c0e0-f4fb-4a4d-b349-2ee43020e728",
+      "Contents": [
+        {
+          "Id": "afe428c7-3700-4087-a19a-4510dbc1c384",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Awesom.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "9a1c7b28-c6df-4a81-bb64-4eb34cff0c17",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

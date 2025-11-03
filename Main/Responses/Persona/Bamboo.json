@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "beb857e3-7ee2-4eab-95da-4dc6bbfc3ce2",
+      "Contents": [
+        {
+          "Id": "8cc494f4-dd97-4b05-8476-d80049dddf4e",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Bamboo.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "0eb2a904-3d59-42a9-9415-de55ce14b48b",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

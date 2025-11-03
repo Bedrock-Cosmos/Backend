@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "77aabeda-5db6-4063-bdb0-c685df0edb49",
+      "Contents": [
+        {
+          "Id": "60a3c090-e8c2-4c08-bfe1-f7365b41d525",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/BadPing.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "8880f207-bde2-446e-bbab-4a1a9fee4fdc",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

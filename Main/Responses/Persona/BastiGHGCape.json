@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "22e7ca4f-7f4c-4104-8f4e-16f2ed882414",
+      "Contents": [
+        {
+          "Id": "9311a438-781a-43bc-a272-64ff23d49956",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/BastiGHGCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "982cc44d-6b4a-42e5-bcbb-a452504b375d",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

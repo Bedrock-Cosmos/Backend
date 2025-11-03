@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "ddfecf64-3027-4b83-89b2-5c3f15e6c366",
+      "Contents": [
+        {
+          "Id": "cbd0526c-2f7f-4581-adef-afde2476ce3f",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Beehive1.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "748f8d92-54cc-4bb4-8d58-4c6507b8ca71",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

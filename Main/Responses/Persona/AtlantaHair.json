@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "43f307a8-71b4-4cc2-a849-f41b03c076ac",
+      "Contents": [
+        {
+          "Id": "0d765630-8d91-4acb-8d91-509134239410",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/AtlantaHair.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "48612198-05f5-42a2-842a-3b235b236340",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

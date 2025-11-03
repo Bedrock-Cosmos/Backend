@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "8d536877-27c0-4205-a8c0-e794ec4897dc",
+      "Contents": [
+        {
+          "Id": "7f227eb0-ff0a-4439-b227-bf054ca55770",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Badlion.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "671faf07-ae2e-41da-80c6-6772e0ea6015",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

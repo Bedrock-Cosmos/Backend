@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "d4d81880-edb3-45dc-9a78-66c2c39fc19a",
+      "Contents": [
+        {
+          "Id": "e4197c97-60ab-4a38-8cd5-d3c6279925b4",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/BedlessNoobCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "02323f75-19cf-4293-ba4b-6960bae915b0",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

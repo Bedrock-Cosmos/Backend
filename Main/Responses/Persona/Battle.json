@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "ca6fa6b5-56f9-4181-8a1f-6afbf58aa673",
+      "Contents": [
+        {
+          "Id": "cd212a11-49a2-484c-9d69-73e2d9dee15e",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Battle.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "3722f53f-b57a-4e81-8e04-e9e28a58e1dc",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

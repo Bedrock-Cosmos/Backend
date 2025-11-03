@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "1f562b0c-2412-44fb-9314-6e36581d295e",
+      "Contents": [
+        {
+          "Id": "7eb15d00-6fd2-48e5-b6c8-b3e7c6e7960e",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/AthenaShield.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "5cb860dd-f452-46bd-94b0-bb0135f8ac47",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

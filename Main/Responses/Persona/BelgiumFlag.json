@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "120d954f-e843-4735-90a4-c14dea7d1e7e",
+      "Contents": [
+        {
+          "Id": "3f38f959-e356-4c0b-b6c1-b8d51c44fc92",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/BelgiumFlag.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "b59aebdc-5395-498e-807f-66388170d09b",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

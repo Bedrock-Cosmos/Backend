@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "fe28935f-95aa-41f5-bfad-6ab5d306a83d",
+      "Contents": [
+        {
+          "Id": "08ac1800-e162-49bb-a121-6713d2861dac",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Batman.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "dec0c71f-f2b2-4728-b1ee-da4bfe1e9742",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

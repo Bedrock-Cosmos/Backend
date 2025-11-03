@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "f844b07a-6cfd-4b17-869b-bfe1877e90c2",
+      "Contents": [
+        {
+          "Id": "98c47eb2-274d-4ee9-846c-cbb3932535be",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/BedCapeNew.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "fa586069-7453-45fb-b259-7607fb5f5dfa",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

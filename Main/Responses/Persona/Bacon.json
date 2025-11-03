@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "6ccd2947-fc58-47bd-822f-5e218df03cd1",
+      "Contents": [
+        {
+          "Id": "4c2d3515-cff3-4100-9bf6-81ee309caa9f",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Bacon.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "92280a1b-57b7-45ba-9956-921eb89b93cf",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

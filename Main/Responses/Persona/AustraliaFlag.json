@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "7339f4cd-87ab-46f9-9233-81de256179c1",
+      "Contents": [
+        {
+          "Id": "f11322b0-39af-40a9-a0c2-94caea8756ba",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/AustraliaFlag.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "6f86d0b6-1ace-4fda-b792-0368737deba9",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -84,7 +84,20 @@
                 { "type": "csb", "startDate": "2025-05-06T17:00:00Z", "expirationDate": "2025-11-04T18:00:00Z" }
               ],
               "thumbnailPreviewOnly": false,
-              "namedLinksToInfoMap": {}
+              "namedLinksToInfoMap": {},
+              "vibrantVisuals": {
+                "text": { "value": "tag.vibrantvisuals", "replacements": [] },
+                "tooltip": {
+                  "text": { "value": "vv.enhanced.tooltip", "replacements": [] },
+                  "icon": { "type": "Unknown", "localPath": "textures/ui/infobulb" }
+                },
+                "linksToInfo": {
+                  "linksTo": "Tag_tag.vibrantvisuals",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.store_data_driven_screen",
+                  "navigateInPlace": false
+                }
+              }
             },
             "type": "itemSummaryComp",
             "$type": "ItemSummaryComponent"

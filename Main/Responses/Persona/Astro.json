@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "7d9ea1e1-0645-44d8-835d-6d3cff5d53ee",
+      "Contents": [
+        {
+          "Id": "cf3284ac-77ff-4925-b4a8-0cf94bbf7afc",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Astro.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "ede48779-aab0-40d3-99f3-1dea02250197",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}
