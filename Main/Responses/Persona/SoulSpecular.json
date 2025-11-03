@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "92ad83df-b1bd-42bf-8fc4-7f37a4f64a12",
+      "Contents": [
+        {
+          "Id": "94d4df51-708c-4aa0-95d2-5697667d6d76",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/SoulSpecular.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "8a87f7f4-0acf-4e56-af25-59710ef909e8",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

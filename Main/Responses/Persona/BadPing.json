@@ -3,10 +3,10 @@
   "status": "OK",
   "data": {
     "Item": {
-      "Id": "77aabeda-5db6-4063-bdb0-c685df0edb49",
+      "Id": "fa44ffcf-6c60-45f4-b959-296faa9895d4",
       "Contents": [
         {
-          "Id": "60a3c090-e8c2-4c08-bfe1-f7365b41d525",
+          "Id": "9855fec9-6dab-45fc-a49a-6eb749442b9a",
           "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/BadPing.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
@@ -20,7 +20,7 @@
         "packIdentity": [
           {
             "type": "persona_piece",
-            "uuid": "8880f207-bde2-446e-bbab-4a1a9fee4fdc",
+            "uuid": "61a1506e-1b1a-4973-9585-8f07b60f22c9",
             "version": "1.0.0"
           }
         ]

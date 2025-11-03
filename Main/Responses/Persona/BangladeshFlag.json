@@ -3,10 +3,10 @@
   "status": "OK",
   "data": {
     "Item": {
-      "Id": "3b9bd7f4-0544-4fd2-9a37-21622988f697",
+      "Id": "bfa1dd1c-29ce-4b49-99a1-6dd7ec810c4c",
       "Contents": [
         {
-          "Id": "a8451e3b-2015-486f-b0af-88bfeec2b2ec",
+          "Id": "9b81b834-2d7b-4e5b-bbdf-9e17456b9d79",
           "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/BangladeshFlag.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
@@ -20,7 +20,7 @@
         "packIdentity": [
           {
             "type": "persona_piece",
-            "uuid": "b76d8e0b-4d60-4fe1-8ce9-b972dfaeb8ef",
+            "uuid": "1fa634f3-fdb0-4834-94fa-43ca340c6a74",
             "version": "1.0.0"
           }
         ]

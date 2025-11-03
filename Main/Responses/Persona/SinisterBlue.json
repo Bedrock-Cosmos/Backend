@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "187015dd-29b0-447a-825a-c14a2df05cc2",
+      "Contents": [
+        {
+          "Id": "04c5ba57-ca89-4e1a-8f3d-6e5b1b2907c3",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/SinisterBlue.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "287400ed-0e65-4ef8-a2a4-886ccb43a7c0",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

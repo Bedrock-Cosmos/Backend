@@ -3,10 +3,10 @@
   "status": "OK",
   "data": {
     "Item": {
-      "Id": "9335ecda-2148-40c4-b923-a5076944bbd7",
+      "Id": "0b49d4ee-d70f-472e-af91-bc9439493b61",
       "Contents": [
         {
-          "Id": "7bbf947d-0217-43ce-b144-b4839db7aacf",
+          "Id": "b4e2eb44-26eb-4ba1-b5d2-db8537f64f32",
           "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Bee.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
@@ -20,7 +20,7 @@
         "packIdentity": [
           {
             "type": "persona_piece",
-            "uuid": "7e1ec526-28de-4ae8-a157-4c07aab2c64f",
+            "uuid": "0ef85fae-fbd7-42cf-a28f-b45b48d18056",
             "version": "1.0.0"
           }
         ]

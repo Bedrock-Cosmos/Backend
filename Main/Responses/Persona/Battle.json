@@ -3,10 +3,10 @@
   "status": "OK",
   "data": {
     "Item": {
-      "Id": "ca6fa6b5-56f9-4181-8a1f-6afbf58aa673",
+      "Id": "de1af61f-253f-4efc-96a7-56537c751159",
       "Contents": [
         {
-          "Id": "cd212a11-49a2-484c-9d69-73e2d9dee15e",
+          "Id": "9f46c271-02c6-40e2-a963-1d814f492d31",
           "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Battle.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
@@ -20,7 +20,7 @@
         "packIdentity": [
           {
             "type": "persona_piece",
-            "uuid": "3722f53f-b57a-4e81-8e04-e9e28a58e1dc",
+            "uuid": "f98434b7-6fbd-4c9d-8afa-1e6121e8b64a",
             "version": "1.0.0"
           }
         ]

@@ -3,10 +3,10 @@
   "status": "OK",
   "data": {
     "Item": {
-      "Id": "1f562b0c-2412-44fb-9314-6e36581d295e",
+      "Id": "16a1b29c-736e-4f06-b343-adcfa5e1905f",
       "Contents": [
         {
-          "Id": "7eb15d00-6fd2-48e5-b6c8-b3e7c6e7960e",
+          "Id": "52fc1a5b-8997-4aeb-9639-4b32935157e2",
           "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/AthenaShield.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
@@ -20,7 +20,7 @@
         "packIdentity": [
           {
             "type": "persona_piece",
-            "uuid": "5cb860dd-f452-46bd-94b0-bb0135f8ac47",
+            "uuid": "372b47ed-45aa-429f-a588-7a4031fe624f",
             "version": "1.0.0"
           }
         ]

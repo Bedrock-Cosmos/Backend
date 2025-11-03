@@ -3,10 +3,10 @@
   "status": "OK",
   "data": {
     "Item": {
-      "Id": "7339f4cd-87ab-46f9-9233-81de256179c1",
+      "Id": "5941e194-e40c-4f05-8864-4b77b04544df",
       "Contents": [
         {
-          "Id": "f11322b0-39af-40a9-a0c2-94caea8756ba",
+          "Id": "fb2af78d-51a1-437e-9376-920111f9edeb",
           "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/AustraliaFlag.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
@@ -20,7 +20,7 @@
         "packIdentity": [
           {
             "type": "persona_piece",
-            "uuid": "6f86d0b6-1ace-4fda-b792-0368737deba9",
+            "uuid": "175ccabb-2ae3-4419-bf11-f3d233a8996a",
             "version": "1.0.0"
           }
         ]

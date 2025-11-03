@@ -41,11 +41,7 @@
         "style": "Default",
         "associatedProducts": [],
         "messageItemList": [],
-        "messageText": {
-          "header": "",
-          "body": "",
-          "bannerText": ""
-        },
+        "messageText": { "header": "", "body": "", "bannerText": "TEST TEST testing!" },
         "versionConstraint": "",
         "colors": {
           "DefaultTextColor": {

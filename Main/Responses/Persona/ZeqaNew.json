@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "d4298f54-1208-417f-bebb-e44c291405f2",
+      "Contents": [
+        {
+          "Id": "cfe051a5-3816-4191-b69f-cb1bbb194273",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/ZeqaNew.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "1d85cec0-c28d-44d9-82fa-8bb6d31f772f",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

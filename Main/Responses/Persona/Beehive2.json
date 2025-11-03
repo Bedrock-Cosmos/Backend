@@ -3,10 +3,10 @@
   "status": "OK",
   "data": {
     "Item": {
-      "Id": "6c8f87cc-e577-4548-9f31-8300c6eb5dee",
+      "Id": "99e57b2c-2cb6-43f2-b943-f76e8ac21622",
       "Contents": [
         {
-          "Id": "e8bc4671-7641-44c1-a35d-20285823f35a",
+          "Id": "7ad0dee7-b76f-4093-9c72-4e563e5c248a",
           "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Beehive2.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
@@ -20,7 +20,7 @@
         "packIdentity": [
           {
             "type": "persona_piece",
-            "uuid": "ba8833fc-8fd7-4780-8ebf-700f362bc44a",
+            "uuid": "e5a82424-9497-412a-8b16-4527add1c750",
             "version": "1.0.0"
           }
         ]
