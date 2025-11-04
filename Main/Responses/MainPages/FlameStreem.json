@@ -1353,6 +1353,7 @@
             "$type": "ItemListComponent"
           },
           {
+            "previewedId": "3c4c4473-41ed-4a2b-89a2-f948c5bf42f0",
             "type": "dispPreviewPieceComp",
             "$type": "DisplayPreviewedPieceOfferComponent"
           }
