@@ -2,7 +2,7 @@
   "result": {
     "id": "2766095f-b2c0-4237-911f-e18a30fb0928",
     "pageId": "ItemDetail_2766095f-b2c0-4237-911f-e18a30fb0928",
-    "addToRecentlyViewed": true,
+    "addToRecentlyViewed": false,
     "pageName": "ItemDetail For 'Marvel Avengers Skin Pack'",
     "rows": [
       {
@@ -34,33 +34,6 @@
             "isVisible": true,
             "type": "topBarMinecoinComp",
             "$type": "TopBarMinecoinComponent"
-          },
-          {
-            "linksToInfo": {
-              "linksTo": "Search_DressingRoomSearchHome",
-              "linkType": "pageId",
-              "displayType": "store_layout.character_creator_screen",
-              "screenTitle": {
-                "value": "dr.header.search.home",
-                "style": {
-                  "highlightColor": [],
-                  "alignment": "Left",
-                  "textColor": [],
-                  "font": "MinecraftTen",
-                  "showBackground": false,
-                  "showOutline": false,
-                  "indent": 0,
-                  "buttonWidth": 0,
-                  "color": [],
-                  "offerControlIdType": "None"
-                },
-                "replacements": []
-              },
-              "navigateInPlace": false
-            },
-            "isVisible": true,
-            "type": "topBarSearchComp",
-            "$type": "TopBarSearchComponent"
           }
         ]
       },
@@ -77,14 +50,14 @@
                 "tag": "Thumbnail",
                 "type": "Thumbnail",
                 "url": "https://xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/d3cd9473-b3d9-407a-95b3-6ebfdca004a9/Avengers_Thumbnail_0.jpg",
-                "urlWithResolution": "https://xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/d3cd9473-b3d9-407a-95b3-6ebfdca004a9/Avengers_Thumbnail_0.jpg?width=800&height=450"
+                "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/d3cd9473-b3d9-407a-95b3-6ebfdca004a9/Avengers_Thumbnail_0.jpg?width=800&height=450"
               },
               "rating": {
                 "average": 4.4,
                 "totalCount": 107
               },
               "price": {
-                "listPrice": -1,
+                "listPrice": 0,
                 "realmsInfo": {
                   "inRealmsPlus": false
                 },
@@ -106,7 +79,7 @@
                 "addOns": 0
               },
               "flags": [],
-              "ownership": "NotOwned",
+              "ownership": "Purchased",
               "packType": "SkinPack",
               "packIdentity": [
                 {
@@ -115,13 +88,44 @@
                   "version": "1.0.3"
                 }
               ],
-              "tags": [],
+              "tags": [
+                {
+                  "linksTo": "Tag_genre.action",
+                  "linksToInfo": {
+                    "linksTo": "Tag_genre.action",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
+                    "navigateInPlace": false
+                  },
+                  "name": "genre.action"
+                },
+                {
+                  "linksTo": "Tag_tag.skin",
+                  "linksToInfo": {
+                    "linksTo": "Tag_tag.skin",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
+                    "navigateInPlace": false
+                  },
+                  "name": "tag.skin"
+                },
+                {
+                  "linksTo": "Tag_tag.superhero",
+                  "linksToInfo": {
+                    "linksTo": "Tag_tag.superhero",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
+                    "navigateInPlace": false
+                  },
+                  "name": "tag.superhero"
+                }
+              ],
               "images": [
                 {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
                   "url": "https://xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/d3cd9473-b3d9-407a-95b3-6ebfdca004a9/Avengers_Thumbnail_0.jpg",
-                  "urlWithResolution": "https://xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/d3cd9473-b3d9-407a-95b3-6ebfdca004a9/Avengers_Thumbnail_0.jpg?width=800&height=450"
+                  "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/d3cd9473-b3d9-407a-95b3-6ebfdca004a9/Avengers_Thumbnail_0.jpg?width=800&height=450"
                 }
               ],
               "contents": [],
@@ -137,19 +141,19 @@
             "$type": "ItemSummaryComponent"
           },
           {
-            "binaries": [
-              {
-                "url": "https://xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/a4f9a363-2f7c-4957-868c-2ce848a09688/SkinPack_MarvelAvengers.zip"
-              }
-            ],
             "price": {
-              "listPrice": -1,
+              "listPrice": 0,
               "realmsInfo": {
                 "inRealmsPlus": false
               },
               "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
               "virtualCurrencyType": "Minecoin"
             },
+            "binaries": [
+              {
+                "url": "https://xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/a4f9a363-2f7c-4957-868c-2ce848a09688/SkinPack_MarvelAvengers.zip"
+              }
+            ],
             "type": "purchaseInfoComp",
             "$type": "PurchaseInfoComponent"
           }
@@ -181,10 +185,42 @@
           },
           {
             "description": "Step into Minecraft dressed as one of Earth’s Mightiest Heroes (or powerful villains) with this incredible Skin Pack, featuring core team members from Marvel’s Avengers including Iron Man, Captain America, Hulk, Thor, and many more iconic characters from the Marvel Universe.",
-            "genres": [],
+            "genres": [
+              {
+                "linksTo": "Tag_genre.action",
+                "linksToInfo": {
+                  "linksTo": "Tag_genre.action",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.store_data_driven_screen",
+                  "navigateInPlace": false
+                },
+                "name": "genre.action"
+              }
+            ],
             "subgenres": [],
             "playerCounts": [],
-            "tags": [],
+            "tags": [
+              {
+                "linksTo": "Tag_tag.skin",
+                "linksToInfo": {
+                  "linksTo": "Tag_tag.skin",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.store_data_driven_screen",
+                  "navigateInPlace": false
+                },
+                "name": "tag.skin"
+              },
+              {
+                "linksTo": "Tag_tag.superhero",
+                "linksToInfo": {
+                  "linksTo": "Tag_tag.superhero",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.store_data_driven_screen",
+                  "navigateInPlace": false
+                },
+                "name": "tag.superhero"
+              }
+            ],
             "warnings": [],
             "type": "itemDescriptionComp",
             "$type": "ItemDescriptionComponent"
@@ -242,7 +278,7 @@
               "count2Star": 3,
               "count1Star": 9,
               "id": "2766095f-b2c0-4237-911f-e18a30fb0928",
-              "ownership": "NotOwned",
+              "ownership": "Purchased",
               "ratingPercentages": {
                 "percentage5Star": "76%",
                 "percentage4Star": "8%",
@@ -257,7 +293,7 @@
         ]
       }
     ],
-    "inventoryVersion": "1/Njky",
+    "inventoryVersion": "1/Njk0",
     "pageRefresh": false,
     "sidebarLayoutType": "Marketplace"
   }

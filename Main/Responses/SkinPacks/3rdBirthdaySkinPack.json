@@ -34,33 +34,6 @@
             "isVisible": true,
             "type": "topBarMinecoinComp",
             "$type": "TopBarMinecoinComponent"
-          },
-          {
-            "linksToInfo": {
-              "linksTo": "Search_DressingRoomSearchHome",
-              "linkType": "pageId",
-              "displayType": "store_layout.character_creator_screen",
-              "screenTitle": {
-                "value": "dr.header.search.home",
-                "style": {
-                  "highlightColor": [],
-                  "alignment": "Left",
-                  "textColor": [],
-                  "font": "MinecraftTen",
-                  "showBackground": false,
-                  "showOutline": false,
-                  "indent": 0,
-                  "buttonWidth": 0,
-                  "color": [],
-                  "offerControlIdType": "None"
-                },
-                "replacements": []
-              },
-              "navigateInPlace": false
-            },
-            "isVisible": true,
-            "type": "topBarSearchComp",
-            "$type": "TopBarSearchComponent"
           }
         ]
       },
