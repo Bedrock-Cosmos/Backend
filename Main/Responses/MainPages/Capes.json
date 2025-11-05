@@ -19046,89 +19046,9 @@
                 }
               },
               {
-                "id": "4f5a1bda-d544-486e-a430-0d3e1551e73b",
-                "contentType": "PersonaDurable",
-                "title": "ShieldyBlockerson Cape",
-                "creatorName": "Custom Cosmetics",
-                "thumbnail": {
-                  "tag": "Thumbnail",
-                  "type": "Thumbnail",
-                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/ShieldyBlockersonCape.png",
-                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/ShieldyBlockersonCape.png"
-                },
-                "price": {
-                  "listPrice": 0,
-                  "realmsInfo": {
-                    "inRealmsPlus": false
-                  },
-                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
-                  "virtualCurrencyType": "Minecoin"
-                },
-                "pieceType": "persona_capes",
-                "rarity": "common",
-                "ownership": "Purchased",
-                "packType": "Persona",
-                "packIdentity": [
-                  {
-                    "type": "persona_piece",
-                    "uuid": "c9d6debb-c787-4bbf-a847-20a1c9a5bcba",
-                    "version": "1.0.0"
-                  }
-                ],
-                "startDate": "2025-10-25T12:00:00Z",
-                "namedLinksToInfoMap": {
-                  "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
-                    "navigateInPlace": false
-                  }
-                }
-              },
-              {
-                "id": "187015dd-29b0-447a-825a-c14a2df05cc2",
-                "contentType": "PersonaDurable",
-                "title": "SinisterBlue Cape",
-                "creatorName": "Custom Cosmetics",
-                "thumbnail": {
-                  "tag": "Thumbnail",
-                  "type": "Thumbnail",
-                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/SinisterBlue.png",
-                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/SinisterBlue.png"
-                },
-                "price": {
-                  "listPrice": 0,
-                  "realmsInfo": {
-                    "inRealmsPlus": false
-                  },
-                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
-                  "virtualCurrencyType": "Minecoin"
-                },
-                "pieceType": "persona_capes",
-                "rarity": "common",
-                "ownership": "Purchased",
-                "packType": "Persona",
-                "packIdentity": [
-                  {
-                    "type": "persona_piece",
-                    "uuid": "287400ed-0e65-4ef8-a2a4-886ccb43a7c0",
-                    "version": "1.0.0"
-                  }
-                ],
-                "startDate": "2025-10-25T12:00:00Z",
-                "namedLinksToInfoMap": {
-                  "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
-                    "navigateInPlace": false
-                  }
-                }
-              },
-              {
                 "id": "ea03b4cf-5234-4961-b67c-dfe52e539e1d",
                 "contentType": "PersonaDurable",
-                "title": "SinisterBlueFixed Cape",
+                "title": "Sinister Blue Cape",
                 "creatorName": "Custom Cosmetics",
                 "thumbnail": {
                   "tag": "Thumbnail",
@@ -19712,46 +19632,6 @@
                   {
                     "type": "persona_piece",
                     "uuid": "8f1c4c7f-ea79-46a7-876e-ab5cf2d1ad85",
-                    "version": "1.0.0"
-                  }
-                ],
-                "startDate": "2025-10-25T12:00:00Z",
-                "namedLinksToInfoMap": {
-                  "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
-                    "navigateInPlace": false
-                  }
-                }
-              },
-              {
-                "id": "92ad83df-b1bd-42bf-8fc4-7f37a4f64a12",
-                "contentType": "PersonaDurable",
-                "title": "SoulSpecular Cape",
-                "creatorName": "Custom Cosmetics",
-                "thumbnail": {
-                  "tag": "Thumbnail",
-                  "type": "Thumbnail",
-                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/SoulSpecular.png",
-                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/SoulSpecular.png"
-                },
-                "price": {
-                  "listPrice": 0,
-                  "realmsInfo": {
-                    "inRealmsPlus": false
-                  },
-                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
-                  "virtualCurrencyType": "Minecoin"
-                },
-                "pieceType": "persona_capes",
-                "rarity": "common",
-                "ownership": "Purchased",
-                "packType": "Persona",
-                "packIdentity": [
-                  {
-                    "type": "persona_piece",
-                    "uuid": "8a87f7f4-0acf-4e56-af25-59710ef909e8",
                     "version": "1.0.0"
                   }
                 ],
@@ -26283,6 +26163,46 @@
                   {
                     "type": "persona_piece",
                     "uuid": "27656373-793b-4ae9-97ab-279686f319b8",
+                    "version": "1.0.0"
+                  }
+                ],
+                "startDate": "2025-10-25T12:00:00Z",
+                "namedLinksToInfoMap": {
+                  "dr.persona_creator_page": {
+                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
+                    "linkType": "external",
+                    "displayType": "store_layout.character_creator_screen",
+                    "navigateInPlace": false
+                  }
+                }
+              },
+              {
+                "id": "4f5a1bda-d544-486e-a430-0d3e1551e73b",
+                "contentType": "PersonaDurable",
+                "title": "ShieldyBlockerson Cape",
+                "creatorName": "Custom Cosmetics",
+                "thumbnail": {
+                  "tag": "Thumbnail",
+                  "type": "Thumbnail",
+                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/ShieldyBlockersonCape.png",
+                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/ShieldyBlockersonCape.png"
+                },
+                "price": {
+                  "listPrice": 0,
+                  "realmsInfo": {
+                    "inRealmsPlus": false
+                  },
+                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "virtualCurrencyType": "Minecoin"
+                },
+                "pieceType": "persona_capes",
+                "rarity": "common",
+                "ownership": "Purchased",
+                "packType": "Persona",
+                "packIdentity": [
+                  {
+                    "type": "persona_piece",
+                    "uuid": "c9d6debb-c787-4bbf-a847-20a1c9a5bcba",
                     "version": "1.0.0"
                   }
                 ],
