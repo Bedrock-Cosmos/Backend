@@ -4464,46 +4464,6 @@
                 }
               },
               {
-                "id": "6c6df40b-c150-493d-848d-39627c3f48a0",
-                "contentType": "PersonaDurable",
-                "title": "BossNassScarf Cape",
-                "creatorName": "Custom Cosmetics",
-                "thumbnail": {
-                  "tag": "Thumbnail",
-                  "type": "Thumbnail",
-                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/BossNassScarf.png",
-                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/BossNassScarf.png"
-                },
-                "price": {
-                  "listPrice": 0,
-                  "realmsInfo": {
-                    "inRealmsPlus": false
-                  },
-                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
-                  "virtualCurrencyType": "Minecoin"
-                },
-                "pieceType": "persona_capes",
-                "rarity": "common",
-                "ownership": "Purchased",
-                "packType": "Persona",
-                "packIdentity": [
-                  {
-                    "type": "persona_piece",
-                    "uuid": "266c496d-189d-4476-9fb0-55c45f9de7ba",
-                    "version": "1.0.0"
-                  }
-                ],
-                "startDate": "2025-10-25T12:00:00Z",
-                "namedLinksToInfoMap": {
-                  "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
-                    "navigateInPlace": false
-                  }
-                }
-              },
-              {
                 "id": "e9cdbded-54b5-46a9-ad4e-caf9a929506f",
                 "contentType": "PersonaDurable",
                 "title": "BracketsNew Cape",
@@ -8344,46 +8304,6 @@
                 }
               },
               {
-                "id": "75d5497d-4ab9-4e43-924e-108500285082",
-                "contentType": "PersonaDurable",
-                "title": "GeneralGrievous Cape",
-                "creatorName": "Custom Cosmetics",
-                "thumbnail": {
-                  "tag": "Thumbnail",
-                  "type": "Thumbnail",
-                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/GeneralGrievousCape.png",
-                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/GeneralGrievousCape.png"
-                },
-                "price": {
-                  "listPrice": 0,
-                  "realmsInfo": {
-                    "inRealmsPlus": false
-                  },
-                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
-                  "virtualCurrencyType": "Minecoin"
-                },
-                "pieceType": "persona_capes",
-                "rarity": "common",
-                "ownership": "Purchased",
-                "packType": "Persona",
-                "packIdentity": [
-                  {
-                    "type": "persona_piece",
-                    "uuid": "c0970fd8-575e-4e11-831e-6ee9dc466752",
-                    "version": "1.0.0"
-                  }
-                ],
-                "startDate": "2025-10-25T12:00:00Z",
-                "namedLinksToInfoMap": {
-                  "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
-                    "navigateInPlace": false
-                  }
-                }
-              },
-              {
                 "id": "70750de5-1934-444c-bb0e-7a058183cffc",
                 "contentType": "PersonaDurable",
                 "title": "GermanyFlag Cape",
@@ -10744,46 +10664,6 @@
                 }
               },
               {
-                "id": "b3011c06-6997-4ece-9d4f-5044d4308d73",
-                "contentType": "PersonaDurable",
-                "title": "JakScarf Cape",
-                "creatorName": "Custom Cosmetics",
-                "thumbnail": {
-                  "tag": "Thumbnail",
-                  "type": "Thumbnail",
-                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/JakScarf.png",
-                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/JakScarf.png"
-                },
-                "price": {
-                  "listPrice": 0,
-                  "realmsInfo": {
-                    "inRealmsPlus": false
-                  },
-                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
-                  "virtualCurrencyType": "Minecoin"
-                },
-                "pieceType": "persona_capes",
-                "rarity": "common",
-                "ownership": "Purchased",
-                "packType": "Persona",
-                "packIdentity": [
-                  {
-                    "type": "persona_piece",
-                    "uuid": "a35fbbc1-d2f7-4481-8a4b-69656e37652b",
-                    "version": "1.0.0"
-                  }
-                ],
-                "startDate": "2025-10-25T12:00:00Z",
-                "namedLinksToInfoMap": {
-                  "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
-                    "navigateInPlace": false
-                  }
-                }
-              },
-              {
                 "id": "0e855b18-c260-4063-8915-624fd8fb68fc",
                 "contentType": "PersonaDurable",
                 "title": "Japan Cape",
@@ -11104,206 +10984,6 @@
                 }
               },
               {
-                "id": "45117ce7-6ffe-4d0d-85dc-842c4b386214",
-                "contentType": "PersonaDurable",
-                "title": "Knight1 Cape",
-                "creatorName": "Custom Cosmetics",
-                "thumbnail": {
-                  "tag": "Thumbnail",
-                  "type": "Thumbnail",
-                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/Knight1Cape.png",
-                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/Knight1Cape.png"
-                },
-                "price": {
-                  "listPrice": 0,
-                  "realmsInfo": {
-                    "inRealmsPlus": false
-                  },
-                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
-                  "virtualCurrencyType": "Minecoin"
-                },
-                "pieceType": "persona_capes",
-                "rarity": "common",
-                "ownership": "Purchased",
-                "packType": "Persona",
-                "packIdentity": [
-                  {
-                    "type": "persona_piece",
-                    "uuid": "abc25263-fcae-416e-b371-91eeb089dbe9",
-                    "version": "1.0.0"
-                  }
-                ],
-                "startDate": "2025-10-25T12:00:00Z",
-                "namedLinksToInfoMap": {
-                  "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
-                    "navigateInPlace": false
-                  }
-                }
-              },
-              {
-                "id": "9f775505-639e-4a97-bb31-9c3208cf497f",
-                "contentType": "PersonaDurable",
-                "title": "Knight2 Cape",
-                "creatorName": "Custom Cosmetics",
-                "thumbnail": {
-                  "tag": "Thumbnail",
-                  "type": "Thumbnail",
-                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/Knight2Cape.png",
-                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/Knight2Cape.png"
-                },
-                "price": {
-                  "listPrice": 0,
-                  "realmsInfo": {
-                    "inRealmsPlus": false
-                  },
-                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
-                  "virtualCurrencyType": "Minecoin"
-                },
-                "pieceType": "persona_capes",
-                "rarity": "common",
-                "ownership": "Purchased",
-                "packType": "Persona",
-                "packIdentity": [
-                  {
-                    "type": "persona_piece",
-                    "uuid": "17272d14-85c8-4710-b9aa-3c4f05b83f79",
-                    "version": "1.0.0"
-                  }
-                ],
-                "startDate": "2025-10-25T12:00:00Z",
-                "namedLinksToInfoMap": {
-                  "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
-                    "navigateInPlace": false
-                  }
-                }
-              },
-              {
-                "id": "2bb26719-b784-4cea-83f6-5ed210c4ff90",
-                "contentType": "PersonaDurable",
-                "title": "Knight3 Cape",
-                "creatorName": "Custom Cosmetics",
-                "thumbnail": {
-                  "tag": "Thumbnail",
-                  "type": "Thumbnail",
-                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/Knight3Cape.png",
-                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/Knight3Cape.png"
-                },
-                "price": {
-                  "listPrice": 0,
-                  "realmsInfo": {
-                    "inRealmsPlus": false
-                  },
-                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
-                  "virtualCurrencyType": "Minecoin"
-                },
-                "pieceType": "persona_capes",
-                "rarity": "common",
-                "ownership": "Purchased",
-                "packType": "Persona",
-                "packIdentity": [
-                  {
-                    "type": "persona_piece",
-                    "uuid": "f0f32a99-49c0-4aa1-b43d-17e938c76bca",
-                    "version": "1.0.0"
-                  }
-                ],
-                "startDate": "2025-10-25T12:00:00Z",
-                "namedLinksToInfoMap": {
-                  "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
-                    "navigateInPlace": false
-                  }
-                }
-              },
-              {
-                "id": "34d1c7e8-0dcc-43f8-a7a2-1e093482c9ca",
-                "contentType": "PersonaDurable",
-                "title": "Knight4 Cape",
-                "creatorName": "Custom Cosmetics",
-                "thumbnail": {
-                  "tag": "Thumbnail",
-                  "type": "Thumbnail",
-                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/Knight4Cape.png",
-                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/Knight4Cape.png"
-                },
-                "price": {
-                  "listPrice": 0,
-                  "realmsInfo": {
-                    "inRealmsPlus": false
-                  },
-                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
-                  "virtualCurrencyType": "Minecoin"
-                },
-                "pieceType": "persona_capes",
-                "rarity": "common",
-                "ownership": "Purchased",
-                "packType": "Persona",
-                "packIdentity": [
-                  {
-                    "type": "persona_piece",
-                    "uuid": "a812e130-ce71-4e48-bee3-0bb8a54fd602",
-                    "version": "1.0.0"
-                  }
-                ],
-                "startDate": "2025-10-25T12:00:00Z",
-                "namedLinksToInfoMap": {
-                  "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
-                    "navigateInPlace": false
-                  }
-                }
-              },
-              {
-                "id": "1f3efb52-985c-41d6-bba3-84c82c8cd7d3",
-                "contentType": "PersonaDurable",
-                "title": "Kraven Cape",
-                "creatorName": "Custom Cosmetics",
-                "thumbnail": {
-                  "tag": "Thumbnail",
-                  "type": "Thumbnail",
-                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/KravenCape.png",
-                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/KravenCape.png"
-                },
-                "price": {
-                  "listPrice": 0,
-                  "realmsInfo": {
-                    "inRealmsPlus": false
-                  },
-                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
-                  "virtualCurrencyType": "Minecoin"
-                },
-                "pieceType": "persona_capes",
-                "rarity": "common",
-                "ownership": "Purchased",
-                "packType": "Persona",
-                "packIdentity": [
-                  {
-                    "type": "persona_piece",
-                    "uuid": "67b693ec-c9b7-4612-ab32-08ab00d6ba20",
-                    "version": "1.0.0"
-                  }
-                ],
-                "startDate": "2025-10-25T12:00:00Z",
-                "namedLinksToInfoMap": {
-                  "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
-                    "navigateInPlace": false
-                  }
-                }
-              },
-              {
                 "id": "5c60ec9a-15a1-49e4-ad34-ff15222e82ff",
                 "contentType": "PersonaDurable",
                 "title": "krustydavid Cape",
@@ -11370,46 +11050,6 @@
                   {
                     "type": "persona_piece",
                     "uuid": "b3e05fa3-7de4-45a5-a809-32382eaa1aed",
-                    "version": "1.0.0"
-                  }
-                ],
-                "startDate": "2025-10-25T12:00:00Z",
-                "namedLinksToInfoMap": {
-                  "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
-                    "navigateInPlace": false
-                  }
-                }
-              },
-              {
-                "id": "8ac65528-ed62-4495-aa47-b453b3320916",
-                "contentType": "PersonaDurable",
-                "title": "LandoCalrission Cape",
-                "creatorName": "Custom Cosmetics",
-                "thumbnail": {
-                  "tag": "Thumbnail",
-                  "type": "Thumbnail",
-                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/LandoCalrissionCape.png",
-                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/LandoCalrissionCape.png"
-                },
-                "price": {
-                  "listPrice": 0,
-                  "realmsInfo": {
-                    "inRealmsPlus": false
-                  },
-                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
-                  "virtualCurrencyType": "Minecoin"
-                },
-                "pieceType": "persona_capes",
-                "rarity": "common",
-                "ownership": "Purchased",
-                "packType": "Persona",
-                "packIdentity": [
-                  {
-                    "type": "persona_piece",
-                    "uuid": "fefa8058-d207-4f99-9325-63d089038d67",
                     "version": "1.0.0"
                   }
                 ],
@@ -12904,46 +12544,6 @@
                 }
               },
               {
-                "id": "e9638da5-88db-4a0d-b682-912742e43895",
-                "contentType": "PersonaDurable",
-                "title": "MasAmedda Cape",
-                "creatorName": "Custom Cosmetics",
-                "thumbnail": {
-                  "tag": "Thumbnail",
-                  "type": "Thumbnail",
-                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/MasAmeddaCape.png",
-                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/MasAmeddaCape.png"
-                },
-                "price": {
-                  "listPrice": 0,
-                  "realmsInfo": {
-                    "inRealmsPlus": false
-                  },
-                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
-                  "virtualCurrencyType": "Minecoin"
-                },
-                "pieceType": "persona_capes",
-                "rarity": "common",
-                "ownership": "Purchased",
-                "packType": "Persona",
-                "packIdentity": [
-                  {
-                    "type": "persona_piece",
-                    "uuid": "b58039c5-9589-4b3c-a7f1-71ec09e8e28e",
-                    "version": "1.0.0"
-                  }
-                ],
-                "startDate": "2025-10-25T12:00:00Z",
-                "namedLinksToInfoMap": {
-                  "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
-                    "navigateInPlace": false
-                  }
-                }
-              },
-              {
                 "id": "891b24f3-08ec-473b-8785-92b598107a76",
                 "contentType": "PersonaDurable",
                 "title": "MCPEDL Cape",
@@ -13050,46 +12650,6 @@
                   {
                     "type": "persona_piece",
                     "uuid": "6a3be608-d6b4-4bc8-8b88-a92b119100b6",
-                    "version": "1.0.0"
-                  }
-                ],
-                "startDate": "2025-10-25T12:00:00Z",
-                "namedLinksToInfoMap": {
-                  "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
-                    "navigateInPlace": false
-                  }
-                }
-              },
-              {
-                "id": "1302fcaa-9de1-49eb-b9cd-a41f7c44a2d2",
-                "contentType": "PersonaDurable",
-                "title": "Menace Cape",
-                "creatorName": "Custom Cosmetics",
-                "thumbnail": {
-                  "tag": "Thumbnail",
-                  "type": "Thumbnail",
-                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/MenaceCape.png",
-                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/MenaceCape.png"
-                },
-                "price": {
-                  "listPrice": 0,
-                  "realmsInfo": {
-                    "inRealmsPlus": false
-                  },
-                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
-                  "virtualCurrencyType": "Minecoin"
-                },
-                "pieceType": "persona_capes",
-                "rarity": "common",
-                "ownership": "Purchased",
-                "packType": "Persona",
-                "packIdentity": [
-                  {
-                    "type": "persona_piece",
-                    "uuid": "48b0c40a-18b7-4649-b7a8-fc8337d2e8f7",
                     "version": "1.0.0"
                   }
                 ],
@@ -13624,46 +13184,6 @@
                 }
               },
               {
-                "id": "efc102f0-3258-430e-adc4-c3d438c81889",
-                "contentType": "PersonaDurable",
-                "title": "Mysterio Cape",
-                "creatorName": "Custom Cosmetics",
-                "thumbnail": {
-                  "tag": "Thumbnail",
-                  "type": "Thumbnail",
-                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/MysterioCape.png",
-                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/MysterioCape.png"
-                },
-                "price": {
-                  "listPrice": 0,
-                  "realmsInfo": {
-                    "inRealmsPlus": false
-                  },
-                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
-                  "virtualCurrencyType": "Minecoin"
-                },
-                "pieceType": "persona_capes",
-                "rarity": "common",
-                "ownership": "Purchased",
-                "packType": "Persona",
-                "packIdentity": [
-                  {
-                    "type": "persona_piece",
-                    "uuid": "20b98f87-f955-405f-9693-cafce2a25008",
-                    "version": "1.0.0"
-                  }
-                ],
-                "startDate": "2025-10-25T12:00:00Z",
-                "namedLinksToInfoMap": {
-                  "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
-                    "navigateInPlace": false
-                  }
-                }
-              },
-              {
                 "id": "ab432ced-c8b6-4f50-ac2c-4d0bc5b8bdc3",
                 "contentType": "PersonaDurable",
                 "title": "Mystery Cape",
@@ -13770,46 +13290,6 @@
                   {
                     "type": "persona_piece",
                     "uuid": "6adb921e-ebfa-488f-9afc-91b7dabf2bd8",
-                    "version": "1.0.0"
-                  }
-                ],
-                "startDate": "2025-10-25T12:00:00Z",
-                "namedLinksToInfoMap": {
-                  "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
-                    "navigateInPlace": false
-                  }
-                }
-              },
-              {
-                "id": "c7f7b843-846c-49c8-bd55-06534e48deb2",
-                "contentType": "PersonaDurable",
-                "title": "Nazir Cape",
-                "creatorName": "Custom Cosmetics",
-                "thumbnail": {
-                  "tag": "Thumbnail",
-                  "type": "Thumbnail",
-                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/NazirCape.png",
-                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/NazirCape.png"
-                },
-                "price": {
-                  "listPrice": 0,
-                  "realmsInfo": {
-                    "inRealmsPlus": false
-                  },
-                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
-                  "virtualCurrencyType": "Minecoin"
-                },
-                "pieceType": "persona_capes",
-                "rarity": "common",
-                "ownership": "Purchased",
-                "packType": "Persona",
-                "packIdentity": [
-                  {
-                    "type": "persona_piece",
-                    "uuid": "033eed6c-dbd4-472a-b944-c85fb1ad0418",
                     "version": "1.0.0"
                   }
                 ],
@@ -16064,46 +15544,6 @@
                 }
               },
               {
-                "id": "2f4020a5-027f-4680-838c-0439bcecee90",
-                "contentType": "PersonaDurable",
-                "title": "PadmeAmidala Cape",
-                "creatorName": "Custom Cosmetics",
-                "thumbnail": {
-                  "tag": "Thumbnail",
-                  "type": "Thumbnail",
-                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/PadmeAmidalaCape.png",
-                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/PadmeAmidalaCape.png"
-                },
-                "price": {
-                  "listPrice": 0,
-                  "realmsInfo": {
-                    "inRealmsPlus": false
-                  },
-                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
-                  "virtualCurrencyType": "Minecoin"
-                },
-                "pieceType": "persona_capes",
-                "rarity": "common",
-                "ownership": "Purchased",
-                "packType": "Persona",
-                "packIdentity": [
-                  {
-                    "type": "persona_piece",
-                    "uuid": "8964afa2-0f6d-43e5-b570-2ce39189f159",
-                    "version": "1.0.0"
-                  }
-                ],
-                "startDate": "2025-10-25T12:00:00Z",
-                "namedLinksToInfoMap": {
-                  "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
-                    "navigateInPlace": false
-                  }
-                }
-              },
-              {
                 "id": "8d59e86b-138c-4308-8ccc-7f1f26695b03",
                 "contentType": "PersonaDurable",
                 "title": "Paper Cape",
@@ -17166,46 +16606,6 @@
                 }
               },
               {
-                "id": "f7be084c-4b08-4c7c-8e4c-7aeac5b39361",
-                "contentType": "PersonaDurable",
-                "title": "Quasar Cape",
-                "creatorName": "Custom Cosmetics",
-                "thumbnail": {
-                  "tag": "Thumbnail",
-                  "type": "Thumbnail",
-                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/QuasarCape.png",
-                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/QuasarCape.png"
-                },
-                "price": {
-                  "listPrice": 0,
-                  "realmsInfo": {
-                    "inRealmsPlus": false
-                  },
-                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
-                  "virtualCurrencyType": "Minecoin"
-                },
-                "pieceType": "persona_capes",
-                "rarity": "common",
-                "ownership": "Purchased",
-                "packType": "Persona",
-                "packIdentity": [
-                  {
-                    "type": "persona_piece",
-                    "uuid": "e6245233-6a30-4d16-9bcb-f9159ac06863",
-                    "version": "1.0.0"
-                  }
-                ],
-                "startDate": "2025-10-25T12:00:00Z",
-                "namedLinksToInfoMap": {
-                  "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
-                    "navigateInPlace": false
-                  }
-                }
-              },
-              {
                 "id": "2e446bf3-fc6d-4df7-8d3a-82452df9ebee",
                 "contentType": "PersonaDurable",
                 "title": "RageTrainCapeChroma Cape",
@@ -17912,46 +17312,6 @@
                   {
                     "type": "persona_piece",
                     "uuid": "a7a7fd7e-b9fd-48ee-960c-d225908388e4",
-                    "version": "1.0.0"
-                  }
-                ],
-                "startDate": "2025-10-25T12:00:00Z",
-                "namedLinksToInfoMap": {
-                  "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
-                    "navigateInPlace": false
-                  }
-                }
-              },
-              {
-                "id": "3196d4be-7694-4079-9aff-038fae17c646",
-                "contentType": "PersonaDurable",
-                "title": "RonanTheAccuser Cape",
-                "creatorName": "Custom Cosmetics",
-                "thumbnail": {
-                  "tag": "Thumbnail",
-                  "type": "Thumbnail",
-                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/RonanTheAccuserCape.png",
-                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/RonanTheAccuserCape.png"
-                },
-                "price": {
-                  "listPrice": 0,
-                  "realmsInfo": {
-                    "inRealmsPlus": false
-                  },
-                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
-                  "virtualCurrencyType": "Minecoin"
-                },
-                "pieceType": "persona_capes",
-                "rarity": "common",
-                "ownership": "Purchased",
-                "packType": "Persona",
-                "packIdentity": [
-                  {
-                    "type": "persona_piece",
-                    "uuid": "a2a29a1e-a0fa-43a7-887d-82965b402ef5",
                     "version": "1.0.0"
                   }
                 ],
@@ -20006,46 +19366,6 @@
                 }
               },
               {
-                "id": "84013056-d26a-41de-a670-4d2c8b0dd8ac",
-                "contentType": "PersonaDurable",
-                "title": "Spider-Man2099Web Cape",
-                "creatorName": "Custom Cosmetics",
-                "thumbnail": {
-                  "tag": "Thumbnail",
-                  "type": "Thumbnail",
-                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/Spider-Man2099Web.png",
-                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/Spider-Man2099Web.png"
-                },
-                "price": {
-                  "listPrice": 0,
-                  "realmsInfo": {
-                    "inRealmsPlus": false
-                  },
-                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
-                  "virtualCurrencyType": "Minecoin"
-                },
-                "pieceType": "persona_capes",
-                "rarity": "common",
-                "ownership": "Purchased",
-                "packType": "Persona",
-                "packIdentity": [
-                  {
-                    "type": "persona_piece",
-                    "uuid": "8a82e868-0a15-4454-9eb8-345323d7dc2a",
-                    "version": "1.0.0"
-                  }
-                ],
-                "startDate": "2025-10-25T12:00:00Z",
-                "namedLinksToInfoMap": {
-                  "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
-                    "navigateInPlace": false
-                  }
-                }
-              },
-              {
                 "id": "c1f94be2-365d-4481-936a-3bcbd4702a59",
                 "contentType": "PersonaDurable",
                 "title": "Squid1 Cape",
@@ -21246,46 +20566,6 @@
                 }
               },
               {
-                "id": "3ac993e0-666d-41dc-a4c5-73a61aeaf4a7",
-                "contentType": "PersonaDurable",
-                "title": "TheCollector Cape",
-                "creatorName": "Custom Cosmetics",
-                "thumbnail": {
-                  "tag": "Thumbnail",
-                  "type": "Thumbnail",
-                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/TheCollectorCape.png",
-                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/TheCollectorCape.png"
-                },
-                "price": {
-                  "listPrice": 0,
-                  "realmsInfo": {
-                    "inRealmsPlus": false
-                  },
-                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
-                  "virtualCurrencyType": "Minecoin"
-                },
-                "pieceType": "persona_capes",
-                "rarity": "common",
-                "ownership": "Purchased",
-                "packType": "Persona",
-                "packIdentity": [
-                  {
-                    "type": "persona_piece",
-                    "uuid": "81afd016-e9ff-4d36-b170-43fd93b6aa3a",
-                    "version": "1.0.0"
-                  }
-                ],
-                "startDate": "2025-10-25T12:00:00Z",
-                "namedLinksToInfoMap": {
-                  "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
-                    "navigateInPlace": false
-                  }
-                }
-              },
-              {
                 "id": "b224c73e-80cd-4874-a4a2-b31e6e1b1f55",
                 "contentType": "PersonaDurable",
                 "title": "TheHive Cape",
@@ -21926,46 +21206,6 @@
                 }
               },
               {
-                "id": "265937c0-d99d-449d-8c1e-244b5ea1571e",
-                "contentType": "PersonaDurable",
-                "title": "VampireLord Cape",
-                "creatorName": "Custom Cosmetics",
-                "thumbnail": {
-                  "tag": "Thumbnail",
-                  "type": "Thumbnail",
-                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/VampireLordCape.png",
-                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/VampireLordCape.png"
-                },
-                "price": {
-                  "listPrice": 0,
-                  "realmsInfo": {
-                    "inRealmsPlus": false
-                  },
-                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
-                  "virtualCurrencyType": "Minecoin"
-                },
-                "pieceType": "persona_capes",
-                "rarity": "common",
-                "ownership": "Purchased",
-                "packType": "Persona",
-                "packIdentity": [
-                  {
-                    "type": "persona_piece",
-                    "uuid": "091da699-c78f-45c8-b168-e20911bda334",
-                    "version": "1.0.0"
-                  }
-                ],
-                "startDate": "2025-10-25T12:00:00Z",
-                "namedLinksToInfoMap": {
-                  "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
-                    "navigateInPlace": false
-                  }
-                }
-              },
-              {
                 "id": "da1d4355-2ad1-4a30-a6e4-1925ce5798b8",
                 "contentType": "PersonaDurable",
                 "title": "Vampris Cape",
@@ -22286,46 +21526,6 @@
                 }
               },
               {
-                "id": "444b313f-e84d-4598-b68f-897aca55b51f",
-                "contentType": "PersonaDurable",
-                "title": "VultureWings Cape",
-                "creatorName": "Custom Cosmetics",
-                "thumbnail": {
-                  "tag": "Thumbnail",
-                  "type": "Thumbnail",
-                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/VultureWings.png",
-                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/VultureWings.png"
-                },
-                "price": {
-                  "listPrice": 0,
-                  "realmsInfo": {
-                    "inRealmsPlus": false
-                  },
-                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
-                  "virtualCurrencyType": "Minecoin"
-                },
-                "pieceType": "persona_capes",
-                "rarity": "common",
-                "ownership": "Purchased",
-                "packType": "Persona",
-                "packIdentity": [
-                  {
-                    "type": "persona_piece",
-                    "uuid": "a188ea68-c075-4ddb-825f-14046c26eeea",
-                    "version": "1.0.0"
-                  }
-                ],
-                "startDate": "2025-10-25T12:00:00Z",
-                "namedLinksToInfoMap": {
-                  "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
-                    "navigateInPlace": false
-                  }
-                }
-              },
-              {
                 "id": "63d08cd8-19e8-4b06-81e7-d769a0eed504",
                 "contentType": "PersonaDurable",
                 "title": "Vybes Cape",
@@ -22632,46 +21832,6 @@
                   {
                     "type": "persona_piece",
                     "uuid": "ff8c35e8-7a6a-408c-9d40-a878d4f83852",
-                    "version": "1.0.0"
-                  }
-                ],
-                "startDate": "2025-10-25T12:00:00Z",
-                "namedLinksToInfoMap": {
-                  "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
-                    "navigateInPlace": false
-                  }
-                }
-              },
-              {
-                "id": "83fd88f7-2661-48eb-b0dd-19ca46d7fd27",
-                "contentType": "PersonaDurable",
-                "title": "Wraith Cape",
-                "creatorName": "Custom Cosmetics",
-                "thumbnail": {
-                  "tag": "Thumbnail",
-                  "type": "Thumbnail",
-                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/WraithCape.png",
-                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/WraithCape.png"
-                },
-                "price": {
-                  "listPrice": 0,
-                  "realmsInfo": {
-                    "inRealmsPlus": false
-                  },
-                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
-                  "virtualCurrencyType": "Minecoin"
-                },
-                "pieceType": "persona_capes",
-                "rarity": "common",
-                "ownership": "Purchased",
-                "packType": "Persona",
-                "packIdentity": [
-                  {
-                    "type": "persona_piece",
-                    "uuid": "0bb5e522-ed3e-4b44-a4eb-40bed26489ba",
                     "version": "1.0.0"
                   }
                 ],
@@ -23572,7 +22732,7 @@
                 },
                 "pieceType": "persona_capes",
                 "rarity": "rare",
-                "ownership": "Purchased",
+                "ownership": "NotOwned",
                 "packType": "Persona",
                 "packIdentity": [
                   {
@@ -25896,17 +25056,17 @@
                     "navigateInPlace": false
                   }
                 }
-              }, // Myth
+              },
               {
-                "id": "12fba8b3-ed4d-4e91-9eea-56d3e5f35cfe",
+                "id": "f7be084c-4b08-4c7c-8e4c-7aeac5b39361",
                 "contentType": "PersonaDurable",
-                "title": "UnusedWings Cape",
+                "title": "Quasar Cape",
                 "creatorName": "Custom Cosmetics",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
-                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/UnusedWings.png",
-                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/UnusedWings.png"
+                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/QuasarCape.png",
+                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/QuasarCape.png"
                 },
                 "price": {
                   "listPrice": 0,
@@ -25923,7 +25083,7 @@
                 "packIdentity": [
                   {
                     "type": "persona_piece",
-                    "uuid": "df497cd9-4537-42b2-bcc3-26a79246b972",
+                    "uuid": "e6245233-6a30-4d16-9bcb-f9159ac06863",
                     "version": "1.0.0"
                   }
                 ],
@@ -25938,15 +25098,15 @@
                 }
               },
               {
-                "id": "3ad68359-a28f-4fd1-bd37-f00b7e4f1b4a",
+                "id": "3196d4be-7694-4079-9aff-038fae17c646",
                 "contentType": "PersonaDurable",
-                "title": "Yoda Cape",
+                "title": "RonanTheAccuser Cape",
                 "creatorName": "Custom Cosmetics",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
-                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/YodaCape.png",
-                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/YodaCape.png"
+                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/RonanTheAccuserCape.png",
+                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/RonanTheAccuserCape.png"
                 },
                 "price": {
                   "listPrice": 0,
@@ -25963,7 +25123,7 @@
                 "packIdentity": [
                   {
                     "type": "persona_piece",
-                    "uuid": "429a9191-e7c1-4dbe-bafb-9e915941be9b",
+                    "uuid": "a2a29a1e-a0fa-43a7-887d-82965b402ef5",
                     "version": "1.0.0"
                   }
                 ],
@@ -25978,15 +25138,15 @@
                 }
               },
               {
-                "id": "49ced7b9-c18e-46e0-a955-fe9d521783b8",
+                "id": "3ac993e0-666d-41dc-a4c5-73a61aeaf4a7",
                 "contentType": "PersonaDurable",
-                "title": "Senator Palpatine Cape",
+                "title": "TheCollector Cape",
                 "creatorName": "Custom Cosmetics",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
-                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/SenatorPalpatineCape.png",
-                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/SenatorPalpatineCape.png"
+                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/TheCollectorCape.png",
+                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/TheCollectorCape.png"
                 },
                 "price": {
                   "listPrice": 0,
@@ -26003,7 +25163,7 @@
                 "packIdentity": [
                   {
                     "type": "persona_piece",
-                    "uuid": "08b1a220-1906-44eb-8627-0d67fc785264",
+                    "uuid": "81afd016-e9ff-4d36-b170-43fd93b6aa3a",
                     "version": "1.0.0"
                   }
                 ],
@@ -26018,15 +25178,15 @@
                 }
               },
               {
-                "id": "dbfab819-3a56-4ee4-8688-6a3e5065136f",
+                "id": "83fd88f7-2661-48eb-b0dd-19ca46d7fd27",
                 "contentType": "PersonaDurable",
-                "title": "Count Dooku Cape",
+                "title": "Wraith Cape",
                 "creatorName": "Custom Cosmetics",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
-                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/CountDookuCape.png",
-                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/CountDookuCape.png"
+                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/WraithCape.png",
+                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/WraithCape.png"
                 },
                 "price": {
                   "listPrice": 0,
@@ -26043,7 +25203,7 @@
                 "packIdentity": [
                   {
                     "type": "persona_piece",
-                    "uuid": "f5248800-5ab2-4a62-b75d-11a0d5418302",
+                    "uuid": "0bb5e522-ed3e-4b44-a4eb-40bed26489ba",
                     "version": "1.0.0"
                   }
                 ],
@@ -26058,15 +25218,15 @@
                 }
               },
               {
-                "id": "670f3827-b260-47a7-96e5-96b1fe02ce77",
+                "id": "1f3efb52-985c-41d6-bba3-84c82c8cd7d3",
                 "contentType": "PersonaDurable",
-                "title": "Poggle The Lesser Wings Cape",
+                "title": "Kraven Cape",
                 "creatorName": "Custom Cosmetics",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
-                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/PoggleTheLesserWings.png",
-                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/PoggleTheLesserWings.png"
+                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/KravenCape.png",
+                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/KravenCape.png"
                 },
                 "price": {
                   "listPrice": 0,
@@ -26083,7 +25243,7 @@
                 "packIdentity": [
                   {
                     "type": "persona_piece",
-                    "uuid": "656e8b58-d5f1-41be-93c4-63d994ad02ef",
+                    "uuid": "67b693ec-c9b7-4612-ab32-08ab00d6ba20",
                     "version": "1.0.0"
                   }
                 ],
@@ -26098,15 +25258,15 @@
                 }
               },
               {
-                "id": "f3a358d0-d3d8-42b2-b01b-47aa2533754c",
+                "id": "1302fcaa-9de1-49eb-b9cd-a41f7c44a2d2",
                 "contentType": "PersonaDurable",
-                "title": "SherriAndTerriHair Cape",
+                "title": "Menace Cape",
                 "creatorName": "Custom Cosmetics",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
-                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/SherriAndTerriHair.png",
-                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/SherriAndTerriHair.png"
+                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/MenaceCape.png",
+                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/MenaceCape.png"
                 },
                 "price": {
                   "listPrice": 0,
@@ -26123,7 +25283,367 @@
                 "packIdentity": [
                   {
                     "type": "persona_piece",
-                    "uuid": "27656373-793b-4ae9-97ab-279686f319b8",
+                    "uuid": "48b0c40a-18b7-4649-b7a8-fc8337d2e8f7",
+                    "version": "1.0.0"
+                  }
+                ],
+                "startDate": "2025-10-25T12:00:00Z",
+                "namedLinksToInfoMap": {
+                  "dr.persona_creator_page": {
+                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
+                    "linkType": "external",
+                    "displayType": "store_layout.character_creator_screen",
+                    "navigateInPlace": false
+                  }
+                }
+              },
+              {
+                "id": "2c0f3e81-90cc-4530-8f74-d357356e9a34",
+                "contentType": "PersonaDurable",
+                "title": "Morbius Cape",
+                "creatorName": "Custom Cosmetics",
+                "thumbnail": {
+                  "tag": "Thumbnail",
+                  "type": "Thumbnail",
+                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/MorbiusCape.png",
+                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/MorbiusCape.png"
+                },
+                "price": {
+                  "listPrice": 0,
+                  "realmsInfo": {
+                    "inRealmsPlus": false
+                  },
+                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "virtualCurrencyType": "Minecoin"
+                },
+                "pieceType": "persona_capes",
+                "rarity": "common",
+                "ownership": "Purchased",
+                "packType": "Persona",
+                "packIdentity": [
+                  {
+                    "type": "persona_piece",
+                    "uuid": "c4e2e985-4d0f-4450-99d3-e5b9a32bf1e9",
+                    "version": "1.0.0"
+                  }
+                ],
+                "startDate": "2025-10-25T12:00:00Z",
+                "namedLinksToInfoMap": {
+                  "dr.persona_creator_page": {
+                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
+                    "linkType": "external",
+                    "displayType": "store_layout.character_creator_screen",
+                    "navigateInPlace": false
+                  }
+                }
+              },
+              {
+                "id": "efc102f0-3258-430e-adc4-c3d438c81889",
+                "contentType": "PersonaDurable",
+                "title": "Mysterio Cape",
+                "creatorName": "Custom Cosmetics",
+                "thumbnail": {
+                  "tag": "Thumbnail",
+                  "type": "Thumbnail",
+                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/MysterioCape.png",
+                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/MysterioCape.png"
+                },
+                "price": {
+                  "listPrice": 0,
+                  "realmsInfo": {
+                    "inRealmsPlus": false
+                  },
+                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "virtualCurrencyType": "Minecoin"
+                },
+                "pieceType": "persona_capes",
+                "rarity": "common",
+                "ownership": "Purchased",
+                "packType": "Persona",
+                "packIdentity": [
+                  {
+                    "type": "persona_piece",
+                    "uuid": "20b98f87-f955-405f-9693-cafce2a25008",
+                    "version": "1.0.0"
+                  }
+                ],
+                "startDate": "2025-10-25T12:00:00Z",
+                "namedLinksToInfoMap": {
+                  "dr.persona_creator_page": {
+                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
+                    "linkType": "external",
+                    "displayType": "store_layout.character_creator_screen",
+                    "navigateInPlace": false
+                  }
+                }
+              },
+              {
+                "id": "84013056-d26a-41de-a670-4d2c8b0dd8ac",
+                "contentType": "PersonaDurable",
+                "title": "Spider-Man2099Web Cape",
+                "creatorName": "Custom Cosmetics",
+                "thumbnail": {
+                  "tag": "Thumbnail",
+                  "type": "Thumbnail",
+                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/Spider-Man2099Web.png",
+                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/Spider-Man2099Web.png"
+                },
+                "price": {
+                  "listPrice": 0,
+                  "realmsInfo": {
+                    "inRealmsPlus": false
+                  },
+                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "virtualCurrencyType": "Minecoin"
+                },
+                "pieceType": "persona_capes",
+                "rarity": "common",
+                "ownership": "Purchased",
+                "packType": "Persona",
+                "packIdentity": [
+                  {
+                    "type": "persona_piece",
+                    "uuid": "8a82e868-0a15-4454-9eb8-345323d7dc2a",
+                    "version": "1.0.0"
+                  }
+                ],
+                "startDate": "2025-10-25T12:00:00Z",
+                "namedLinksToInfoMap": {
+                  "dr.persona_creator_page": {
+                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
+                    "linkType": "external",
+                    "displayType": "store_layout.character_creator_screen",
+                    "navigateInPlace": false
+                  }
+                }
+              },
+              {
+                "id": "444b313f-e84d-4598-b68f-897aca55b51f",
+                "contentType": "PersonaDurable",
+                "title": "VultureWings Cape",
+                "creatorName": "Custom Cosmetics",
+                "thumbnail": {
+                  "tag": "Thumbnail",
+                  "type": "Thumbnail",
+                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/VultureWings.png",
+                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/VultureWings.png"
+                },
+                "price": {
+                  "listPrice": 0,
+                  "realmsInfo": {
+                    "inRealmsPlus": false
+                  },
+                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "virtualCurrencyType": "Minecoin"
+                },
+                "pieceType": "persona_capes",
+                "rarity": "common",
+                "ownership": "Purchased",
+                "packType": "Persona",
+                "packIdentity": [
+                  {
+                    "type": "persona_piece",
+                    "uuid": "a188ea68-c075-4ddb-825f-14046c26eeea",
+                    "version": "1.0.0"
+                  }
+                ],
+                "startDate": "2025-10-25T12:00:00Z",
+                "namedLinksToInfoMap": {
+                  "dr.persona_creator_page": {
+                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
+                    "linkType": "external",
+                    "displayType": "store_layout.character_creator_screen",
+                    "navigateInPlace": false
+                  }
+                }
+              },
+              {
+                "id": "b3011c06-6997-4ece-9d4f-5044d4308d73",
+                "contentType": "PersonaDurable",
+                "title": "Jak's Scarf Cape",
+                "creatorName": "Custom Cosmetics",
+                "thumbnail": {
+                  "tag": "Thumbnail",
+                  "type": "Thumbnail",
+                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/JakScarf.png",
+                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/JakScarf.png"
+                },
+                "price": {
+                  "listPrice": 0,
+                  "realmsInfo": {
+                    "inRealmsPlus": false
+                  },
+                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "virtualCurrencyType": "Minecoin"
+                },
+                "pieceType": "persona_capes",
+                "rarity": "common",
+                "ownership": "Purchased",
+                "packType": "Persona",
+                "packIdentity": [
+                  {
+                    "type": "persona_piece",
+                    "uuid": "a35fbbc1-d2f7-4481-8a4b-69656e37652b",
+                    "version": "1.0.0"
+                  }
+                ],
+                "startDate": "2025-10-25T12:00:00Z",
+                "namedLinksToInfoMap": {
+                  "dr.persona_creator_page": {
+                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
+                    "linkType": "external",
+                    "displayType": "store_layout.character_creator_screen",
+                    "navigateInPlace": false
+                  }
+                }
+              },
+              {
+                "id": "45117ce7-6ffe-4d0d-85dc-842c4b386214",
+                "contentType": "PersonaDurable",
+                "title": "Knight1 Cape",
+                "creatorName": "Custom Cosmetics",
+                "thumbnail": {
+                  "tag": "Thumbnail",
+                  "type": "Thumbnail",
+                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/Knight1Cape.png",
+                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/Knight1Cape.png"
+                },
+                "price": {
+                  "listPrice": 0,
+                  "realmsInfo": {
+                    "inRealmsPlus": false
+                  },
+                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "virtualCurrencyType": "Minecoin"
+                },
+                "pieceType": "persona_capes",
+                "rarity": "common",
+                "ownership": "Purchased",
+                "packType": "Persona",
+                "packIdentity": [
+                  {
+                    "type": "persona_piece",
+                    "uuid": "abc25263-fcae-416e-b371-91eeb089dbe9",
+                    "version": "1.0.0"
+                  }
+                ],
+                "startDate": "2025-10-25T12:00:00Z",
+                "namedLinksToInfoMap": {
+                  "dr.persona_creator_page": {
+                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
+                    "linkType": "external",
+                    "displayType": "store_layout.character_creator_screen",
+                    "navigateInPlace": false
+                  }
+                }
+              },
+              {
+                "id": "9f775505-639e-4a97-bb31-9c3208cf497f",
+                "contentType": "PersonaDurable",
+                "title": "Knight2 Cape",
+                "creatorName": "Custom Cosmetics",
+                "thumbnail": {
+                  "tag": "Thumbnail",
+                  "type": "Thumbnail",
+                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/Knight2Cape.png",
+                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/Knight2Cape.png"
+                },
+                "price": {
+                  "listPrice": 0,
+                  "realmsInfo": {
+                    "inRealmsPlus": false
+                  },
+                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "virtualCurrencyType": "Minecoin"
+                },
+                "pieceType": "persona_capes",
+                "rarity": "common",
+                "ownership": "Purchased",
+                "packType": "Persona",
+                "packIdentity": [
+                  {
+                    "type": "persona_piece",
+                    "uuid": "17272d14-85c8-4710-b9aa-3c4f05b83f79",
+                    "version": "1.0.0"
+                  }
+                ],
+                "startDate": "2025-10-25T12:00:00Z",
+                "namedLinksToInfoMap": {
+                  "dr.persona_creator_page": {
+                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
+                    "linkType": "external",
+                    "displayType": "store_layout.character_creator_screen",
+                    "navigateInPlace": false
+                  }
+                }
+              },
+              {
+                "id": "2bb26719-b784-4cea-83f6-5ed210c4ff90",
+                "contentType": "PersonaDurable",
+                "title": "Knight3 Cape",
+                "creatorName": "Custom Cosmetics",
+                "thumbnail": {
+                  "tag": "Thumbnail",
+                  "type": "Thumbnail",
+                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/Knight3Cape.png",
+                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/Knight3Cape.png"
+                },
+                "price": {
+                  "listPrice": 0,
+                  "realmsInfo": {
+                    "inRealmsPlus": false
+                  },
+                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "virtualCurrencyType": "Minecoin"
+                },
+                "pieceType": "persona_capes",
+                "rarity": "common",
+                "ownership": "Purchased",
+                "packType": "Persona",
+                "packIdentity": [
+                  {
+                    "type": "persona_piece",
+                    "uuid": "f0f32a99-49c0-4aa1-b43d-17e938c76bca",
+                    "version": "1.0.0"
+                  }
+                ],
+                "startDate": "2025-10-25T12:00:00Z",
+                "namedLinksToInfoMap": {
+                  "dr.persona_creator_page": {
+                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
+                    "linkType": "external",
+                    "displayType": "store_layout.character_creator_screen",
+                    "navigateInPlace": false
+                  }
+                }
+              },
+              {
+                "id": "34d1c7e8-0dcc-43f8-a7a2-1e093482c9ca",
+                "contentType": "PersonaDurable",
+                "title": "Knight4 Cape",
+                "creatorName": "Custom Cosmetics",
+                "thumbnail": {
+                  "tag": "Thumbnail",
+                  "type": "Thumbnail",
+                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/Knight4Cape.png",
+                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/Knight4Cape.png"
+                },
+                "price": {
+                  "listPrice": 0,
+                  "realmsInfo": {
+                    "inRealmsPlus": false
+                  },
+                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "virtualCurrencyType": "Minecoin"
+                },
+                "pieceType": "persona_capes",
+                "rarity": "common",
+                "ownership": "Purchased",
+                "packType": "Persona",
+                "packIdentity": [
+                  {
+                    "type": "persona_piece",
+                    "uuid": "a812e130-ce71-4e48-bee3-0bb8a54fd602",
                     "version": "1.0.0"
                   }
                 ],
@@ -26178,15 +25698,15 @@
                 }
               },
               {
-                "id": "2c0f3e81-90cc-4530-8f74-d357356e9a34",
+                "id": "c7f7b843-846c-49c8-bd55-06534e48deb2",
                 "contentType": "PersonaDurable",
-                "title": "Morbius Cape",
+                "title": "Nazir Cape",
                 "creatorName": "Custom Cosmetics",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
-                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/MorbiusCape.png",
-                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/MorbiusCape.png"
+                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/NazirCape.png",
+                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/NazirCape.png"
                 },
                 "price": {
                   "listPrice": 0,
@@ -26203,7 +25723,487 @@
                 "packIdentity": [
                   {
                     "type": "persona_piece",
-                    "uuid": "c4e2e985-4d0f-4450-99d3-e5b9a32bf1e9",
+                    "uuid": "033eed6c-dbd4-472a-b944-c85fb1ad0418",
+                    "version": "1.0.0"
+                  }
+                ],
+                "startDate": "2025-10-25T12:00:00Z",
+                "namedLinksToInfoMap": {
+                  "dr.persona_creator_page": {
+                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
+                    "linkType": "external",
+                    "displayType": "store_layout.character_creator_screen",
+                    "navigateInPlace": false
+                  }
+                }
+              },
+              {
+                "id": "265937c0-d99d-449d-8c1e-244b5ea1571e",
+                "contentType": "PersonaDurable",
+                "title": "Vampire Lord Cape",
+                "creatorName": "Custom Cosmetics",
+                "thumbnail": {
+                  "tag": "Thumbnail",
+                  "type": "Thumbnail",
+                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/VampireLordCape.png",
+                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/VampireLordCape.png"
+                },
+                "price": {
+                  "listPrice": 0,
+                  "realmsInfo": {
+                    "inRealmsPlus": false
+                  },
+                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "virtualCurrencyType": "Minecoin"
+                },
+                "pieceType": "persona_capes",
+                "rarity": "common",
+                "ownership": "Purchased",
+                "packType": "Persona",
+                "packIdentity": [
+                  {
+                    "type": "persona_piece",
+                    "uuid": "091da699-c78f-45c8-b168-e20911bda334",
+                    "version": "1.0.0"
+                  }
+                ],
+                "startDate": "2025-10-25T12:00:00Z",
+                "namedLinksToInfoMap": {
+                  "dr.persona_creator_page": {
+                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
+                    "linkType": "external",
+                    "displayType": "store_layout.character_creator_screen",
+                    "navigateInPlace": false
+                  }
+                }
+              },
+              {
+                "id": "8ac65528-ed62-4495-aa47-b453b3320916",
+                "contentType": "PersonaDurable",
+                "title": "LandoCalrission Cape",
+                "creatorName": "Custom Cosmetics",
+                "thumbnail": {
+                  "tag": "Thumbnail",
+                  "type": "Thumbnail",
+                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/LandoCalrissionCape.png",
+                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/LandoCalrissionCape.png"
+                },
+                "price": {
+                  "listPrice": 0,
+                  "realmsInfo": {
+                    "inRealmsPlus": false
+                  },
+                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "virtualCurrencyType": "Minecoin"
+                },
+                "pieceType": "persona_capes",
+                "rarity": "common",
+                "ownership": "Purchased",
+                "packType": "Persona",
+                "packIdentity": [
+                  {
+                    "type": "persona_piece",
+                    "uuid": "fefa8058-d207-4f99-9325-63d089038d67",
+                    "version": "1.0.0"
+                  }
+                ],
+                "startDate": "2025-10-25T12:00:00Z",
+                "namedLinksToInfoMap": {
+                  "dr.persona_creator_page": {
+                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
+                    "linkType": "external",
+                    "displayType": "store_layout.character_creator_screen",
+                    "navigateInPlace": false
+                  }
+                }
+              },
+              {
+                "id": "3ad68359-a28f-4fd1-bd37-f00b7e4f1b4a",
+                "contentType": "PersonaDurable",
+                "title": "Yoda Cape",
+                "creatorName": "Custom Cosmetics",
+                "thumbnail": {
+                  "tag": "Thumbnail",
+                  "type": "Thumbnail",
+                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/YodaCape.png",
+                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/YodaCape.png"
+                },
+                "price": {
+                  "listPrice": 0,
+                  "realmsInfo": {
+                    "inRealmsPlus": false
+                  },
+                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "virtualCurrencyType": "Minecoin"
+                },
+                "pieceType": "persona_capes",
+                "rarity": "common",
+                "ownership": "Purchased",
+                "packType": "Persona",
+                "packIdentity": [
+                  {
+                    "type": "persona_piece",
+                    "uuid": "429a9191-e7c1-4dbe-bafb-9e915941be9b",
+                    "version": "1.0.0"
+                  }
+                ],
+                "startDate": "2025-10-25T12:00:00Z",
+                "namedLinksToInfoMap": {
+                  "dr.persona_creator_page": {
+                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
+                    "linkType": "external",
+                    "displayType": "store_layout.character_creator_screen",
+                    "navigateInPlace": false
+                  }
+                }
+              },
+              {
+                "id": "6c6df40b-c150-493d-848d-39627c3f48a0",
+                "contentType": "PersonaDurable",
+                "title": "BossNassScarf Cape",
+                "creatorName": "Custom Cosmetics",
+                "thumbnail": {
+                  "tag": "Thumbnail",
+                  "type": "Thumbnail",
+                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/BossNassScarf.png",
+                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/BossNassScarf.png"
+                },
+                "price": {
+                  "listPrice": 0,
+                  "realmsInfo": {
+                    "inRealmsPlus": false
+                  },
+                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "virtualCurrencyType": "Minecoin"
+                },
+                "pieceType": "persona_capes",
+                "rarity": "common",
+                "ownership": "Purchased",
+                "packType": "Persona",
+                "packIdentity": [
+                  {
+                    "type": "persona_piece",
+                    "uuid": "266c496d-189d-4476-9fb0-55c45f9de7ba",
+                    "version": "1.0.0"
+                  }
+                ],
+                "startDate": "2025-10-25T12:00:00Z",
+                "namedLinksToInfoMap": {
+                  "dr.persona_creator_page": {
+                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
+                    "linkType": "external",
+                    "displayType": "store_layout.character_creator_screen",
+                    "navigateInPlace": false
+                  }
+                }
+              },
+              {
+                "id": "dbfab819-3a56-4ee4-8688-6a3e5065136f",
+                "contentType": "PersonaDurable",
+                "title": "Count Dooku Cape",
+                "creatorName": "Custom Cosmetics",
+                "thumbnail": {
+                  "tag": "Thumbnail",
+                  "type": "Thumbnail",
+                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/CountDookuCape.png",
+                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/CountDookuCape.png"
+                },
+                "price": {
+                  "listPrice": 0,
+                  "realmsInfo": {
+                    "inRealmsPlus": false
+                  },
+                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "virtualCurrencyType": "Minecoin"
+                },
+                "pieceType": "persona_capes",
+                "rarity": "common",
+                "ownership": "Purchased",
+                "packType": "Persona",
+                "packIdentity": [
+                  {
+                    "type": "persona_piece",
+                    "uuid": "f5248800-5ab2-4a62-b75d-11a0d5418302",
+                    "version": "1.0.0"
+                  }
+                ],
+                "startDate": "2025-10-25T12:00:00Z",
+                "namedLinksToInfoMap": {
+                  "dr.persona_creator_page": {
+                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
+                    "linkType": "external",
+                    "displayType": "store_layout.character_creator_screen",
+                    "navigateInPlace": false
+                  }
+                }
+              },
+              {
+                "id": "75d5497d-4ab9-4e43-924e-108500285082",
+                "contentType": "PersonaDurable",
+                "title": "GeneralGrievous Cape",
+                "creatorName": "Custom Cosmetics",
+                "thumbnail": {
+                  "tag": "Thumbnail",
+                  "type": "Thumbnail",
+                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/GeneralGrievousCape.png",
+                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/GeneralGrievousCape.png"
+                },
+                "price": {
+                  "listPrice": 0,
+                  "realmsInfo": {
+                    "inRealmsPlus": false
+                  },
+                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "virtualCurrencyType": "Minecoin"
+                },
+                "pieceType": "persona_capes",
+                "rarity": "common",
+                "ownership": "Purchased",
+                "packType": "Persona",
+                "packIdentity": [
+                  {
+                    "type": "persona_piece",
+                    "uuid": "c0970fd8-575e-4e11-831e-6ee9dc466752",
+                    "version": "1.0.0"
+                  }
+                ],
+                "startDate": "2025-10-25T12:00:00Z",
+                "namedLinksToInfoMap": {
+                  "dr.persona_creator_page": {
+                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
+                    "linkType": "external",
+                    "displayType": "store_layout.character_creator_screen",
+                    "navigateInPlace": false
+                  }
+                }
+              },
+              {
+                "id": "e9638da5-88db-4a0d-b682-912742e43895",
+                "contentType": "PersonaDurable",
+                "title": "MasAmedda Cape",
+                "creatorName": "Custom Cosmetics",
+                "thumbnail": {
+                  "tag": "Thumbnail",
+                  "type": "Thumbnail",
+                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/MasAmeddaCape.png",
+                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/MasAmeddaCape.png"
+                },
+                "price": {
+                  "listPrice": 0,
+                  "realmsInfo": {
+                    "inRealmsPlus": false
+                  },
+                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "virtualCurrencyType": "Minecoin"
+                },
+                "pieceType": "persona_capes",
+                "rarity": "common",
+                "ownership": "Purchased",
+                "packType": "Persona",
+                "packIdentity": [
+                  {
+                    "type": "persona_piece",
+                    "uuid": "b58039c5-9589-4b3c-a7f1-71ec09e8e28e",
+                    "version": "1.0.0"
+                  }
+                ],
+                "startDate": "2025-10-25T12:00:00Z",
+                "namedLinksToInfoMap": {
+                  "dr.persona_creator_page": {
+                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
+                    "linkType": "external",
+                    "displayType": "store_layout.character_creator_screen",
+                    "navigateInPlace": false
+                  }
+                }
+              },
+              {
+                "id": "2f4020a5-027f-4680-838c-0439bcecee90",
+                "contentType": "PersonaDurable",
+                "title": "PadmeAmidala Cape",
+                "creatorName": "Custom Cosmetics",
+                "thumbnail": {
+                  "tag": "Thumbnail",
+                  "type": "Thumbnail",
+                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/PadmeAmidalaCape.png",
+                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/PadmeAmidalaCape.png"
+                },
+                "price": {
+                  "listPrice": 0,
+                  "realmsInfo": {
+                    "inRealmsPlus": false
+                  },
+                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "virtualCurrencyType": "Minecoin"
+                },
+                "pieceType": "persona_capes",
+                "rarity": "common",
+                "ownership": "Purchased",
+                "packType": "Persona",
+                "packIdentity": [
+                  {
+                    "type": "persona_piece",
+                    "uuid": "8964afa2-0f6d-43e5-b570-2ce39189f159",
+                    "version": "1.0.0"
+                  }
+                ],
+                "startDate": "2025-10-25T12:00:00Z",
+                "namedLinksToInfoMap": {
+                  "dr.persona_creator_page": {
+                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
+                    "linkType": "external",
+                    "displayType": "store_layout.character_creator_screen",
+                    "navigateInPlace": false
+                  }
+                }
+              },
+              {
+                "id": "49ced7b9-c18e-46e0-a955-fe9d521783b8",
+                "contentType": "PersonaDurable",
+                "title": "Senator Palpatine Cape",
+                "creatorName": "Custom Cosmetics",
+                "thumbnail": {
+                  "tag": "Thumbnail",
+                  "type": "Thumbnail",
+                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/SenatorPalpatineCape.png",
+                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/SenatorPalpatineCape.png"
+                },
+                "price": {
+                  "listPrice": 0,
+                  "realmsInfo": {
+                    "inRealmsPlus": false
+                  },
+                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "virtualCurrencyType": "Minecoin"
+                },
+                "pieceType": "persona_capes",
+                "rarity": "common",
+                "ownership": "Purchased",
+                "packType": "Persona",
+                "packIdentity": [
+                  {
+                    "type": "persona_piece",
+                    "uuid": "08b1a220-1906-44eb-8627-0d67fc785264",
+                    "version": "1.0.0"
+                  }
+                ],
+                "startDate": "2025-10-25T12:00:00Z",
+                "namedLinksToInfoMap": {
+                  "dr.persona_creator_page": {
+                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
+                    "linkType": "external",
+                    "displayType": "store_layout.character_creator_screen",
+                    "navigateInPlace": false
+                  }
+                }
+              },
+              {
+                "id": "670f3827-b260-47a7-96e5-96b1fe02ce77",
+                "contentType": "PersonaDurable",
+                "title": "Poggle The Lesser Wings Cape",
+                "creatorName": "Custom Cosmetics",
+                "thumbnail": {
+                  "tag": "Thumbnail",
+                  "type": "Thumbnail",
+                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/PoggleTheLesserWings.png",
+                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/PoggleTheLesserWings.png"
+                },
+                "price": {
+                  "listPrice": 0,
+                  "realmsInfo": {
+                    "inRealmsPlus": false
+                  },
+                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "virtualCurrencyType": "Minecoin"
+                },
+                "pieceType": "persona_capes",
+                "rarity": "common",
+                "ownership": "Purchased",
+                "packType": "Persona",
+                "packIdentity": [
+                  {
+                    "type": "persona_piece",
+                    "uuid": "656e8b58-d5f1-41be-93c4-63d994ad02ef",
+                    "version": "1.0.0"
+                  }
+                ],
+                "startDate": "2025-10-25T12:00:00Z",
+                "namedLinksToInfoMap": {
+                  "dr.persona_creator_page": {
+                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
+                    "linkType": "external",
+                    "displayType": "store_layout.character_creator_screen",
+                    "navigateInPlace": false
+                  }
+                }
+              },
+              {
+                "id": "12fba8b3-ed4d-4e91-9eea-56d3e5f35cfe",
+                "contentType": "PersonaDurable",
+                "title": "UnusedWings Cape",
+                "creatorName": "Custom Cosmetics",
+                "thumbnail": {
+                  "tag": "Thumbnail",
+                  "type": "Thumbnail",
+                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/UnusedWings.png",
+                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/UnusedWings.png"
+                },
+                "price": {
+                  "listPrice": 0,
+                  "realmsInfo": {
+                    "inRealmsPlus": false
+                  },
+                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "virtualCurrencyType": "Minecoin"
+                },
+                "pieceType": "persona_capes",
+                "rarity": "common",
+                "ownership": "Purchased",
+                "packType": "Persona",
+                "packIdentity": [
+                  {
+                    "type": "persona_piece",
+                    "uuid": "df497cd9-4537-42b2-bcc3-26a79246b972",
+                    "version": "1.0.0"
+                  }
+                ],
+                "startDate": "2025-10-25T12:00:00Z",
+                "namedLinksToInfoMap": {
+                  "dr.persona_creator_page": {
+                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
+                    "linkType": "external",
+                    "displayType": "store_layout.character_creator_screen",
+                    "navigateInPlace": false
+                  }
+                }
+              },
+              {
+                "id": "f3a358d0-d3d8-42b2-b01b-47aa2533754c",
+                "contentType": "PersonaDurable",
+                "title": "SherriAndTerriHair Cape",
+                "creatorName": "Custom Cosmetics",
+                "thumbnail": {
+                  "tag": "Thumbnail",
+                  "type": "Thumbnail",
+                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/SherriAndTerriHair.png",
+                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/SherriAndTerriHair.png"
+                },
+                "price": {
+                  "listPrice": 0,
+                  "realmsInfo": {
+                    "inRealmsPlus": false
+                  },
+                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "virtualCurrencyType": "Minecoin"
+                },
+                "pieceType": "persona_capes",
+                "rarity": "common",
+                "ownership": "Purchased",
+                "packType": "Persona",
+                "packIdentity": [
+                  {
+                    "type": "persona_piece",
+                    "uuid": "27656373-793b-4ae9-97ab-279686f319b8",
                     "version": "1.0.0"
                   }
                 ],
