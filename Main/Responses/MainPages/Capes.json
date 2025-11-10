@@ -22797,7 +22797,7 @@
         "components": [
           {
             "text": {
-              "value": "Skin Pack Capes (12)",
+              "value": "Skin Pack Capes (86)",
               "style": {
                 "highlightColor": [],
                 "alignment": "Left",
@@ -22821,7 +22821,7 @@
                 "id": "09f9b23e-8d9c-4ff5-8c11-9c5d3f405df0",
                 "contentType": "PersonaDurable",
                 "title": "Dragon Wings Cape",
-                "creatorName": "Custom Cosmetics",
+                "creatorName": "1st Birthday Skin Pack",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -22850,9 +22850,9 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
+                    "linksTo": "ItemDetail_8e78a44d-0c1f-4ce2-826b-8bbc555012de",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false
                   }
                 }
@@ -22860,8 +22860,8 @@
               {
                 "id": "630b51f3-19ea-46cd-9b8b-6c9e69457ccc",
                 "contentType": "PersonaDurable",
-                "title": "RedRobedFigure Cape",
-                "creatorName": "Custom Cosmetics",
+                "title": "Red Robed Figure Cape",
+                "creatorName": "2nd Birthday Skin Pack - 2015",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -22890,9 +22890,9 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
+                    "linksTo": "ItemDetail_770196c2-718f-43ef-94d6-8e53a7b5b0af",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false
                   }
                 }
@@ -22900,8 +22900,8 @@
               {
                 "id": "df15593e-30c2-470f-8559-afc6aebd3dd0",
                 "contentType": "PersonaDurable",
-                "title": "WhiteRobedFigure Cape",
-                "creatorName": "Custom Cosmetics",
+                "title": "White Robed Figure Cape",
+                "creatorName": "2nd Birthday Skin Pack - 2015",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -22930,9 +22930,9 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
+                    "linksTo": "ItemDetail_770196c2-718f-43ef-94d6-8e53a7b5b0af",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false
                   }
                 }
@@ -22941,7 +22941,7 @@
                 "id": "b4a07965-1cb3-48b3-930a-2f03579fef4a",
                 "contentType": "PersonaDurable",
                 "title": "Jens Hair Cape",
-                "creatorName": "Custom Cosmetics",
+                "creatorName": "3rd Birthday Skin Pack",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -22970,9 +22970,9 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
+                    "linksTo": "ItemDetail_603d6be1-7745-4ad8-8af3-908ad017500f",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false
                   }
                 }
@@ -22981,7 +22981,7 @@
                 "id": "e02b1b6b-4474-4ce5-966b-a90569adb87b",
                 "contentType": "PersonaDurable",
                 "title": "Huntress Wizard Cape",
-                "creatorName": "Custom Cosmetics",
+                "creatorName": "Adventure Time Mash-up",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -23010,9 +23010,9 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
+                    "linksTo": "ItemDetail_395deae8-dbe5-41da-b6cd-11657ba639c0",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false
                   }
                 }
@@ -23050,9 +23050,9 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
+                    "linksTo": "ItemDetail_770196c2-718f-43ef-94d6-8e53a7b5b0af",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false
                   }
                 }
@@ -23090,9 +23090,9 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
+                    "linksTo": "ItemDetail_770196c2-718f-43ef-94d6-8e53a7b5b0af",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false
                   }
                 }
@@ -23130,9 +23130,9 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
+                    "linksTo": "ItemDetail_770196c2-718f-43ef-94d6-8e53a7b5b0af",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false
                   }
                 }
@@ -23170,9 +23170,9 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
+                    "linksTo": "ItemDetail_770196c2-718f-43ef-94d6-8e53a7b5b0af",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false
                   }
                 }
@@ -23210,9 +23210,9 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
+                    "linksTo": "ItemDetail_770196c2-718f-43ef-94d6-8e53a7b5b0af",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false
                   }
                 }
@@ -23250,9 +23250,9 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
+                    "linksTo": "ItemDetail_770196c2-718f-43ef-94d6-8e53a7b5b0af",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false
                   }
                 }
@@ -23290,9 +23290,9 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
+                    "linksTo": "ItemDetail_770196c2-718f-43ef-94d6-8e53a7b5b0af",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false
                   }
                 }
@@ -23330,9 +23330,9 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
+                    "linksTo": "ItemDetail_770196c2-718f-43ef-94d6-8e53a7b5b0af",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false
                   }
                 }
@@ -23341,7 +23341,7 @@
                 "id": "5545dbaa-d97f-44a6-8299-53159197b4c3",
                 "contentType": "PersonaDurable",
                 "title": "Apollo Harp Cape",
-                "creatorName": "Custom Cosmetics",
+                "creatorName": "Greek Mythology Mash-up",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -23370,9 +23370,9 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
+                    "linksTo": "ItemDetail_32c1ef67-3cb2-4094-bd0d-92eb55b5ad75",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false
                   }
                 }
@@ -23381,7 +23381,7 @@
                 "id": "b5fd0669-e5da-4f7b-8344-4d2f09ed08fc",
                 "contentType": "PersonaDurable",
                 "title": "Artemis Bow Cape",
-                "creatorName": "Custom Cosmetics",
+                "creatorName": "Greek Mythology Mash-up",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -23410,9 +23410,9 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
+                    "linksTo": "ItemDetail_32c1ef67-3cb2-4094-bd0d-92eb55b5ad75",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false
                   }
                 }
@@ -23421,7 +23421,7 @@
                 "id": "fc4da888-ca7d-468d-8ba8-7224b7bb40dc",
                 "contentType": "PersonaDurable",
                 "title": "Atlanta Hair Cape",
-                "creatorName": "Custom Cosmetics",
+                "creatorName": "Greek Mythology Mash-up",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -23450,9 +23450,9 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
+                    "linksTo": "ItemDetail_32c1ef67-3cb2-4094-bd0d-92eb55b5ad75",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false
                   }
                 }
@@ -23461,7 +23461,7 @@
                 "id": "16a1b29c-736e-4f06-b343-adcfa5e1905f",
                 "contentType": "PersonaDurable",
                 "title": "Athena Shield Cape",
-                "creatorName": "Custom Cosmetics",
+                "creatorName": "Greek Mythology Mash-up",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -23490,9 +23490,9 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
+                    "linksTo": "ItemDetail_32c1ef67-3cb2-4094-bd0d-92eb55b5ad75",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false
                   }
                 }
@@ -23501,7 +23501,7 @@
                 "id": "9ba0258f-defe-46e4-90d9-5bc71f851d0f",
                 "contentType": "PersonaDurable",
                 "title": "Cadmus Cape",
-                "creatorName": "Custom Cosmetics",
+                "creatorName": "Greek Mythology Mash-up",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -23530,9 +23530,9 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
+                    "linksTo": "ItemDetail_32c1ef67-3cb2-4094-bd0d-92eb55b5ad75",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false
                   }
                 }
@@ -23541,7 +23541,7 @@
                 "id": "0ed6237e-b4ee-4812-8aa8-1dda9243cca9",
                 "contentType": "PersonaDurable",
                 "title": "Dryad Wings Cape",
-                "creatorName": "Custom Cosmetics",
+                "creatorName": "Greek Mythology Mash-up",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -23570,9 +23570,9 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
+                    "linksTo": "ItemDetail_32c1ef67-3cb2-4094-bd0d-92eb55b5ad75",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false
                   }
                 }
@@ -23581,7 +23581,7 @@
                 "id": "eb84b79b-5eb2-495f-9c29-a2a41c782280",
                 "contentType": "PersonaDurable",
                 "title": "Erinyes Wings Cape",
-                "creatorName": "Custom Cosmetics",
+                "creatorName": "Greek Mythology Mash-up",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -23610,9 +23610,9 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
+                    "linksTo": "ItemDetail_32c1ef67-3cb2-4094-bd0d-92eb55b5ad75",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false
                   }
                 }
@@ -23621,7 +23621,7 @@
                 "id": "b178525f-a466-43d4-b241-a8611bc7e66e",
                 "contentType": "PersonaDurable",
                 "title": "Hades Cape",
-                "creatorName": "Custom Cosmetics",
+                "creatorName": "Greek Mythology Mash-up",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -23650,9 +23650,9 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
+                    "linksTo": "ItemDetail_32c1ef67-3cb2-4094-bd0d-92eb55b5ad75",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false
                   }
                 }
@@ -23661,7 +23661,7 @@
                 "id": "a0ca27b0-3e20-4740-b42b-79354f0b4158",
                 "contentType": "PersonaDurable",
                 "title": "Hephaestus Hammer Cape",
-                "creatorName": "Custom Cosmetics",
+                "creatorName": "Greek Mythology Mash-up",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -23690,9 +23690,9 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
+                    "linksTo": "ItemDetail_32c1ef67-3cb2-4094-bd0d-92eb55b5ad75",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false
                   }
                 }
@@ -23701,7 +23701,7 @@
                 "id": "a6657526-6dba-494d-b308-5e5cca8ad414",
                 "contentType": "PersonaDurable",
                 "title": "Heracles Cape",
-                "creatorName": "Custom Cosmetics",
+                "creatorName": "Greek Mythology Mash-up",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -23730,9 +23730,9 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
+                    "linksTo": "ItemDetail_32c1ef67-3cb2-4094-bd0d-92eb55b5ad75",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false
                   }
                 }
@@ -23741,7 +23741,7 @@
                 "id": "cd3790a2-2497-41d3-93f2-15cedb4fc4f0",
                 "contentType": "PersonaDurable",
                 "title": "Perseus Cape",
-                "creatorName": "Custom Cosmetics",
+                "creatorName": "Greek Mythology Mash-up",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -23770,9 +23770,9 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
+                    "linksTo": "ItemDetail_32c1ef67-3cb2-4094-bd0d-92eb55b5ad75",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false
                   }
                 }
@@ -23781,7 +23781,7 @@
                 "id": "69022d1e-3714-4801-b601-96c688f8c465",
                 "contentType": "PersonaDurable",
                 "title": "Poseidon Trident Cape",
-                "creatorName": "Custom Cosmetics",
+                "creatorName": "Greek Mythology Mash-up",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -23810,9 +23810,9 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
+                    "linksTo": "ItemDetail_32c1ef67-3cb2-4094-bd0d-92eb55b5ad75",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false
                   }
                 }
@@ -23821,7 +23821,7 @@
                 "id": "4bc567ba-76ec-4879-9c0c-981b63e035a6",
                 "contentType": "PersonaDurable",
                 "title": "Prometheus Cape",
-                "creatorName": "Custom Cosmetics",
+                "creatorName": "Greek Mythology Mash-up",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -23850,9 +23850,9 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
+                    "linksTo": "ItemDetail_32c1ef67-3cb2-4094-bd0d-92eb55b5ad75",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false
                   }
                 }
@@ -23861,7 +23861,7 @@
                 "id": "e50c0b8f-c9a7-409e-8308-050e01ecf6a3",
                 "contentType": "PersonaDurable",
                 "title": "Spartoi Shield Cape",
-                "creatorName": "Custom Cosmetics",
+                "creatorName": "Greek Mythology Mash-up",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -23890,9 +23890,9 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
+                    "linksTo": "ItemDetail_32c1ef67-3cb2-4094-bd0d-92eb55b5ad75",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false
                   }
                 }
@@ -23901,7 +23901,7 @@
                 "id": "af5dff18-9079-4112-aa0f-c4a8d7eee407",
                 "contentType": "PersonaDurable",
                 "title": "Zeus Lightning Bolt Cape",
-                "creatorName": "Custom Cosmetics",
+                "creatorName": "Greek Mythology Mash-up",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -23930,9 +23930,9 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
+                    "linksTo": "ItemDetail_32c1ef67-3cb2-4094-bd0d-92eb55b5ad75",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false
                   }
                 }
@@ -23941,7 +23941,7 @@
                 "id": "1b87ade8-89c1-4a31-b8c5-ffefec108ef1",
                 "contentType": "PersonaDurable",
                 "title": "Unused Flame Cape",
-                "creatorName": "Custom Cosmetics",
+                "creatorName": "Greek Mythology Mash-up",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -23970,9 +23970,9 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
+                    "linksTo": "ItemDetail_32c1ef67-3cb2-4094-bd0d-92eb55b5ad75",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false
                   }
                 }
@@ -23981,7 +23981,7 @@
                 "id": "a3532b58-84d4-46f6-bbdc-d69b33f33215",
                 "contentType": "PersonaDurable",
                 "title": "Agronaut2 Wings Cape",
-                "creatorName": "Custom Cosmetics",
+                "creatorName": "Greek Mythology Mash-up",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -24010,9 +24010,9 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
+                    "linksTo": "ItemDetail_32c1ef67-3cb2-4094-bd0d-92eb55b5ad75",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false
                   }
                 }
@@ -24050,9 +24050,9 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
+                    "linksTo": "ItemDetail_770196c2-718f-43ef-94d6-8e53a7b5b0af",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false
                   }
                 }
@@ -24090,9 +24090,9 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
+                    "linksTo": "ItemDetail_770196c2-718f-43ef-94d6-8e53a7b5b0af",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false
                   }
                 }
@@ -24101,7 +24101,7 @@
                 "id": "ce68e327-e923-436c-9082-0002e35dec58",
                 "contentType": "PersonaDurable",
                 "title": "Bride Cape",
-                "creatorName": "Custom Cosmetics",
+                "creatorName": "Halloween Mash-up",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -24130,9 +24130,9 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
+                    "linksTo": "ItemDetail_42df0f5d-7433-4253-91cf-766e83298afd",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false
                   }
                 }
@@ -24141,7 +24141,7 @@
                 "id": "7240188f-2a70-47f5-9a90-cf59979068f8",
                 "contentType": "PersonaDurable",
                 "title": "Devil Cape",
-                "creatorName": "Custom Cosmetics",
+                "creatorName": "Halloween Mash-up",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -24170,9 +24170,9 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
+                    "linksTo": "ItemDetail_42df0f5d-7433-4253-91cf-766e83298afd",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false
                   }
                 }
@@ -24181,7 +24181,7 @@
                 "id": "e6856cbc-8e90-4dd2-b923-7731a42b20a5",
                 "contentType": "PersonaDurable",
                 "title": "Dracula Cape",
-                "creatorName": "Custom Cosmetics",
+                "creatorName": "Halloween Mash-up",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -24210,9 +24210,9 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
+                    "linksTo": "ItemDetail_42df0f5d-7433-4253-91cf-766e83298afd",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false
                   }
                 }
@@ -24221,7 +24221,7 @@
                 "id": "24b6e7e9-3d7b-4b11-9b16-c31ddcc86c6d",
                 "contentType": "PersonaDurable",
                 "title": "Evil Wizard Cape",
-                "creatorName": "Custom Cosmetics",
+                "creatorName": "Halloween Mash-up",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -24250,9 +24250,9 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
+                    "linksTo": "ItemDetail_42df0f5d-7433-4253-91cf-766e83298afd",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false
                   }
                 }
@@ -24261,7 +24261,7 @@
                 "id": "2cf7058d-7983-4391-b2d4-19e4bbb0a193",
                 "contentType": "PersonaDurable",
                 "title": "Maman Brigitte Cape",
-                "creatorName": "Custom Cosmetics",
+                "creatorName": "Halloween Mash-up",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -24290,9 +24290,9 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
+                    "linksTo": "ItemDetail_42df0f5d-7433-4253-91cf-766e83298afd",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false
                   }
                 }
@@ -24301,7 +24301,7 @@
                 "id": "758f609a-08d7-475b-a51b-8e5969a551a1",
                 "contentType": "PersonaDurable",
                 "title": "Grim Reaper Cape",
-                "creatorName": "Custom Cosmetics",
+                "creatorName": "Halloween Mash-up",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -24330,9 +24330,9 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
+                    "linksTo": "ItemDetail_42df0f5d-7433-4253-91cf-766e83298afd",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false
                   }
                 }
@@ -24341,7 +24341,7 @@
                 "id": "d6a699e7-34cc-420b-90d6-b91b1982a1ec",
                 "contentType": "PersonaDurable",
                 "title": "Wicked Witch Cape",
-                "creatorName": "Custom Cosmetics",
+                "creatorName": "Halloween Mash-up",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -24370,9 +24370,9 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
+                    "linksTo": "ItemDetail_42df0f5d-7433-4253-91cf-766e83298afd",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false
                   }
                 }
@@ -24410,9 +24410,9 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
+                    "linksTo": "ItemDetail_770196c2-718f-43ef-94d6-8e53a7b5b0af",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false
                   }
                 }
@@ -24421,7 +24421,7 @@
                 "id": "378ea401-3dc4-43a6-878f-bd6f7d7745d2",
                 "contentType": "PersonaDurable",
                 "title": "Bride Sackgirl Cape",
-                "creatorName": "Custom Cosmetics",
+                "creatorName": "LittleBigPlanet™ Mash-up",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -24450,9 +24450,9 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
+                    "linksTo": "ItemDetail_4d7590d6-8f7f-4f53-989a-2df76b6b015b",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false
                   }
                 }
@@ -24461,7 +24461,7 @@
                 "id": "398dad88-b181-4a5f-b3d4-9cced549eaa5",
                 "contentType": "PersonaDurable",
                 "title": "Dragon Sackboy Cape",
-                "creatorName": "Custom Cosmetics",
+                "creatorName": "LittleBigPlanet™ Mash-up",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -24490,9 +24490,9 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
+                    "linksTo": "ItemDetail_4d7590d6-8f7f-4f53-989a-2df76b6b015b",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false
                   }
                 }
@@ -24501,7 +24501,7 @@
                 "id": "34213a3e-5747-4d86-a8cd-bb131dbc0bf6",
                 "contentType": "PersonaDurable",
                 "title": "Fairy Sackgirl Wings Cape",
-                "creatorName": "Custom Cosmetics",
+                "creatorName": "LittleBigPlanet™ Mash-up",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -24530,9 +24530,9 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
+                    "linksTo": "ItemDetail_4d7590d6-8f7f-4f53-989a-2df76b6b015b",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false
                   }
                 }
@@ -24541,7 +24541,7 @@
                 "id": "87f6a791-179c-4849-aeab-fb8b370ce203",
                 "contentType": "PersonaDurable",
                 "title": "PurpleWings Cape",
-                "creatorName": "Custom Cosmetics",
+                "creatorName": "LittleBigPlanet™ Mash-up",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -24570,9 +24570,9 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
+                    "linksTo": "ItemDetail_4d7590d6-8f7f-4f53-989a-2df76b6b015b",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false
                   }
                 }
@@ -24581,7 +24581,7 @@
                 "id": "11e6b451-9601-4580-9c59-840def60f762",
                 "contentType": "PersonaDurable",
                 "title": "The Newton Cape",
-                "creatorName": "Custom Cosmetics",
+                "creatorName": "LittleBigPlanet™ Mash-up",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -24610,9 +24610,9 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
+                    "linksTo": "ItemDetail_4d7590d6-8f7f-4f53-989a-2df76b6b015b",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false
                   }
                 }
@@ -24650,9 +24650,9 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
+                    "linksTo": "ItemDetail_770196c2-718f-43ef-94d6-8e53a7b5b0af",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false
                   }
                 }
@@ -24690,9 +24690,9 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
+                    "linksTo": "ItemDetail_770196c2-718f-43ef-94d6-8e53a7b5b0af",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false
                   }
                 }
@@ -24730,9 +24730,9 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
+                    "linksTo": "ItemDetail_770196c2-718f-43ef-94d6-8e53a7b5b0af",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false
                   }
                 }
@@ -24770,9 +24770,9 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
+                    "linksTo": "ItemDetail_770196c2-718f-43ef-94d6-8e53a7b5b0af",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false
                   }
                 }
@@ -24810,9 +24810,9 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
+                    "linksTo": "ItemDetail_770196c2-718f-43ef-94d6-8e53a7b5b0af",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false
                   }
                 }
@@ -24850,9 +24850,9 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
+                    "linksTo": "ItemDetail_770196c2-718f-43ef-94d6-8e53a7b5b0af",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false
                   }
                 }
@@ -24890,9 +24890,9 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
+                    "linksTo": "ItemDetail_770196c2-718f-43ef-94d6-8e53a7b5b0af",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false
                   }
                 }
@@ -24930,9 +24930,9 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
+                    "linksTo": "ItemDetail_770196c2-718f-43ef-94d6-8e53a7b5b0af",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false
                   }
                 }
@@ -24970,9 +24970,9 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
+                    "linksTo": "ItemDetail_770196c2-718f-43ef-94d6-8e53a7b5b0af",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false
                   }
                 }
@@ -25010,9 +25010,9 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
+                    "linksTo": "ItemDetail_770196c2-718f-43ef-94d6-8e53a7b5b0af",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false
                   }
                 }
@@ -25050,9 +25050,9 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
+                    "linksTo": "ItemDetail_770196c2-718f-43ef-94d6-8e53a7b5b0af",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false
                   }
                 }
@@ -25090,9 +25090,9 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
+                    "linksTo": "ItemDetail_770196c2-718f-43ef-94d6-8e53a7b5b0af",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false
                   }
                 }
@@ -25130,9 +25130,9 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
+                    "linksTo": "ItemDetail_770196c2-718f-43ef-94d6-8e53a7b5b0af",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false
                   }
                 }
@@ -25170,9 +25170,9 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
+                    "linksTo": "ItemDetail_770196c2-718f-43ef-94d6-8e53a7b5b0af",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false
                   }
                 }
@@ -25210,9 +25210,9 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
+                    "linksTo": "ItemDetail_770196c2-718f-43ef-94d6-8e53a7b5b0af",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false
                   }
                 }
@@ -25250,9 +25250,9 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
+                    "linksTo": "ItemDetail_770196c2-718f-43ef-94d6-8e53a7b5b0af",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false
                   }
                 }
@@ -25290,9 +25290,9 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
+                    "linksTo": "ItemDetail_770196c2-718f-43ef-94d6-8e53a7b5b0af",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false
                   }
                 }
@@ -25330,9 +25330,9 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
+                    "linksTo": "ItemDetail_770196c2-718f-43ef-94d6-8e53a7b5b0af",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false
                   }
                 }
@@ -25370,9 +25370,9 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
+                    "linksTo": "ItemDetail_770196c2-718f-43ef-94d6-8e53a7b5b0af",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false
                   }
                 }
@@ -25410,9 +25410,9 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
+                    "linksTo": "ItemDetail_770196c2-718f-43ef-94d6-8e53a7b5b0af",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false
                   }
                 }
@@ -25450,9 +25450,9 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
+                    "linksTo": "ItemDetail_770196c2-718f-43ef-94d6-8e53a7b5b0af",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false
                   }
                 }
@@ -25490,9 +25490,9 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
+                    "linksTo": "ItemDetail_770196c2-718f-43ef-94d6-8e53a7b5b0af",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false
                   }
                 }
@@ -25530,9 +25530,9 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
+                    "linksTo": "ItemDetail_770196c2-718f-43ef-94d6-8e53a7b5b0af",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false
                   }
                 }
@@ -25570,9 +25570,9 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
+                    "linksTo": "ItemDetail_770196c2-718f-43ef-94d6-8e53a7b5b0af",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false
                   }
                 }
@@ -25610,9 +25610,9 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
+                    "linksTo": "ItemDetail_770196c2-718f-43ef-94d6-8e53a7b5b0af",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false
                   }
                 }
@@ -25650,9 +25650,9 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
+                    "linksTo": "ItemDetail_770196c2-718f-43ef-94d6-8e53a7b5b0af",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false
                   }
                 }
@@ -25690,9 +25690,9 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
+                    "linksTo": "ItemDetail_770196c2-718f-43ef-94d6-8e53a7b5b0af",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false
                   }
                 }
@@ -25730,9 +25730,9 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
+                    "linksTo": "ItemDetail_770196c2-718f-43ef-94d6-8e53a7b5b0af",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false
                   }
                 }
@@ -25770,9 +25770,9 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
+                    "linksTo": "ItemDetail_770196c2-718f-43ef-94d6-8e53a7b5b0af",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false
                   }
                 }
@@ -25810,9 +25810,9 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
+                    "linksTo": "ItemDetail_770196c2-718f-43ef-94d6-8e53a7b5b0af",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false
                   }
                 }
@@ -25850,9 +25850,9 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
+                    "linksTo": "ItemDetail_770196c2-718f-43ef-94d6-8e53a7b5b0af",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false
                   }
                 }
@@ -25890,9 +25890,9 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
+                    "linksTo": "ItemDetail_770196c2-718f-43ef-94d6-8e53a7b5b0af",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false
                   }
                 }
@@ -25930,9 +25930,9 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
+                    "linksTo": "ItemDetail_770196c2-718f-43ef-94d6-8e53a7b5b0af",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false
                   }
                 }
@@ -25970,9 +25970,9 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
+                    "linksTo": "ItemDetail_770196c2-718f-43ef-94d6-8e53a7b5b0af",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false
                   }
                 }
@@ -26010,9 +26010,9 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
+                    "linksTo": "ItemDetail_770196c2-718f-43ef-94d6-8e53a7b5b0af",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false
                   }
                 }
@@ -26050,9 +26050,9 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
+                    "linksTo": "ItemDetail_770196c2-718f-43ef-94d6-8e53a7b5b0af",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false
                   }
                 }
@@ -26090,9 +26090,9 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
+                    "linksTo": "ItemDetail_770196c2-718f-43ef-94d6-8e53a7b5b0af",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false
                   }
                 }
@@ -26130,9 +26130,9 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
+                    "linksTo": "ItemDetail_770196c2-718f-43ef-94d6-8e53a7b5b0af",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false
                   }
                 }
@@ -26170,9 +26170,9 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
+                    "linksTo": "ItemDetail_770196c2-718f-43ef-94d6-8e53a7b5b0af",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false
                   }
                 }
@@ -26210,9 +26210,9 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
+                    "linksTo": "ItemDetail_770196c2-718f-43ef-94d6-8e53a7b5b0af",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false
                   }
                 }

@@ -1123,7 +1123,8 @@
     
     <ResponseRule Match="Persona Screens below" Action="*exit" Enabled="false" />
     <ResponseRule Match="EXACT:https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/DressingRoom_PersonaProfile" Action="C:\Users\YOURNAMEGOESHERE\Documents\GitHub\Backend\Main\Responses\MainPages\PersonaProfile.json" Enabled="true" />
-    <ResponseRule Match="EXACT:https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/MultiItemPage_PersonaSkinSelector" Action="C:\Users\YOURNAMEGOESHERE\Documents\GitHub\Backend\Main\Responses\MainPages\PersonaSkinSelector.json" Enabled="true" />
+    <ResponseRule Match="EXACT:https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/MultiItemPage_PersonaSkinSelector" Action="C:\Users\YOURNAMEGOESHERE\Documents\GitHub\Backend\Main\Responses\MainPages\MultiItemPage_PersonaSkinSelector.json" Enabled="true" />
+    <ResponseRule Match="EXACT:https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/MultiItemPage_SkinsRoot" Action="C:\Users\YOURNAMEGOESHERE\Documents\GitHub\Backend\Main\Responses\MainPages\MultiItemPage_SkinsRoot.json" Enabled="true" />
     
     <ResponseRule Match="Other Pages below" Action="*exit" Enabled="false" />
     <ResponseRule Match="EXACT:https://messaging.mktpl.minecraft-services.net/api/v1.0/session/start" Action="C:\Users\YOURNAMEGOESHERE\Documents\GitHub\Backend\Main\Responses\MainPages\start.json" Enabled="true" />

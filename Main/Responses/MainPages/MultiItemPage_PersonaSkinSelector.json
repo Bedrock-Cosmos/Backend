@@ -128,6 +128,55 @@
         ]
       },
       {
+        "controlId": "NavButtonRow",
+        "components": [
+          {
+            "buttons": [
+              {
+                "buttonSizeIsFill": true,
+                "image": "textures/ui/sidebar_icons/marketplace",
+                "images": [],
+                "navButtonName": "dr.marketplace.get_more_skins",
+                "linksToInfo": {
+                  "linksTo": "MultiItemPage_SkinsRoot",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.store_data_driven_screen",
+                  "navigateInPlace": false
+                },
+                "defaultColor": [],
+                "interactColor": []
+              }
+            ],
+            "type": "navButtonListComp",
+            "$type": "NavButtonListComponent"
+          }
+        ]
+      },
+      {
+        "controlId": "VerticalLineDivider",
+        "components": [
+          {
+            "textureImage": {
+              "type": "Unknown",
+              "style": {
+                "highlightColor": [],
+                "alignment": "Left",
+                "textColor": [],
+                "font": "default",
+                "showBackground": false,
+                "showOutline": false,
+                "indent": 0.0,
+                "buttonWidth": 0.0,
+                "color": [0.70196, 0.8392, 0.8588, 0.2],
+                "offerControlIdType": "None"
+              }
+            },
+            "type": "textureComp",
+            "$type": "TextureComponent"
+          }
+        ]
+      },
+      {
         "controlId": "SkinPackList",
         "components": [
           {
@@ -1067,7 +1116,6 @@
     "itemsPerRow": 0,
     "screenshotHeightRatio": 0.0,
     "inventoryVersion": "1/Njky",
-    "userListsVersion": "dc1cc198-0b35-45a5-88cd-e1ac0986e766",
     "pageRefresh": false,
     "sidebarLayoutType": "Persona"
   }
