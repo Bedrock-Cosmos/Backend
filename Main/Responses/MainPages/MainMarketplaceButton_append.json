@@ -50,9 +50,9 @@
             "replacements": []
           },
           "creatorName": "Minecraft",
-          "linksTo": "MultiItemPage_94e1a1d2-2ef0-46b8-9ac7-b95e6ec1e924",
+          "linksTo": "MultiItemPage_BedrockCosmosMarketplaceCategoryPage",
           "linksToInfo": {
-            "linksTo": "MultiItemPage_94e1a1d2-2ef0-46b8-9ac7-b95e6ec1e920",
+            "linksTo": "MultiItemPage_BedrockCosmosMarketplaceCategoryPage",
             "linkType": "pageId",
             "displayType": "store_layout.store_data_driven_screen",
             "screenTitle": {
