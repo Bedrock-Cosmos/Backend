@@ -1,5 +1,0 @@
-{
-  "header": { "version": [1, 0, 0], "name": "Festive_SkinPack", "uuid": "d44ba892-7378-4fcd-a3f1-72de53675d24" },
-  "modules": [{ "version": [1, 0, 0], "type": "skin_pack", "uuid": "52de593b-29d0-479d-bfbf-8c9d8d2c5951" }],
-  "format_version": 1
-}
