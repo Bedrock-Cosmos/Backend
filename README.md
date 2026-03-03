@@ -1,5 +1,0 @@
-Use AutoResponderImport.farx
-
-minecraft://openStore/?showStoreOffer=
-
-2025-10-25T12:00:00Z
