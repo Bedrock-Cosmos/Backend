@@ -1,5 +1,10 @@
 # Daily User Stats
 
+## November 2026
+| Date       | Users |
+|------------|-------|
+| 2026-11-01 | 1 |
+
 ## October 2026
 | Date       | Users |
 |------------|-------|
